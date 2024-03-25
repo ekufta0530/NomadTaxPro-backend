@@ -1,0 +1,37 @@
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>NomadTaxPro</title>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, viewport-fit=cover"
+    />
+    {{!-- <link rel="stylesheet" href="styles/style.css" /> --}}
+  </head>
+  <body>
+        <div>
+
+    {{> header}}
+        <div style="display: flex;flex-direction: row;justify-content: center;align-items: center;flex-wrap: wrap;"  >
+      <div style="box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.16); padding: 2rem; border-radius: 10px;"  >
+        <p style="text-align: center; font-weight: 700; font-size: 24px; color: #2072f2;" >Email Verification</p>
+          <p style="margin-top: 20px;"  >
+        We got a signup request from this email, please click the link below to verify your email address!
+        </p>
+         <a
+         style="background-color: #f87171; border-radius: 10px; border: none; outline: 0; width: 150px; color: white; height: 32px; font-size: 16px; font-weight: 600; margin: 20px auto; display: block; text-align: center; line-height: 32px;;"
+        >
+          Verify Email
+        <a/>
+      <p  style="font-size: 14px;" >
+        This link is valid for an hour
+      </p>
+      <p  style="font-size: 14px;" >*If you did not attempt to register an account on our platform, please ignore this email, Thanks</p>
+    {{> footer}}
+      </div>
+    </div>
+
+    </div>
+  </body>
+</html>

@@ -25,6 +25,10 @@ const userSchema = mongoose.Schema(
     profileUrl: {
       type: String,
     },
+    loginAttempts: {
+      type: Number,
+      default: 0,
+    },
     citizenship: { type: String },
     greenCard: { type: Boolean, default: false },
     active: { type: Boolean },

@@ -23,6 +23,8 @@ export const authUser = asyncHandler(async (req, res) => {
       });
     }
     const token = generateToken(res, user._id);
+    user.loginAttempts = user.loginAttempts + 1;
+    await user.save();
     res.status(200).json({
       _id: user._id,
       firstName: user.firstName,
@@ -30,6 +32,7 @@ export const authUser = asyncHandler(async (req, res) => {
       email: user.email,
       token,
       profileUrl: user.profileUrl,
+      loginAttempts: user.loginAttempts,
     });
   } else {
     res.status(401);

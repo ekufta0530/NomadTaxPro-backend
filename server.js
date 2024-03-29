@@ -11,10 +11,10 @@ import { transporter } from "./utils/sendEmail.js";
 import fs from "fs";
 import path from "path";
 import hbs from "nodemailer-express-handlebars";
-import cookieParser from "cookie-parser";
 import { StayCountry } from "./models/countryModel.js";
 import cron from "node-cron";
 import { updateDaysCompletedForAllStays } from "./utils/schedular.js";
+import morgan from "morgan";
 
 // Connect to MongoDB
 connectDB();
@@ -23,7 +23,18 @@ connectDB();
 const port = 4000;
 const app = express();
 
-app.use(cookieParser());
+morgan.token("jsonData", (req, res) => {
+  return JSON.stringify(req.body);
+});
+
+const logMiddleware = (req, res, next) => {
+  if (req.originalUrl === "/api/country/request-info") {
+    morgan(":jsonData")(req, res, next);
+  } else {
+    next();
+  }
+};
+
 app.use(
   "*",
   cors({
@@ -39,7 +50,7 @@ app.use(express.urlencoded({ extended: true, limit: "10mb" }));
 // Routes
 app.use("/api/users", userRoutes);
 app.use("/api/aws", awsRoutes);
-app.use("/api/country", countryRoutes);
+app.use("/api/country", logMiddleware, countryRoutes);
 
 // Handlebars
 const headerSource = fs.readFileSync(

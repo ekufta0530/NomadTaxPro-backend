@@ -71,14 +71,41 @@ export const getFavoriteCountries = asyncHandler(async (req, res) => {
 /*-----------------------------------------------Stays--------------------------------------------------------*/
 
 export const addUpdateStay = asyncHandler(async (req, res) => {
-  const { countryId, dateFrom, dateTo, userId } = req.body;
+  const { countryId, dateFrom, dateTo, userId, edit } = req.body;
   const stayCountry = await StayCountry.findOne({ userId });
 
   if (stayCountry) {
+    const filteredStays = stayCountry.stays.filter(
+      (stay) => stay.countryId !== countryId
+    );
     const stayIndex = stayCountry.stays.findIndex(
       (stay) => stay.countryId === countryId
     );
+    const alreadyStays = edit ? filteredStays : stayCountry.stays;
     if (stayIndex !== -1) {
+      for (const stay of alreadyStays) {
+        const existingDateFrom = new Date(stay.dateFrom);
+        existingDateFrom.setHours(0, 0, 0, 0);
+        const existingDateTo = new Date(stay.dateTo);
+        existingDateTo.setHours(0, 0, 0, 0);
+        const newDateFrom = new Date(dateFrom);
+        newDateFrom.setHours(0, 0, 0, 0);
+        const newDateTo = new Date(dateTo);
+        newDateTo.setHours(0, 0, 0, 0);
+        if (
+          (newDateFrom >= existingDateFrom && newDateFrom < existingDateTo) ||
+          (newDateTo > existingDateFrom && newDateTo <= existingDateTo) ||
+          (newDateFrom <= existingDateFrom && newDateTo >= existingDateTo)
+        ) {
+          res.status(400).json({
+            message: `Stay overlapped!`,
+            countryId: stay.countryId,
+            dateFrom: stay.dateFrom,
+            dateTo: stay.dateTo,
+          });
+          return;
+        }
+      }
       stayCountry.stays[stayIndex].dateFrom = dateFrom;
       stayCountry.stays[stayIndex].dateTo = dateTo;
       const updatedStay = await stayCountry.save();
@@ -92,6 +119,30 @@ export const addUpdateStay = asyncHandler(async (req, res) => {
       return;
     } else {
       // Add new stay
+      for (const stay of stayCountry.stays) {
+        const existingDateFrom = new Date(stay.dateFrom);
+        existingDateFrom.setHours(0, 0, 0, 0);
+        const existingDateTo = new Date(stay.dateTo);
+        existingDateTo.setHours(0, 0, 0, 0);
+        const newDateFrom = new Date(dateFrom);
+        newDateFrom.setHours(0, 0, 0, 0);
+        const newDateTo = new Date(dateTo);
+        newDateTo.setHours(0, 0, 0, 0);
+        if (
+          (newDateFrom >= existingDateFrom && newDateFrom <= existingDateTo) ||
+          (newDateTo >= existingDateFrom && newDateTo <= existingDateTo) ||
+          (newDateFrom <= existingDateFrom && newDateTo >= existingDateTo)
+        ) {
+          res.status(400).json({
+            message: `Stay overlapped!`,
+            countryId: stay.countryId,
+            dateFrom: stay.dateFrom,
+            dateTo: stay.dateTo,
+          });
+          return;
+        }
+      }
+
       stayCountry.stays.push({ countryId, dateFrom, dateTo });
       const addedStay = await stayCountry.save();
       if (!addedStay) {
@@ -124,5 +175,21 @@ export const getStays = asyncHandler(async (req, res) => {
   } else {
     res.status(400);
     throw new Error("We could not find your stays!");
+  }
+});
+
+/*-----------------------------------------------Requested Country--------------------------------------------*/
+
+// Request country
+export const getRequestedCountry = asyncHandler(async (req, res) => {
+  const { country } = req.body;
+  if (country) {
+    res.status(200).json({
+      data: country,
+      message: `Your request for more information on ${country} has been received by our team. Stay tuned!`,
+    });
+  } else {
+    res.status(400);
+    throw new Error("Something went wrong, please try again later!");
   }
 });

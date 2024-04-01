@@ -84,7 +84,7 @@ app.use(express.static(path.join(__dirname, "public")));
 // Schedule cron job
 cron.schedule("0 * * * *", async () => {
   try {
-    const allStayCountries = await StayCountry.find();
+    const allStayCountries = await StayCountry.find({});
     for (const stayCountry of allStayCountries) {
       await updateDaysCompletedForAllStays(stayCountry);
     }

@@ -82,13 +82,18 @@ app.set("views", "./views");
 app.use(express.static(path.join(__dirname, "public")));
 
 // Schedule cron job
-cron.schedule("0 * * * *", async () => {
+cron.schedule("* * * * *", async () => {
   try {
-    const allStayCountries = await StayCountry.find({});
-    for (const stayCountry of allStayCountries) {
-      await updateDaysCompletedForAllStays(stayCountry);
+    const allStayCountries = await StayCountry.find({}).populate("userId");
+    if(allStayCountries) {
+      for (const stayCountry of allStayCountries) {
+        await updateDaysCompletedForAllStays(
+          stayCountry,
+          stayCountry.userId.periodStartDate
+        );
+      }
+      console.log("Days completed updated successfully for all stays.");
     }
-    console.log("Days completed updated successfully for all stays.");
   } catch (error) {
     console.error("Error updating days completed:", error);
   }

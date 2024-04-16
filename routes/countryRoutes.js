@@ -7,6 +7,7 @@ import {
   addUpdateStay,
   getStays,
   getRequestedCountry,
+  deleteStay,
 } from "../controllers/countryController.js";
 
 const router = express.Router();
@@ -17,5 +18,6 @@ router.post("/favorite/get", protect, getFavoriteCountries);
 router.post("/stay/add-update", protect, addUpdateStay);
 router.post("/stay/get", protect, getStays);
 router.post("/request-info", protect, getRequestedCountry);
+router.delete("/stay/delete", protect, deleteStay);
 
 export default router;

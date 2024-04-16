@@ -7,6 +7,8 @@ import jwt from "jsonwebtoken";
 import { api_host, base_url, email_address } from "../utils/secrets.js";
 import { jwt_secret } from "../utils/secrets.js";
 import { deleteS3File } from "../utils/aws.js";
+import { updateDaysCompletedForAllStays } from "../utils/schedular.js";
+import { StayCountry } from "../models/countryModel.js";
 
 // @desc Auth user/set token
 // router post /api/users/auth
@@ -33,6 +35,7 @@ export const authUser = asyncHandler(async (req, res) => {
       token,
       profileUrl: user.profileUrl,
       loginAttempts: user.loginAttempts,
+      periodStartDate: user.periodStartDate,
     });
   } else {
     res.status(401);
@@ -60,6 +63,7 @@ export const registerUser = asyncHandler(async (req, res) => {
     lastName,
     email,
     password,
+    periodStartDate: new Date(),
   });
   const emailVerificationToken = user.generateVerificationToken();
   if (user) {
@@ -244,6 +248,32 @@ export const updateProfileUrl = asyncHandler(async (req, res) => {
       email: updatedUser.email,
       token,
       profileUrl: updatedUser.profileUrl,
+    });
+  } else {
+    res.status(400);
+    throw new Error("User not found");
+  }
+});
+
+/*-----------------------------------------------Period Start Date--------------------------------------------------------*/
+
+export const updatePeriodStartDate = asyncHandler(async (req, res) => {
+  const { userId, periodStartDate } = req.body;
+  const user = await User.findById(userId);
+
+  if (!user) {
+    return res.status(400).json({ error: "User not found" });
+  }
+
+  if (user) {
+    user.periodStartDate = periodStartDate;
+    const updatedUser = await user.save();
+    const userStays = await StayCountry.findOne({ userId: userId });
+
+    await updateDaysCompletedForAllStays(userStays, periodStartDate);
+    res.status(200).json({
+      periodStartDate: updatedUser.periodStartDate,
+      message: "Period Start Date updated successfully!",
     });
   } else {
     res.status(400);

@@ -7,6 +7,7 @@ import {
   logoutUser,
   resetNewPassword,
   updateProfileUrl,
+  updatePeriodStartDate,
 } from "../controllers/userController.js";
 import { protect } from "../middlewares/authMiddleware.js";
 
@@ -19,5 +20,6 @@ router.post("/reset-password", resetPassword);
 router.post("/new-password", resetNewPassword);
 router.post("/logout", logoutUser);
 router.patch("/profile/url", protect, updateProfileUrl);
+router.patch("/period-start-date/update", protect, updatePeriodStartDate);
 
 export default router;

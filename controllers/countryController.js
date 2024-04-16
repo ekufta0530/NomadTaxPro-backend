@@ -71,8 +71,8 @@ export const getFavoriteCountries = asyncHandler(async (req, res) => {
 /*-----------------------------------------------Stays--------------------------------------------------------*/
 
 export const addUpdateStay = asyncHandler(async (req, res) => {
-  const { countryId, dateFrom, dateTo, userId, edit } = req.body;
-  const stayCountry = await StayCountry.findOne({ userId });
+  const { countryId, dateFrom, dateTo, userId, edit,periodStartDate } = req.body;
+  const stayCountry = await StayCountry.findOne({ userId })
 
   if (stayCountry) {
     const filteredStays = stayCountry.stays.filter(
@@ -110,7 +110,7 @@ export const addUpdateStay = asyncHandler(async (req, res) => {
       stayCountry.stays[stayIndex].dateTo = dateTo;
       const updatedStay = await stayCountry.save();
       if (updatedStay) {
-        await updateDaysCompletedForAllStays(stayCountry);
+        await updateDaysCompletedForAllStays(stayCountry, periodStartDate);
         res.status(201).json({ message: "Stay updated!" });
       } else {
         res.status(400);
@@ -149,11 +149,13 @@ export const addUpdateStay = asyncHandler(async (req, res) => {
         res.status(400);
         throw new Error("Stay could not be added!");
       }
-      await updateDaysCompletedForAllStays(stayCountry);
+      await updateDaysCompletedForAllStays(stayCountry, periodStartDate);
       res.status(201).json({ message: "Stay added!" });
       return;
     }
-  } else {
+  } 
+  
+  else {
     const addedStay = await StayCountry.create({
       userId,
       stays: [{ countryId, dateFrom, dateTo }],
@@ -162,7 +164,7 @@ export const addUpdateStay = asyncHandler(async (req, res) => {
       res.status(400);
       throw new Error("Stay could not be added!");
     }
-    await updateDaysCompletedForAllStays(addedStay);
+    await updateDaysCompletedForAllStays(addedStay, periodStartDate);
     res.status(201).json({ message: "Stay added!" });
   }
 });
@@ -172,6 +174,30 @@ export const getStays = asyncHandler(async (req, res) => {
   const stays = await StayCountry.findOne({ userId });
   if (stays) {
     res.status(200).json({ data: stays.stays });
+  } else {
+    res.status(400);
+    throw new Error("We could not find your stays!");
+  }
+});
+
+export const deleteStay = asyncHandler(async (req, res) => {
+  const { countryId, userId } = req.body;
+
+  const stayCountry = await StayCountry.findOne({ userId }).populate("userId");
+  const periodStartDate = stayCountry.userId.periodStartDate;
+
+  if (stayCountry) {
+    stayCountry.stays = stayCountry.stays.filter(
+      (stay) => stay.countryId !== countryId
+    );
+    const updatedStays = await stayCountry.save();
+    if (updatedStays) {
+      await updateDaysCompletedForAllStays(stayCountry, periodStartDate);
+      res.status(200).json({ message: "Stay deleted!" });
+    } else {
+      res.status(400);
+      throw new Error("Stay could not be deleted!");
+    }
   } else {
     res.status(400);
     throw new Error("We could not find your stays!");

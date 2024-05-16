@@ -15,6 +15,8 @@ import { StayCountry } from "./models/countryModel.js";
 import cron from "node-cron";
 import { updateDaysCompletedForAllStays } from "./utils/schedular.js";
 import morgan from "morgan";
+import dotenv from "dotenv";
+dotenv.config();
 
 // Connect to MongoDB
 connectDB();
@@ -38,7 +40,7 @@ const logMiddleware = (req, res, next) => {
 app.use(
   "*",
   cors({
-    origin: "http://localhost:3000",
+    origin: process.env.BASE_URL,
     credentials: true,
     methods: ["POST", "PUT", "GET", "DELETE", "PATCH"],
   })
@@ -85,11 +87,11 @@ app.use(express.static(path.join(__dirname, "public")));
 cron.schedule("* * * * *", async () => {
   try {
     const allStayCountries = await StayCountry.find({}).populate("userId");
-    if(allStayCountries) {
+    if (allStayCountries) {
       for (const stayCountry of allStayCountries) {
         await updateDaysCompletedForAllStays(
           stayCountry,
-          stayCountry.userId.periodStartDate
+          stayCountry?.userId?.periodStartDate
         );
       }
       console.log("Days completed updated successfully for all stays.");

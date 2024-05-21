@@ -270,7 +270,10 @@ export const updatePeriodStartDate = asyncHandler(async (req, res) => {
     const updatedUser = await user.save();
     const userStays = await StayCountry.findOne({ userId: userId });
 
-    await updateDaysCompletedForAllStays(userStays, periodStartDate);
+    if (userStays) {
+      await updateDaysCompletedForAllStays(userStays, periodStartDate);
+    }
+
     res.status(200).json({
       periodStartDate: updatedUser.periodStartDate,
       message: "Period Start Date updated successfully!",

@@ -1,0 +1,41 @@
+{
+    "firstName": "Eric",
+    "lastName": "Kufta",
+    "email": "eric.kufta@gmail.com",
+    "password": "",
+    "loginAttempts": 2,
+    "us_green_card": false,
+    "citizenship": ["USA", "HK"],
+    "income_usd": 60000,
+    "net_worth": 1000000,
+    "employment_type": "contractor",
+    "priorities": {
+        "financial": ["save more, retire"],
+        "lifestyle": ["one", "two"],
+        "general": "free test input for the user",
+        "route_to_foreign_perm_residency": true, 
+        "route_to_foreign_citizenship": true
+    },
+    "age": 23,
+    "favorites": [],
+    "do_not_show_again_info": true,
+    "feiePeriodStartDate": "2024-05-23T19:48:59.002+00:00",
+    "currently_abroad": true,
+    "country_of_residence": "HK",
+    "time_zone_preference": [-7, -6, -5],
+    "stays": [
+        {
+            "country_name": "croatia",
+            "start_date": "DATE",
+            "end_date": "DATE"
+        },
+        {
+            "country_name": "sweden",
+            "start_date": "DATE",
+            "end_date": "DATE"
+        }
+    ],
+    "isEmailVerified": true,
+    "createdAt": "2024-05-23T19:48:59.013+00:00",
+    "updatedAt": "2024-05-25T02:03:39.857+00:00"
+}

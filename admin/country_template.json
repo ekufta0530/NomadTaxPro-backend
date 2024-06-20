@@ -1,0 +1,141 @@
+{
+    "country_name": "",
+    "country_code": "",
+    "currency": "",
+    "time_zone": [-7, -6, -5],
+    "anchor_country": false,
+    "display": true,
+    "region": "North America",
+    "has_nomad_visa": true,
+    "has_special_regime": true,
+    "has_no_tax_on_foreign_income:": true,
+    "has_investor_visa": true, 
+    "has_long_stay_visa": true,
+    "schengen_zone": false,
+    "in_european_union": false,
+    "cost_of_living_index": 0,
+    "cost_of_living_icon_lvl": 1,
+    "practical_tips": {
+        "financial_benefits": [
+            {
+                "benefit": "",
+                "description": ""
+            },
+            {
+                "benefit": "",
+                "description": ""
+            },
+            {
+                "benefit": "",
+                "description": ""
+            }
+        ],
+        "lifestyle_benefits": [
+            {
+                "benefit": "",
+                "description": ""
+            },
+            {
+                "benefit": "",
+                "description": ""
+            },
+            {
+                "benefit": "",
+                "description": ""
+            }
+        ]
+    },
+    "key_consideration": "digital nomad visa related key considerations",
+    "best_for": [
+        "retirees",
+        "contractors",
+        "short stay nomads",
+        "long stay nomads"
+    ],
+    "action_comment": "",
+    "tagline": "",
+    "image": "",
+    "visas": [ 
+        {
+            "visa_name": "digital visa",
+            "nomad_visa": true,
+            "official_government_link": "",
+            "key_consideration": "copy pasta from country level key consideration",
+            "validity_months": 0,
+            "income_requirement_monthly_single": 0,
+            "income_requirement_monthly_family": 0,
+            "income_requirement": {
+                "currency": "",
+                "single_monthly": 0,
+                "family_monthly": 0,
+                "misc_details": ""
+            },
+            "application_timeline_days": 0,
+            "application_in_country": false,
+            "application_fee": {
+                "currency": "",
+                "single": 0,
+                "family": 0,
+                "details": ""
+            },
+            "dependent_application": false,
+            "local_tax_on_foreign_income": false,
+            "tax_residency_trigger": 0,
+            "tax_residency_trigger_details": "",
+            "renewability": false,
+            "renewability_details": "",
+            "days_in_country_to_renew_visa": 0,
+            "special_tax_regime": false,
+            "special_tax_regime_details": "",
+            "leads_to_permanent_residence": false,
+            "permanent_residency_details": "",
+            "taxes": {
+                "employees": {
+                    "income_tax": [],
+                    "social_security": {
+                        "employee_contribution_percent": {
+                            "min": 0.0,
+                            "max": 0.0,
+                            "misc_details": ""
+                        },
+                        "employer_contribution_percent": {
+                            "min": 0.0,
+                            "max": 0.0,
+                            "misc_details": ""
+                        }
+                    }
+                },
+                "contractors": {
+                    "income_tax": [],
+                    "social_security": {
+                        "self_employed_contribution": {
+                            "min": 0.0,
+                            "max": 0.0,
+                            "misc_details": ""
+                        }
+                    }
+                },
+                "retirees": {
+                    "income_tax": [],
+                    "social_security": 0
+                },
+                "special_regimes": {
+                    "digital_nomad_visa": {
+                        "benefit": "",
+                        "eligibility": [],
+                        "contractors_with_foreign_clients_eligible": false,
+                        "contractors_with_local_clients_eligible": false,
+                        "employees_with_foreign_employer_eligible": false,
+                        "income_tax": []
+                    }
+                }
+            }
+        },
+        {
+            "visa_name": "long term visa",
+            "nomad_visa": false,
+            "type": "long term",
+            "key_consideration": "new information related to this visa"
+        }
+    ]
+}

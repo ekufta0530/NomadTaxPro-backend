@@ -2,7 +2,7 @@
   "country_name": "Costa Rica",
   "country_code": "CR",
   "capital": "",
-  "display": true, // controls whether whtis is publicly viewable on the website
+  "display": true,
   "currency": "CRC",
   "anchor_country": true,
   "has_nomad_visa": true,
@@ -52,7 +52,7 @@
   "action_comment": "Consider Costa Rica for its balance of work and leisure opportunities.",
   "tagline": "Pura Vida in Costa Rica.",
   "image": "costa_rica.jpg",
-  "tax_residency_trigger": 183, // if under 183 days in any country your tax obligatino will be 0 in that country
+  "tax_residency_trigger": 183,
   "tax_residency_trigger_details": "i.e. buying a car, house, etc. You are considered a tax resident if you stay for longer than 183 days in a calendar year.",
   "country_standard_taxes": {
     "tax_currency": "CRC",
@@ -80,7 +80,7 @@
           "max_income_range": 20000,
           "rate_pct": 25
         }
-      ],
+      ]
     },
     "contractors": {
       "income_tax": [
@@ -121,19 +121,18 @@
           "rate_pct": 25
         }
       ],
-      "social_security": 
-         [
-          {
-            "min_income_range": 0,
-            "max_income_range": 10000,
-            "rate_pct": 20
-          },
-          {
-            "min_income_range": 10001,
-            "max_income_range": 20000,
-            "rate_pct": 25
-          }
-        ]
+      "social_security": [
+        {
+          "min_income_range": 0,
+          "max_income_range": 10000,
+          "rate_pct": 20
+        },
+        {
+          "min_income_range": 10001,
+          "max_income_range": 20000,
+          "rate_pct": 25
+        }
+      ]
     }
   },
   "visas": [
@@ -167,7 +166,6 @@
       "leads_to_permanent_residence": false,
       "permanent_residency_details": "The digital nomad visa does not lead to permanent residency.",
       "taxes": {
-        // Be able to autofill with country standard tax rates with option in retool.  
         "employees": {
           "income_tax": [
             {
@@ -181,7 +179,6 @@
               "rate_pct": 25
             }
           ],
-          // Be able to autofill with country standard tax rates with option in retool.  
           "social_security": [
             {
               "min_income_range": 0,
@@ -208,20 +205,18 @@
               "rate_pct": 25
             }
           ],
-          "social_security": {
-            "self_employed_contribution": [
-              {
-                "min_income_range": 0,
-                "max_income_range": 10000,
-                "rate_pct": 20
-              },
-              {
-                "min_income_range": 10001,
-                "max_income_range": 20000,
-                "rate_pct": 25
-              }
-            ]
-          }
+          "social_security": [
+            {
+              "min_income_range": 0,
+              "max_income_range": 10000,
+              "rate_pct": 20
+            },
+            {
+              "min_income_range": 10001,
+              "max_income_range": 20000,
+              "rate_pct": 25
+            }
+          ]
         },
         "retirees": {
           "income_tax": [
@@ -236,13 +231,12 @@
               "rate_pct": 25
             }
           ],
-          "social_security": false // if true, can add ranges in here. 
+          "social_security": false
         },
-        // special regime has unique values compared to others in this list (contracters, retirees, employees). See below. Use JS to change forms to accomidate this type of object in the list
         "special_regimes": [
           {
             "name": "Digital Nomad Visa",
-            "benefit": "Exemption from income tax on foreign-sourced income. Allows stays of over 183 days",
+            "benefit": "Exemption from income tax on foreign-sourced income. Allows comfortable and tax free stays of over 183 days",
             "eligibility": [
               "Proof of employment or self-employment outside Costa Rica.",
               "Valid police clearance from the past 6 months.",
@@ -251,7 +245,7 @@
             "contractors_with_foreign_clients_eligible": true,
             "contractors_with_local_clients_eligible": false,
             "employees_with_foreign_employer_eligible": true,
-            "social_security": {}, //alternatively, this could be a list for diffrerent ranges. There should be an option to choose "social security tax true or false" and if true then the standard ranges can be filled in
+            "social_security": false, 
             "income_tax": false
           }
         ]

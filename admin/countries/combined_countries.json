@@ -1,0 +1,730 @@
+[
+  {
+    "country_name": "Antigua and Barbuda",
+    "country_code": "AG",
+    "capital": "St. John's",
+    "display": false,
+    "currency": "XCD",
+    "region": "Caribbean"
+  },
+  {
+    "country_name": "Argentina",
+    "country_code": "AR",
+    "capital": "Buenos Aires",
+    "display": false,
+    "currency": "ARS",
+    "region": "South America"
+  },
+  {
+    "country_name": "Australia",
+    "country_code": "AU",
+    "capital": "Canberra",
+    "display": false,
+    "currency": "AUD",
+    "region": "Oceania"
+  },
+  {
+    "country_name": "Austria",
+    "country_code": "AT",
+    "capital": "Vienna",
+    "display": false,
+    "currency": "EUR",
+    "region": "Central Europe"
+  },
+  {
+    "country_name": "Bahamas",
+    "country_code": "BS",
+    "capital": "Nassau",
+    "display": false,
+    "currency": "BSD",
+    "region": "Caribbean"
+  },
+  {
+    "country_name": "Barbados",
+    "country_code": "BB",
+    "capital": "Bridgetown",
+    "display": false,
+    "currency": "BBD",
+    "region": "Caribbean"
+  },
+  {
+    "country_name": "Belgium",
+    "country_code": "BE",
+    "capital": "Brussels",
+    "display": false,
+    "currency": "EUR",
+    "region": "Western Europe"
+  },
+  {
+    "country_name": "Belize",
+    "country_code": "BZ",
+    "capital": "Belmopan",
+    "display": false,
+    "currency": "BZD",
+    "region": "Central America"
+  },
+  {
+    "country_name": "Bermuda",
+    "country_code": "BM",
+    "capital": "Hamilton",
+    "display": false,
+    "currency": "BMD",
+    "region": "Caribbean"
+  },
+  {
+    "country_name": "Bolivia",
+    "country_code": "BO",
+    "capital": "Sucre",
+    "display": false,
+    "currency": "BOB",
+    "region": "South America"
+  },
+  {
+    "country_name": "Brazil",
+    "country_code": "BR",
+    "capital": "Brasília",
+    "display": false,
+    "currency": "BRL",
+    "region": "South America"
+  },
+  {
+    "country_name": "Bulgaria",
+    "country_code": "BG",
+    "capital": "Sofia",
+    "display": false,
+    "currency": "BGN",
+    "region": "Eastern Europe"
+  },
+  {
+    "country_name": "Cambodia",
+    "country_code": "KH",
+    "capital": "Phnom Penh",
+    "display": false,
+    "currency": "KHR",
+    "region": "Southeast Asia"
+  },
+  {
+    "country_name": "Canada",
+    "country_code": "CA",
+    "capital": "Ottawa",
+    "display": false,
+    "currency": "CAD",
+    "region": "North America"
+  },
+  {
+    "country_name": "Cape Verde",
+    "country_code": "CV",
+    "capital": "Praia",
+    "display": false,
+    "currency": "CVE",
+    "region": "West Africa"
+  },
+  {
+    "country_name": "Cayman Islands",
+    "country_code": "KY",
+    "capital": "George Town",
+    "display": false,
+    "currency": "KYD",
+    "region": "Caribbean"
+  },
+  {
+    "country_name": "Chile",
+    "country_code": "CL",
+    "capital": "Santiago",
+    "display": false,
+    "currency": "CLP",
+    "region": "South America"
+  },
+  {
+    "country_name": "Colombia",
+    "country_code": "CO",
+    "capital": "Bogotá",
+    "display": false,
+    "currency": "COP",
+    "region": "South America"
+  },
+  {
+    "country_name": "Costa Rica",
+    "country_code": "CR",
+    "capital": "San José",
+    "display": false,
+    "currency": "CRC",
+    "region": "Central America"
+  },
+  {
+    "country_name": "Croatia",
+    "country_code": "HR",
+    "capital": "Zagreb",
+    "display": false,
+    "currency": "EUR",
+    "region": "Southern Europe"
+  },
+  {
+    "country_name": "Curaçao",
+    "country_code": "CW",
+    "capital": "Willemstad",
+    "display": false,
+    "currency": "ANG",
+    "region": "Caribbean"
+  },
+  {
+    "country_name": "Cyprus",
+    "country_code": "CY",
+    "capital": "Nicosia",
+    "display": false,
+    "currency": "EUR",
+    "region": "Southern Europe"
+  },
+  {
+    "country_name": "Czech Republic",
+    "country_code": "CZ",
+    "capital": "Prague",
+    "display": false,
+    "currency": "CZK",
+    "region": "Central Europe"
+  },
+  {
+    "country_name": "Denmark",
+    "country_code": "DK",
+    "capital": "Copenhagen",
+    "display": false,
+    "currency": "DKK",
+    "region": "Northern Europe"
+  },
+  {
+    "country_name": "Dominica",
+    "country_code": "DM",
+    "capital": "Roseau",
+    "display": false,
+    "currency": "XCD",
+    "region": "Caribbean"
+  },
+  {
+    "country_name": "Dominican Republic",
+    "country_code": "DO",
+    "capital": "Santo Domingo",
+    "display": false,
+    "currency": "DOP",
+    "region": "Caribbean"
+  },
+  {
+    "country_name": "Ecuador",
+    "country_code": "EC",
+    "capital": "Quito",
+    "display": false,
+    "currency": "USD",
+    "region": "South America"
+  },
+  {
+    "country_name": "Egypt",
+    "country_code": "EG",
+    "capital": "Cairo",
+    "display": false,
+    "currency": "EGP",
+    "region": "North Africa"
+  },
+  {
+    "country_name": "El Salvador",
+    "country_code": "SV",
+    "capital": "San Salvador",
+    "display": false,
+    "currency": "USD",
+    "region": "Central America"
+  },
+  {
+    "country_name": "Estonia",
+    "country_code": "EE",
+    "capital": "Tallinn",
+    "display": false,
+    "currency": "EUR",
+    "region": "Northern Europe"
+  },
+  {
+    "country_name": "Fiji",
+    "country_code": "FJ",
+    "capital": "Suva",
+    "display": false,
+    "currency": "FJD",
+    "region": "Oceania"
+  },
+  {
+    "country_name": "Finland",
+    "country_code": "FI",
+    "capital": "Helsinki",
+    "display": false,
+    "currency": "EUR",
+    "region": "Northern Europe"
+  },
+  {
+    "country_name": "France",
+    "country_code": "FR",
+    "capital": "Paris",
+    "display": false,
+    "currency": "EUR",
+    "region": "Western Europe"
+  },
+  {
+    "country_name": "Georgia",
+    "country_code": "GE",
+    "capital": "Tbilisi",
+    "display": false,
+    "currency": "GEL",
+    "region": "Western Asia"
+  },
+  {
+    "country_name": "Germany",
+    "country_code": "DE",
+    "capital": "Berlin",
+    "display": false,
+    "currency": "EUR",
+    "region": "Western Europe"
+  },
+  {
+    "country_name": "Greece",
+    "country_code": "GR",
+    "capital": "Athens",
+    "display": false,
+    "currency": "EUR",
+    "region": "Southern Europe"
+  },
+  {
+    "country_name": "Guadeloupe",
+    "country_code": "GP",
+    "capital": "Basse-Terre",
+    "display": false,
+    "currency": "EUR",
+    "region": "Caribbean"
+  },
+  {
+    "country_name": "Guatemala",
+    "country_code": "GT",
+    "capital": "Guatemala City",
+    "display": false,
+    "currency": "GTQ",
+    "region": "Central America"
+  },
+  {
+    "country_name": "Honduras",
+    "country_code": "HN",
+    "capital": "Tegucigalpa",
+    "display": false,
+    "currency": "HNL",
+    "region": "Central America"
+  },
+  {
+    "country_name": "Hungary",
+    "country_code": "HU",
+    "capital": "Budapest",
+    "display": false,
+    "currency": "HUF",
+    "region": "Central Europe"
+  },
+  {
+    "country_name": "Iceland",
+    "country_code": "IS",
+    "capital": "Reykjavik",
+    "display": false,
+    "currency": "ISK",
+    "region": "Northern Europe"
+  },
+  {
+    "country_name": "India",
+    "country_code": "IN",
+    "capital": "New Delhi",
+    "display": false,
+    "currency": "INR",
+    "region": "South Asia"
+  },
+  {
+    "country_name": "Indonesia",
+    "country_code": "ID",
+    "capital": "Jakarta",
+    "display": false,
+    "currency": "IDR",
+    "region": "Southeast Asia"
+  },
+  {
+    "country_name": "Ireland",
+    "country_code": "IE",
+    "capital": "Dublin",
+    "display": false,
+    "currency": "EUR",
+    "region": "Northern Europe"
+  },
+  {
+    "country_name": "Italy",
+    "country_code": "IT",
+    "capital": "Rome",
+    "display": false,
+    "currency": "EUR",
+    "region": "Southern Europe"
+  },
+  {
+    "country_name": "Jamaica",
+    "country_code": "JM",
+    "capital": "Kingston",
+    "display": false,
+    "currency": "JMD",
+    "region": "Caribbean"
+  },
+  {
+    "country_name": "Japan",
+    "country_code": "JP",
+    "capital": "Tokyo",
+    "display": false,
+    "currency": "JPY",
+    "region": "East Asia"
+  },
+  {
+    "country_name": "Kenya",
+    "country_code": "KE",
+    "capital": "Nairobi",
+    "display": false,
+    "currency": "KES",
+    "region": "East Africa"
+  },
+  {
+    "country_name": "Latvia",
+    "country_code": "LV",
+    "capital": "Riga",
+    "display": false,
+    "currency": "EUR",
+    "region": "Northern Europe"
+  },
+  {
+    "country_name": "Madagascar",
+    "country_code": "MG",
+    "capital": "Antananarivo",
+    "display": false,
+    "currency": "MGA",
+    "region": "East Africa"
+  },
+  {
+    "country_name": "Malaysia",
+    "country_code": "MY",
+    "capital": "Kuala Lumpur",
+    "display": false,
+    "currency": "MYR",
+    "region": "Southeast Asia"
+  },
+  {
+    "country_name": "Maldives",
+    "country_code": "MV",
+    "capital": "Malé",
+    "display": false,
+    "currency": "MVR",
+    "region": "South Asia"
+  },
+  {
+    "country_name": "Malta",
+    "country_code": "MT",
+    "capital": "Valletta",
+    "display": false,
+    "currency": "EUR",
+    "region": "Southern Europe"
+  },
+  {
+    "country_name": "Mauritius",
+    "country_code": "MU",
+    "capital": "Port Louis",
+    "display": false,
+    "currency": "MUR",
+    "region": "East Africa"
+  },
+  {
+    "country_name": "Mexico",
+    "country_code": "MX",
+    "capital": "Mexico City",
+    "display": false,
+    "currency": "MXN",
+    "region": "North America"
+  },
+  {
+    "country_name": "Montenegro",
+    "country_code": "ME",
+    "capital": "Podgorica",
+    "display": false,
+    "currency": "EUR",
+    "region": "Southern Europe"
+  },
+  {
+    "country_name": "Morocco",
+    "country_code": "MA",
+    "capital": "Rabat",
+    "display": false,
+    "currency": "MAD",
+    "region": "North Africa"
+  },
+  {
+    "country_name": "Namibia",
+    "country_code": "NA",
+    "capital": "Windhoek",
+    "display": false,
+    "currency": "NAD",
+    "region": "Southern Africa"
+  },
+  {
+    "country_name": "Netherlands",
+    "country_code": "NL",
+    "capital": "Amsterdam",
+    "display": false,
+    "currency": "EUR",
+    "region": "Western Europe"
+  },
+  {
+    "country_name": "New Zealand",
+    "country_code": "NZ",
+    "capital": "Wellington",
+    "display": false,
+    "currency": "NZD",
+    "region": "Oceania"
+  },
+  {
+    "country_name": "Nicaragua",
+    "country_code": "NI",
+    "capital": "Managua",
+    "display": false,
+    "currency": "NIO",
+    "region": "Central America"
+  },
+  {
+    "country_name": "Norway",
+    "country_code": "NO",
+    "capital": "Oslo",
+    "display": false,
+    "currency": "NOK",
+    "region": "Northern Europe"
+  },
+  {
+    "country_name": "Panama",
+    "country_code": "PA",
+    "capital": "Panama City",
+    "display": false,
+    "currency": "PAB",
+    "region": "Central America"
+  },
+  {
+    "country_name": "Paraguay",
+    "country_code": "PY",
+    "capital": "Asunción",
+    "display": false,
+    "currency": "PYG",
+    "region": "South America"
+  },
+  {
+    "country_name": "Peru",
+    "country_code": "PE",
+    "capital": "Lima",
+    "display": false,
+    "currency": "PEN",
+    "region": "South America"
+  },
+  {
+    "country_name": "Philippines",
+    "country_code": "PH",
+    "capital": "Manila",
+    "display": false,
+    "currency": "PHP",
+    "region": "Southeast Asia"
+  },
+  {
+    "country_name": "Poland",
+    "country_code": "PL",
+    "capital": "Warsaw",
+    "display": false,
+    "currency": "PLN",
+    "region": "Central Europe"
+  },
+  {
+    "country_name": "Portugal",
+    "country_code": "PT",
+    "capital": "Lisbon",
+    "display": false,
+    "currency": "EUR",
+    "region": "Southern Europe"
+  },
+  {
+    "country_name": "Puerto Rico",
+    "country_code": "PR",
+    "capital": "San Juan",
+    "display": false,
+    "currency": "USD",
+    "region": "Caribbean"
+  },
+  {
+    "country_name": "Romania",
+    "country_code": "RO",
+    "capital": "Bucharest",
+    "display": false,
+    "currency": "RON",
+    "region": "Eastern Europe"
+  },
+  {
+    "country_name": "Senegal",
+    "country_code": "SN",
+    "capital": "Dakar",
+    "display": false,
+    "currency": "XOF",
+    "region": "West Africa"
+  },
+  {
+    "country_name": "Serbia",
+    "country_code": "RS",
+    "capital": "Belgrade",
+    "display": false,
+    "currency": "RSD",
+    "region": "Southern Europe"
+  },
+  {
+    "country_name": "Seychelles",
+    "country_code": "SC",
+    "capital": "Victoria",
+    "display": false,
+    "currency": "SCR",
+    "region": "East Africa"
+  },
+  {
+    "country_name": "Singapore",
+    "country_code": "SG",
+    "capital": "Singapore",
+    "display": false,
+    "currency": "SGD",
+    "region": "Southeast Asia"
+  },
+  {
+    "country_name": "Slovenia",
+    "country_code": "SI",
+    "capital": "Ljubljana",
+    "display": false,
+    "currency": "EUR",
+    "region": "Southern Europe"
+  },
+  {
+    "country_name": "South Africa",
+    "country_code": "ZA",
+    "capital": "Pretoria",
+    "display": false,
+    "currency": "ZAR",
+    "region": "Southern Africa"
+  },
+  {
+    "country_name": "South Korea",
+    "country_code": "KR",
+    "capital": "Seoul",
+    "display": false,
+    "currency": "KRW",
+    "region": "East Asia"
+  },
+  {
+    "country_name": "Spain",
+    "country_code": "ES",
+    "capital": "Madrid",
+    "display": false,
+    "currency": "EUR",
+    "region": "Southern Europe"
+  },
+  {
+    "country_name": "Sri Lanka",
+    "country_code": "LK",
+    "capital": "Colombo",
+    "display": false,
+    "currency": "LKR",
+    "region": "South Asia"
+  },
+  {
+    "country_name": "Sweden",
+    "country_code": "SE",
+    "capital": "Stockholm",
+    "display": false,
+    "currency": "SEK",
+    "region": "Northern Europe"
+  },
+  {
+    "country_name": "Switzerland",
+    "country_code": "CH",
+    "capital": "Bern",
+    "display": false,
+    "currency": "CHF",
+    "region": "Western Europe"
+  },
+  {
+    "country_name": "Taiwan",
+    "country_code": "TW",
+    "capital": "Taipei",
+    "display": false,
+    "currency": "TWD",
+    "region": "East Asia"
+  },
+  {
+    "country_name": "Thailand",
+    "country_code": "TH",
+    "capital": "Bangkok",
+    "display": false,
+    "currency": "THB",
+    "region": "Southeast Asia"
+  },
+  {
+    "country_name": "Tonga",
+    "country_code": "TO",
+    "capital": "Nukuʻalofa",
+    "display": false,
+    "currency": "TOP",
+    "region": "Oceania"
+  },
+  {
+    "country_name": "Turkey",
+    "country_code": "TR",
+    "capital": "Ankara",
+    "display": false,
+    "currency": "TRY",
+    "region": "Western Asia"
+  },
+  {
+    "country_name": "UAE",
+    "country_code": "AE",
+    "capital": "Abu Dhabi",
+    "display": false,
+    "currency": "AED",
+    "region": "Western Asia"
+  },
+  {
+    "country_name": "United Kingdom",
+    "country_code": "GB",
+    "capital": "London",
+    "display": false,
+    "currency": "GBP",
+    "region": "Northern Europe"
+  },
+  {
+    "country_name": "United States",
+    "country_code": "US",
+    "capital": "Washington D.C.",
+    "display": false,
+    "currency": "USD",
+    "region": "North America"
+  },
+  {
+    "country_name": "Uruguay",
+    "country_code": "UY",
+    "capital": "Montevideo",
+    "display": false,
+    "currency": "UYU",
+    "region": "South America"
+  },
+  {
+    "country_name": "Vanuatu",
+    "country_code": "VU",
+    "capital": "Port Vila",
+    "display": false,
+    "currency": "VUV",
+    "region": "Oceania"
+  },
+  {
+    "country_name": "Vietnam",
+    "country_code": "VN",
+    "capital": "Hanoi",
+    "display": false,
+    "currency": "VND",
+    "region": "Southeast Asia"
+  }
+]

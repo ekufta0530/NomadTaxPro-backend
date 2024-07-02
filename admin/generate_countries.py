@@ -98,9 +98,43 @@ template = {
     "country_name": "",
     "country_code": "",
     "capital": "",
+    "region": "",
     "display": False,
     "currency": "",
-    "region": ""
+    "anchor_country": False,
+    "has_nomad_visa": False,
+    "schengen_zone": False,
+    "in_european_union": False,
+    "cost_of_living_index": 0,
+    "cost_of_living_lvl": "",
+    "practical_tips": {
+        "financial_benefits": [],
+        "lifestyle_benefits": [],
+        "additional_benefits": []
+    },
+    "key_consideration": "",
+    "best_for": [],
+    "action_comment": "",
+    "tagline": "",
+    "image": "",
+    "tax_residency_trigger": 0,
+    "tax_residency_trigger_details": "",
+    "country_standard_taxes": {
+        "tax_currency": "",
+        "employees": {
+            "income_tax": [],
+            "social_security": []
+        },
+        "contractors": {
+            "income_tax": [],
+            "social_security": []
+        },
+        "retirees": {
+            "income_tax": [],
+            "social_security": []
+        }
+    },
+    "visas": []
 }
 
 def create_country_json(name, currency, capital, region, code):
@@ -110,6 +144,7 @@ def create_country_json(name, currency, capital, region, code):
     country["capital"] = capital
     country["currency"] = currency
     country["region"] = region
+    country["image"] = f"{name.lower().replace(' ', '_')}.jpg"
     return country
 
 country_list = country_data.strip().split("\n")
@@ -121,10 +156,8 @@ for line in country_list:
     country_json = create_country_json(name, currency, capital, region, code)
     country_jsons.append(country_json)
 
-# Save to files
-for country in country_jsons:
-    filename = f"countries/{country['country_name'].lower().replace(' ', '_')}.json"
-    with open(filename, 'w') as file:
-        json.dump(country, file, indent=2)
+# Save to a single file
+with open("countries_upload.json", 'w') as file:
+    json.dump(country_jsons, file, indent=2)
 
-print("JSON files generated.")
+print("countries_upload.json generated.")

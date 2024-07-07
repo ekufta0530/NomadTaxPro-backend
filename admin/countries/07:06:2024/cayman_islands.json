@@ -1,0 +1,149 @@
+{
+  "country_name": "Cayman Islands",
+  "country_code": "KY",
+  "capital": "George Town",
+  "display": false,
+  "currency": "KYD",
+  "anchor_country": true,
+  "has_nomad_visa": true,
+  "schengen_zone": false,
+  "in_european_union": false,
+  "cost_of_living_index": 111.7,
+  "cost_of_living_lvl": "$$$$$",
+  "practical_tips": {
+    "financial_benefits": [
+      {
+        "benefit": "No Income Tax",
+        "description": "The Cayman Islands does not impose local income tax on foreign-sourced income for digital nomads."
+      },
+      {
+        "benefit": "Stable Currency",
+        "description": "The Cayman Islands Dollar (KYD) provides a stable financial environment."
+      }
+    ],
+    "lifestyle_benefits": [
+      {
+        "benefit": "Tropical Marine Climate",
+        "description": "Enjoy a tropical marine climate with warm temperatures year-round."
+      },
+      {
+        "benefit": "High Standard of Living",
+        "description": "The Cayman Islands offers a high standard of living with beautiful beaches and a strong financial sector."
+      }
+    ],
+    "additional_benefits": [
+      {
+        "benefit": "English Speaking",
+        "description": "English is the official language, making communication easy for most expatriates."
+      },
+      {
+        "benefit": "Diverse Outdoor Activities",
+        "description": "The country is known for its excellent diving spots and outdoor recreational activities."
+      }
+    ]
+  },
+  "key_consideration": "The Global Citizen Concierge Program (GCCP) allows remote workers to live and work in the Cayman Islands for up to two years with no local tax on foreign income.",
+  "best_for": [
+    "contractors",
+    "short stay nomads",
+    "long stay nomads",
+    "retirees"
+  ],
+  "action_comment": "Consider the Cayman Islands for its stable financial environment, beautiful landscapes, and diverse cultural attractions.",
+  "tagline": "Work and live in paradise in the Cayman Islands.",
+  "image": "cayman_islands.jpg",
+  "tax_residency_trigger": 183,
+  "tax_residency_trigger_details": "You are considered a tax resident if you stay for longer than 183 days in a calendar year.",
+  "country_standard_taxes": {
+    "tax_currency": "KYD",
+    "employees": {
+      "income_tax": [],
+      "social_security": []
+    },
+    "contractors": {
+      "income_tax": [],
+      "social_security": []
+    },
+    "retirees": {
+      "income_tax": [],
+      "social_security": []
+    }
+  },
+  "visas": [
+    {
+      "visa_name": "Global Citizen Concierge Program (GCCP)",
+      "nomad_visa": true,
+      "official_government_link": "https://www.visitcaymanislands.com/en-us/global-citizen-concierge",
+      "key_consideration": "The visa can be renewed for another two years by reapplying.",
+      "validity_months": 24,
+      "income_requirement": {
+        "currency": "USD",
+        "single_monthly": 8333,
+        "family_monthly": 15000,
+        "misc_details": "Minimum annual salary requirement: $100,000 for individuals, $150,000 for couples, and $180,000 for an adult or couple with children."
+      },
+      "application_timeline_days": 30,
+      "application_in_country": false,
+      "application_fee": {
+        "currency": "USD",
+        "single": 1469,
+        "family": 1469,
+        "details": "The application fee is $1469 per year for individuals and an extra $500 per dependent per year."
+      },
+      "dependent_application": true,
+      "local_tax_on_foreign_income": false,
+      "renewability": true,
+      "renewability_details": "The visa can be renewed for another two years by reapplying.",
+      "days_in_country_to_renew_visa": 0,
+      "special_tax_regime": false,
+      "special_tax_regime_details": "",
+      "leads_to_permanent_residence": false,
+      "permanent_residency_details": "The digital nomad visa does not lead to permanent residency.",
+      "taxes": {
+        "employees": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "contractors": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "retirees": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "special_regimes": [
+          {
+            "name": "Digital Nomad Visa",
+            "benefit": "No income tax on foreign-sourced income.",
+            "eligibility": [
+              "Proof of employment or self-employment outside the Cayman Islands.",
+              "Valid police clearance from the past 6 months.",
+              "Health insurance covering the duration of stay."
+            ],
+            "contractors_with_foreign_clients_eligible": true,
+            "contractors_with_local_clients_eligible": false,
+            "employees_with_foreign_employer_eligible": true,
+            "social_security": false,
+            "income_tax": false
+          }
+        ]
+      },
+      "required_documents": [
+        "Proof of Employment or Income – a letter showing your proof that you are employed by a company outside the Cayman Islands, your position in the company, length of employment, and annual salary.",
+        "Proof of Legal Existence of Employer or Company – a Certificate of Incorporation or Registration Certificates of the company comes along with websites and social media profiles.",
+        "Proof of Applicant’s Identity – a photocopy of your passport.",
+        "Bank Reference – for the last 6 months.",
+        "Police Clearance – it should be issued within the last 6 months from the last place where you lived for over 6 months.",
+        "Proof of Health Insurance – request only for the first 30 days upon your arrival."
+      ]
+    },
+    {
+      "visa_name": "Long Term Visa",
+      "special_tax_regime": false,
+      "nomad_visa": false,
+      "type": "long term",
+      "key_consideration": "Long term visa options for stays exceeding one year."
+    }
+  ]
+}

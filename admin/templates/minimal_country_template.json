@@ -1,0 +1,42 @@
+{
+  "country_name": "",
+  "country_code": "",
+  "capital": "",
+  "region": "",
+  "display": false,
+  "currency": "",
+  "anchor_country": false,
+  "has_nomad_visa": false,
+  "schengen_zone": false,
+  "in_european_union": false,
+  "cost_of_living_index": 0,
+  "cost_of_living_lvl": "",
+  "practical_tips": {
+    "financial_benefits": [],
+    "lifestyle_benefits": [],
+    "additional_benefits": []
+  },
+  "key_consideration": "",
+  "best_for": [],
+  "action_comment": "",
+  "tagline": "",
+  "image": "country.jpg",
+  "tax_residency_trigger": 0,
+  "tax_residency_trigger_details": "",
+  "country_standard_taxes": {
+    "tax_currency": "",
+    "employees": {
+      "income_tax": [],
+      "social_security": []
+    },
+    "contractors": {
+      "income_tax": [],
+      "social_security": []
+    },
+    "retirees": {
+      "income_tax": [],
+      "social_security": []
+    }
+  },
+  "visas": []
+}

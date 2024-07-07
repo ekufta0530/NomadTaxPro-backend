@@ -1,0 +1,148 @@
+{
+  "country_name": "Belize",
+  "country_code": "BZ",
+  "capital": "Belmopan",
+  "display": true,
+  "currency": "BZD",
+  "anchor_country": true,
+  "has_nomad_visa": true,
+  "schengen_zone": false,
+  "in_european_union": false,
+  "cost_of_living_index": 48.0,
+  "cost_of_living_lvl": "$$",
+  "practical_tips": {
+    "financial_benefits": [
+      {
+        "benefit": "No Income Tax",
+        "description": "Belize does not impose local income tax on foreign-sourced income for digital nomads."
+      },
+      {
+        "benefit": "Affordable Living",
+        "description": "Belize offers a relatively low cost of living compared to many Western countries."
+      }
+    ],
+    "lifestyle_benefits": [
+      {
+        "benefit": "Subtropical Climate",
+        "description": "Enjoy a subtropical climate with warm temperatures year-round."
+      },
+      {
+        "benefit": "High Quality of Life",
+        "description": "Belize offers a high quality of life with beautiful natural landscapes and rich cultural diversity."
+      }
+    ],
+    "additional_benefits": [
+      {
+        "benefit": "English Speaking",
+        "description": "English is the official language, making communication easy for most expatriates."
+      },
+      {
+        "benefit": "Rich Cultural Heritage",
+        "description": "The country boasts rich cultural diversity and numerous outdoor activities such as diving, exploring Mayan ruins, and jungle hiking."
+      }
+    ]
+  },
+  "key_consideration": "The Work Where You Vacation program allows remote workers to live and work in Belize for up to six months with no local tax on foreign income.",
+  "best_for": [
+    "contractors",
+    "short stay nomads",
+    "long stay nomads",
+    "retirees"
+  ],
+  "action_comment": "Consider Belize for its affordable living, warm climate, and diverse cultural and natural attractions.",
+  "tagline": "Work where you vacation in Belize.",
+  "image": "belize.jpg",
+  "tax_residency_trigger": 183,
+  "tax_residency_trigger_details": "You are considered a tax resident if you stay for longer than 183 days in a calendar year.",
+  "country_standard_taxes": {
+    "tax_currency": "BZD",
+    "employees": {
+      "income_tax": [],
+      "social_security": []
+    },
+    "contractors": {
+      "income_tax": [],
+      "social_security": []
+    },
+    "retirees": {
+      "income_tax": [],
+      "social_security": []
+    }
+  },
+  "visas": [
+    {
+      "visa_name": "Work Where You Vacation",
+      "nomad_visa": true,
+      "official_government_link": "https://www.travelbelize.org/work-where-you-vacation/",
+      "key_consideration": "The visa can be extended beyond the initial six months.",
+      "validity_months": 6,
+      "income_requirement": {
+        "currency": "USD",
+        "single_monthly": 6250,
+        "family_monthly": 8333,
+        "misc_details": "Individuals must have an annual income of at least $75,000; for couples or families, the minimum is $100,000."
+      },
+      "application_timeline_days": 14,
+      "application_in_country": false,
+      "application_fee": {
+        "currency": "USD",
+        "single": 300,
+        "family": 300,
+        "details": "Expected fee based on similar Temporary Residency visa; exact fee for Work Where You Vacation program not specified."
+      },
+      "dependent_application": true,
+      "local_tax_on_foreign_income": false,
+      "renewability": true,
+      "renewability_details": "The visa can be extended beyond the initial six months.",
+      "days_in_country_to_renew_visa": 0,
+      "special_tax_regime": false,
+      "special_tax_regime_details": "",
+      "leads_to_permanent_residence": false,
+      "permanent_residency_details": "Digital nomad visa does not lead to permanent residency.",
+      "taxes": {
+        "employees": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "contractors": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "retirees": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "special_regimes": [
+          {
+            "name": "Digital Nomad Visa",
+            "benefit": "No income tax on foreign-sourced income.",
+            "eligibility": [
+              "Proof of employment, self-employment, or freelance work that can be done remotely.",
+              "Valid police clearance from the past 6 months.",
+              "Health insurance covering the duration of stay."
+            ],
+            "contractors_with_foreign_clients_eligible": true,
+            "contractors_with_local_clients_eligible": false,
+            "employees_with_foreign_employer_eligible": true,
+            "social_security": false,
+            "income_tax": false
+          }
+        ]
+      },
+      "required_documents": [
+        "Proof of employment outside of Belize (minimum annual income of $75,000 for individuals or $100,000 for couples/families)",
+        "Notarized banking reference and statement of account",
+        "Clear criminal record (no more than 6 months old)",
+        "Valid passport",
+        "Travel insurance policy (minimum of $50,000 of coverage)"
+      ]
+    },
+    {
+      "visa_name": "Long Term Visa",
+      "special_tax_regime": false,
+      "nomad_visa": false,
+      "type": "long term",
+      "key_consideration": "Long term visa options for stays exceeding one year."
+    }
+  ]
+}

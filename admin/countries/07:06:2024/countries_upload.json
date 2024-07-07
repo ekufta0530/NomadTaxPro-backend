@@ -1,0 +1,1231 @@
+[
+  {
+    "country_name": "Anguilla",
+    "country_code": "AI",
+    "capital": "The Valley",
+    "display": true,
+    "currency": "XCD",
+    "anchor_country": true,
+    "has_nomad_visa": true,
+    "schengen_zone": false,
+    "in_european_union": false,
+    "cost_of_living_index": 70,
+    "cost_of_living_lvl": "$$$$",
+    "practical_tips": {
+      "financial_benefits": [
+        {
+          "benefit": "No Income Tax",
+          "description": "Anguilla does not impose local income tax on foreign-sourced income for digital nomads."
+        },
+        {
+          "benefit": "Stable Currency",
+          "description": "The Eastern Caribbean Dollar (XCD) is the local currency, providing a stable financial environment."
+        }
+      ],
+      "lifestyle_benefits": [
+        {
+          "benefit": "Tropical Climate",
+          "description": "Enjoy a tropical climate with warm temperatures year-round."
+        },
+        {
+          "benefit": "High Quality of Life",
+          "description": "Anguilla offers a high quality of life with beautiful beaches and friendly locals."
+        }
+      ],
+      "additional_benefits": [
+        {
+          "benefit": "English Speaking",
+          "description": "English is the official language, making communication easy for most expatriates."
+        },
+        {
+          "benefit": "Safe Environment",
+          "description": "Anguilla is known for its low crime rate and safe living conditions."
+        }
+      ]
+    },
+    "key_consideration": "The Anguilla Digital Nomad Visa allows remote workers to stay for 3 to 12 months with no local tax on foreign income.",
+    "best_for": [
+      "contractors",
+      "short stay nomads",
+      "long stay nomads",
+      "retirees"
+    ],
+    "action_comment": "Consider Anguilla for its unique opportunity to experience the Caribbean while working remotely.",
+    "tagline": "Experience the Caribbean life in Anguilla.",
+    "image": "anguilla.jpg",
+    "tax_residency_trigger": 183,
+    "tax_residency_trigger_details": "You are considered a tax resident if you stay for longer than 183 days in a calendar year.",
+    "country_standard_taxes": {
+      "tax_currency": "XCD",
+      "employees": {
+        "income_tax": [],
+        "social_security": [
+          {
+            "min_income_range": 0,
+            "max_income_range": 100000,
+            "rate_pct": 5
+          }
+        ]
+      },
+      "contractors": {
+        "income_tax": [],
+        "social_security": [
+          {
+            "min_income_range": 0,
+            "max_income_range": 100000,
+            "rate_pct": 10
+          }
+        ]
+      },
+      "retirees": {
+        "income_tax": [],
+        "social_security": []
+      }
+    },
+    "visas": [
+      {
+        "visa_name": "Anguilla Digital Nomad Visa",
+        "nomad_visa": true,
+        "official_government_link": "https://portal.ivisitanguilla.com/apply/",
+        "key_consideration": "Not extendable. A new application is required to continue staying on the island.",
+        "validity_months": 12,
+        "income_requirement": {
+          "currency": "USD",
+          "single_monthly": 0,
+          "family_monthly": 0,
+          "misc_details": "Income proof required but no specific minimum stated."
+        },
+        "application_timeline_days": 14,
+        "application_in_country": false,
+        "application_fee": {
+          "currency": "USD",
+          "single": 2000,
+          "family": 3000,
+          "details": "Fee covers up to 4 persons, including the applicant, spouse, and dependents. Additional dependents are charged $250 each."
+        },
+        "dependent_application": true,
+        "local_tax_on_foreign_income": false,
+        "renewability": false,
+        "renewability_details": "A new application is required after the visa expires.",
+        "days_in_country_to_renew_visa": 0,
+        "special_tax_regime": false,
+        "special_tax_regime_details": "",
+        "leads_to_permanent_residence": false,
+        "permanent_residency_details": "Digital nomad visa does not lead to permanent residency.",
+        "taxes": {
+          "employees": {
+            "income_tax": [],
+            "social_security": [
+              {
+                "min_income_range": 0,
+                "max_income_range": 100000,
+                "rate_pct": 5
+              }
+            ]
+          },
+          "contractors": {
+            "income_tax": [],
+            "social_security": [
+              {
+                "min_income_range": 0,
+                "max_income_range": 100000,
+                "rate_pct": 10
+              }
+            ]
+          },
+          "retirees": {
+            "income_tax": [],
+            "social_security": []
+          },
+          "special_regimes": [
+            {
+              "name": "Digital Nomad Visa",
+              "benefit": "No income tax on foreign-sourced income.",
+              "eligibility": [
+                "Proof of employment or self-employment that can be done remotely.",
+                "Valid police clearance from the past 6 months.",
+                "Health insurance covering COVID-19."
+              ],
+              "contractors_with_foreign_clients_eligible": true,
+              "contractors_with_local_clients_eligible": false,
+              "employees_with_foreign_employer_eligible": true,
+              "social_security": false,
+              "income_tax": false
+            }
+          ]
+        },
+        "required_documents": [
+          "A completed application form.",
+          "Proof of Employment or Business Incorporation Certificate: income, employment, or self-employment certificate if you are a remote worker.",
+          "Proof of Visas: where applicable.",
+          "Visa: if you are required.",
+          "Valid police clearance: from the past 6 months for all applicants 18 years and older.",
+          "Proof of applicant’s relationship to dependents: such as marriage and birth certificates.",
+          "Pre-arranged transfer – to and from Anguilla.",
+          "Accommodation Booking.",
+          "Valid Health Insurance – this must-have COVID-19 coverage.",
+          "Copy of Birth Certificate.",
+          "Copy of Passport Picture Page.",
+          "A brief description of the work the applicant is doing.",
+          "Proof of school enrollment for students."
+        ]
+      },
+      {
+        "visa_name": "Long Term Visa",
+        "special_tax_regime": false,
+        "nomad_visa": false,
+        "type": "long term",
+        "key_consideration": "Long term visa options for stays exceeding one year."
+      }
+    ]
+  },
+  {
+    "country_name": "Antigua and Barbuda",
+    "country_code": "AG",
+    "capital": "St. John's",
+    "display": true,
+    "currency": "XCD",
+    "anchor_country": true,
+    "has_nomad_visa": true,
+    "schengen_zone": false,
+    "in_european_union": false,
+    "cost_of_living_index": 65.9,
+    "cost_of_living_lvl": "$$$$",
+    "practical_tips": {
+      "financial_benefits": [
+        {
+          "benefit": "No Income Tax",
+          "description": "Antigua and Barbuda does not impose local income tax on foreign-sourced income for digital nomads."
+        },
+        {
+          "benefit": "Stable Currency",
+          "description": "The Eastern Caribbean Dollar (XCD) is the local currency, providing a stable financial environment."
+        }
+      ],
+      "lifestyle_benefits": [
+        {
+          "benefit": "Tropical Climate",
+          "description": "Enjoy a tropical climate with warm temperatures year-round."
+        },
+        {
+          "benefit": "High Quality of Life",
+          "description": "Antigua and Barbuda offers a high quality of life with beautiful beaches and friendly locals."
+        }
+      ],
+      "additional_benefits": [
+        {
+          "benefit": "English Speaking",
+          "description": "English is the official language, making communication easy for most expatriates."
+        },
+        {
+          "benefit": "Rich Culture",
+          "description": "The island has a rich culture with numerous festivals, including one of the Caribbean's most popular carnivals."
+        }
+      ]
+    },
+    "key_consideration": "The Antigua Nomad Digital Residence program allows remote workers to live and work in Antigua and Barbuda for up to two years with no local tax on foreign income.",
+    "best_for": [
+      "contractors",
+      "short stay nomads",
+      "long stay nomads",
+      "retirees"
+    ],
+    "action_comment": "Consider Antigua and Barbuda for its tropical climate, vibrant culture, and favorable tax conditions for digital nomads.",
+    "tagline": "Work and live in paradise in Antigua and Barbuda.",
+    "image": "antigua_and_barbuda.jpg",
+    "tax_residency_trigger": 183,
+    "tax_residency_trigger_details": "You are considered a tax resident if you stay for longer than 183 days in a calendar year.",
+    "country_standard_taxes": {
+      "tax_currency": "XCD",
+      "employees": {
+        "income_tax": [],
+        "social_security": []
+      },
+      "contractors": {
+        "income_tax": [],
+        "social_security": []
+      },
+      "retirees": {
+        "income_tax": [],
+        "social_security": []
+      }
+    },
+    "visas": [
+      {
+        "visa_name": "Antigua Nomad Digital Residence",
+        "nomad_visa": true,
+        "official_government_link": "https://nomad.gov.ag/ui/applicationPreForm.php",
+        "key_consideration": "The visa can be renewed after the initial two-year period.",
+        "validity_months": 24,
+        "income_requirement": {
+          "currency": "USD",
+          "single_monthly": 4167,
+          "family_monthly": 4167,
+          "misc_details": "Applicants must have an annual income of at least $50,000."
+        },
+        "application_timeline_days": 14,
+        "application_in_country": false,
+        "application_fee": {
+          "currency": "USD",
+          "single": 1500,
+          "family": 3000,
+          "details": "Fee covers the main applicant, spouse, and up to two dependents. Additional dependents cost $250 each."
+        },
+        "dependent_application": true,
+        "local_tax_on_foreign_income": false,
+        "renewability": true,
+        "renewability_details": "The visa can be renewed after the initial two-year period.",
+        "days_in_country_to_renew_visa": 0,
+        "special_tax_regime": false,
+        "special_tax_regime_details": "",
+        "leads_to_permanent_residence": false,
+        "permanent_residency_details": "Digital nomad visa does not lead to permanent residency.",
+        "taxes": {
+          "employees": {
+            "income_tax": [],
+            "social_security": [
+              {
+                "min_income_range": 0,
+                "max_income_range": 0,
+                "rate_pct": 0
+              }
+            ]
+          },
+          "contractors": {
+            "income_tax": [],
+            "social_security": [
+              {
+                "min_income_range": 0,
+                "max_income_range": 0,
+                "rate_pct": 0
+              }
+            ]
+          },
+          "retirees": {
+            "income_tax": [],
+            "social_security": []
+          },
+          "special_regimes": [
+            {
+              "name": "Digital Nomad Visa",
+              "benefit": "No income tax on foreign-sourced income.",
+              "eligibility": [
+                "Proof of employment, self-employment, or freelance work that can be done remotely.",
+                "Valid police clearance from the past 6 months.",
+                "Health insurance covering the duration of stay."
+              ],
+              "contractors_with_foreign_clients_eligible": true,
+              "contractors_with_local_clients_eligible": false,
+              "employees_with_foreign_employer_eligible": true,
+              "social_security": false,
+              "income_tax": false
+            }
+          ]
+        },
+        "required_documents": [
+          "Full-color passport size photo for you and any dependent traveling with you. JPEG format.",
+          "Full-color copy of your partner’s, and/or dependents’ passport bio-page. The passports must be valid for at least 2 more years. JPEG format.",
+          "If traveling with a partner, copy of marriage certificate or a notarized letter of relationship if not married. PDF Format.",
+          "Certificate of medical insurance for all applicants for the period of your stay in the country. PDF or JPEG format.",
+          "Police clearance for applicants over 16 years. PDF format.",
+          "Proof of employment or self-employment in the form of a job letter, work permit, salary payments, or any other documentation that supports your activity. PDF format.",
+          "Proof of available funds of the main applicant. This can be any documentation that proves that you have:",
+          "Proof of payment of the non-refundable application fee. JPEG or PDF format."
+        ]
+      },
+      {
+        "visa_name": "Long Term Visa",
+        "special_tax_regime": false,
+        "nomad_visa": false,
+        "type": "long term",
+        "key_consideration": "Long term visa options for stays exceeding one year."
+      }
+    ]
+  },
+  {
+    "country_name": "Barbados",
+    "country_code": "BB",
+    "capital": "Bridgetown",
+    "display": true,
+    "currency": "BBD",
+    "anchor_country": true,
+    "has_nomad_visa": true,
+    "schengen_zone": false,
+    "in_european_union": false,
+    "cost_of_living_index": 79.4,
+    "cost_of_living_lvl": "$$$$",
+    "practical_tips": {
+      "financial_benefits": [
+        {
+          "benefit": "No Income Tax",
+          "description": "Barbados does not impose local income tax on foreign-sourced income for digital nomads."
+        },
+        {
+          "benefit": "Stable Currency",
+          "description": "The Barbadian Dollar (BBD) is the local currency, providing a stable financial environment."
+        }
+      ],
+      "lifestyle_benefits": [
+        {
+          "benefit": "Tropical Climate",
+          "description": "Enjoy a tropical climate with warm temperatures year-round."
+        },
+        {
+          "benefit": "High Quality of Life",
+          "description": "Barbados offers a high quality of life with beautiful beaches and friendly locals."
+        }
+      ],
+      "additional_benefits": [
+        {
+          "benefit": "English Speaking",
+          "description": "English is the official language, making communication easy for most expatriates."
+        },
+        {
+          "benefit": "Rich Culture",
+          "description": "The island has a rich culture with numerous festivals, including one of the Caribbean's most popular carnivals."
+        }
+      ]
+    },
+    "key_consideration": "The 12-Month Barbados Welcome Stamp allows remote workers to live and work in Barbados for up to a year with no local tax on foreign income.",
+    "best_for": [
+      "contractors",
+      "short stay nomads",
+      "long stay nomads",
+      "retirees"
+    ],
+    "action_comment": "Consider Barbados for its tropical climate, vibrant culture, and favorable tax conditions for digital nomads.",
+    "tagline": "Work and live in paradise in Barbados.",
+    "image": "barbados.jpg",
+    "tax_residency_trigger": 183,
+    "tax_residency_trigger_details": "You are considered a tax resident if you stay for longer than 183 days in a calendar year.",
+    "country_standard_taxes": {
+      "tax_currency": "BBD",
+      "employees": {
+        "income_tax": [],
+        "social_security": []
+      },
+      "contractors": {
+        "income_tax": [],
+        "social_security": []
+      },
+      "retirees": {
+        "income_tax": [],
+        "social_security": []
+      }
+    },
+    "visas": [
+      {
+        "visa_name": "12-Month Barbados Welcome Stamp",
+        "nomad_visa": true,
+        "official_government_link": "https://www.visitbarbados.org/barbados-welcome-stamp",
+        "key_consideration": "The visa can be extended for another 12 months.",
+        "validity_months": 12,
+        "income_requirement": {
+          "currency": "USD",
+          "single_monthly": 4167,
+          "family_monthly": 4167,
+          "misc_details": "Applicants must have an annual income of at least $50,000."
+        },
+        "application_timeline_days": 7,
+        "application_in_country": false,
+        "application_fee": {
+          "currency": "USD",
+          "single": 2000,
+          "family": 3000,
+          "details": "Fee covers the main applicant, spouse, and dependents. Additional dependents may not incur extra charges."
+        },
+        "dependent_application": true,
+        "local_tax_on_foreign_income": false,
+        "renewability": true,
+        "renewability_details": "The visa can be extended for another 12 months.",
+        "days_in_country_to_renew_visa": 0,
+        "special_tax_regime": false,
+        "special_tax_regime_details": "",
+        "leads_to_permanent_residence": false,
+        "permanent_residency_details": "Digital nomad visa does not lead to permanent residency.",
+        "taxes": {
+          "employees": {
+            "income_tax": [],
+            "social_security": []
+          },
+          "contractors": {
+            "income_tax": [],
+            "social_security": []
+          },
+          "retirees": {
+            "income_tax": [],
+            "social_security": []
+          },
+          "special_regimes": [
+            {
+              "name": "Digital Nomad Visa",
+              "benefit": "No income tax on foreign-sourced income.",
+              "eligibility": [
+                "Proof of employment, self-employment, or freelance work that can be done remotely.",
+                "Valid police clearance from the past 6 months.",
+                "Health insurance covering the duration of stay."
+              ],
+              "contractors_with_foreign_clients_eligible": true,
+              "contractors_with_local_clients_eligible": false,
+              "employees_with_foreign_employer_eligible": true,
+              "social_security": false,
+              "income_tax": false
+            }
+          ]
+        },
+        "required_documents": [
+          "Passport-sized photograph",
+          "Biodata page of your passport",
+          "Your birth certificate",
+          "If you have a partner and/or children traveling with you: Prerequisite entry visa if not from an exempted country."
+        ]
+      },
+      {
+        "visa_name": "Long Term Visa",
+        "special_tax_regime": false,
+        "nomad_visa": false,
+        "type": "long term",
+        "key_consideration": "Long term visa options for stays exceeding one year."
+      }
+    ]
+  },
+  {
+    "country_name": "Belize",
+    "country_code": "BZ",
+    "capital": "Belmopan",
+    "display": true,
+    "currency": "BZD",
+    "anchor_country": true,
+    "has_nomad_visa": true,
+    "schengen_zone": false,
+    "in_european_union": false,
+    "cost_of_living_index": 48.0,
+    "cost_of_living_lvl": "$$",
+    "practical_tips": {
+      "financial_benefits": [
+        {
+          "benefit": "No Income Tax",
+          "description": "Belize does not impose local income tax on foreign-sourced income for digital nomads."
+        },
+        {
+          "benefit": "Affordable Living",
+          "description": "Belize offers a relatively low cost of living compared to many Western countries."
+        }
+      ],
+      "lifestyle_benefits": [
+        {
+          "benefit": "Subtropical Climate",
+          "description": "Enjoy a subtropical climate with warm temperatures year-round."
+        },
+        {
+          "benefit": "High Quality of Life",
+          "description": "Belize offers a high quality of life with beautiful natural landscapes and rich cultural diversity."
+        }
+      ],
+      "additional_benefits": [
+        {
+          "benefit": "English Speaking",
+          "description": "English is the official language, making communication easy for most expatriates."
+        },
+        {
+          "benefit": "Rich Cultural Heritage",
+          "description": "The country boasts rich cultural diversity and numerous outdoor activities such as diving, exploring Mayan ruins, and jungle hiking."
+        }
+      ]
+    },
+    "key_consideration": "The Work Where You Vacation program allows remote workers to live and work in Belize for up to six months with no local tax on foreign income.",
+    "best_for": [
+      "contractors",
+      "short stay nomads",
+      "long stay nomads",
+      "retirees"
+    ],
+    "action_comment": "Consider Belize for its affordable living, warm climate, and diverse cultural and natural attractions.",
+    "tagline": "Work where you vacation in Belize.",
+    "image": "belize.jpg",
+    "tax_residency_trigger": 183,
+    "tax_residency_trigger_details": "You are considered a tax resident if you stay for longer than 183 days in a calendar year.",
+    "country_standard_taxes": {
+      "tax_currency": "BZD",
+      "employees": {
+        "income_tax": [],
+        "social_security": []
+      },
+      "contractors": {
+        "income_tax": [],
+        "social_security": []
+      },
+      "retirees": {
+        "income_tax": [],
+        "social_security": []
+      }
+    },
+    "visas": [
+      {
+        "visa_name": "Work Where You Vacation",
+        "nomad_visa": true,
+        "official_government_link": "https://www.travelbelize.org/work-where-you-vacation/",
+        "key_consideration": "The visa can be extended beyond the initial six months.",
+        "validity_months": 6,
+        "income_requirement": {
+          "currency": "USD",
+          "single_monthly": 6250,
+          "family_monthly": 8333,
+          "misc_details": "Individuals must have an annual income of at least $75,000; for couples or families, the minimum is $100,000."
+        },
+        "application_timeline_days": 14,
+        "application_in_country": false,
+        "application_fee": {
+          "currency": "USD",
+          "single": 300,
+          "family": 300,
+          "details": "Expected fee based on similar Temporary Residency visa; exact fee for Work Where You Vacation program not specified."
+        },
+        "dependent_application": true,
+        "local_tax_on_foreign_income": false,
+        "renewability": true,
+        "renewability_details": "The visa can be extended beyond the initial six months.",
+        "days_in_country_to_renew_visa": 0,
+        "special_tax_regime": false,
+        "special_tax_regime_details": "",
+        "leads_to_permanent_residence": false,
+        "permanent_residency_details": "Digital nomad visa does not lead to permanent residency.",
+        "taxes": {
+          "employees": {
+            "income_tax": [],
+            "social_security": []
+          },
+          "contractors": {
+            "income_tax": [],
+            "social_security": []
+          },
+          "retirees": {
+            "income_tax": [],
+            "social_security": []
+          },
+          "special_regimes": [
+            {
+              "name": "Digital Nomad Visa",
+              "benefit": "No income tax on foreign-sourced income.",
+              "eligibility": [
+                "Proof of employment, self-employment, or freelance work that can be done remotely.",
+                "Valid police clearance from the past 6 months.",
+                "Health insurance covering the duration of stay."
+              ],
+              "contractors_with_foreign_clients_eligible": true,
+              "contractors_with_local_clients_eligible": false,
+              "employees_with_foreign_employer_eligible": true,
+              "social_security": false,
+              "income_tax": false
+            }
+          ]
+        },
+        "required_documents": [
+          "Proof of employment outside of Belize (minimum annual income of $75,000 for individuals or $100,000 for couples/families)",
+          "Notarized banking reference and statement of account",
+          "Clear criminal record (no more than 6 months old)",
+          "Valid passport",
+          "Travel insurance policy (minimum of $50,000 of coverage)"
+        ]
+      },
+      {
+        "visa_name": "Long Term Visa",
+        "special_tax_regime": false,
+        "nomad_visa": false,
+        "type": "long term",
+        "key_consideration": "Long term visa options for stays exceeding one year."
+      }
+    ]
+  },
+  {
+    "country_name": "Bermuda",
+    "country_code": "BM",
+    "capital": "Hamilton",
+    "display": true,
+    "currency": "BMD",
+    "anchor_country": true,
+    "has_nomad_visa": true,
+    "schengen_zone": false,
+    "in_european_union": false,
+    "cost_of_living_index": 133.6,
+    "cost_of_living_lvl": "$$$$$",
+    "practical_tips": {
+      "financial_benefits": [
+        {
+          "benefit": "No Income Tax",
+          "description": "Bermuda does not impose local income tax on foreign-sourced income for digital nomads."
+        },
+        {
+          "benefit": "Stable Currency",
+          "description": "The Bermudian Dollar (BMD) is pegged to the US Dollar, providing a stable financial environment."
+        }
+      ],
+      "lifestyle_benefits": [
+        {
+          "benefit": "Subtropical Climate",
+          "description": "Enjoy a subtropical climate with warm temperatures year-round."
+        },
+        {
+          "benefit": "High Quality of Life",
+          "description": "Bermuda offers a high quality of life with beautiful natural landscapes and rich cultural diversity."
+        }
+      ],
+      "additional_benefits": [
+        {
+          "benefit": "English Speaking",
+          "description": "English is the official language, making communication easy for most expatriates."
+        },
+        {
+          "benefit": "Rich Cultural Heritage",
+          "description": "The country boasts rich cultural diversity and numerous outdoor activities such as diving, exploring grottos, and hiking."
+        }
+      ]
+    },
+    "key_consideration": "The One Year Residential Certificate program allows remote workers to live and work in Bermuda for up to a year with no local tax on foreign income.",
+    "best_for": [
+      "contractors",
+      "short stay nomads",
+      "long stay nomads",
+      "retirees"
+    ],
+    "action_comment": "Consider Bermuda for its stable financial environment, beautiful landscapes, and diverse cultural attractions.",
+    "tagline": "Live and work in paradise in Bermuda.",
+    "image": "bermuda.jpg",
+    "tax_residency_trigger": 183,
+    "tax_residency_trigger_details": "You are considered a tax resident if you stay for longer than 183 days in a calendar year.",
+    "country_standard_taxes": {
+      "tax_currency": "BMD",
+      "employees": {
+        "income_tax": [],
+        "social_security": []
+      },
+      "contractors": {
+        "income_tax": [],
+        "social_security": []
+      },
+      "retirees": {
+        "income_tax": [],
+        "social_security": []
+      }
+    },
+    "visas": [
+      {
+        "visa_name": "One Year Residential Certificate",
+        "nomad_visa": true,
+        "official_government_link": "https://www.gov.bm/online-services/one-year-residential-certificate",
+        "key_consideration": "The visa can be renewed for an additional year by reapplying.",
+        "validity_months": 12,
+        "income_requirement": {
+          "currency": "USD",
+          "single_monthly": 0,
+          "family_monthly": 0,
+          "misc_details": "No specific minimum income requirement is specified, but applicants must demonstrate they have sufficient financial means to support themselves during their stay."
+        },
+        "application_timeline_days": 10,
+        "application_in_country": false,
+        "application_fee": {
+          "currency": "USD",
+          "single": 263,
+          "family": 263,
+          "details": "The application fee is $263 per person, non-refundable."
+        },
+        "dependent_application": true,
+        "local_tax_on_foreign_income": false,
+        "renewability": true,
+        "renewability_details": "The visa can be renewed for an additional year by reapplying.",
+        "days_in_country_to_renew_visa": 0,
+        "special_tax_regime": false,
+        "special_tax_regime_details": "",
+        "leads_to_permanent_residence": false,
+        "permanent_residency_details": "Digital nomad visa does not lead to permanent residency.",
+        "taxes": {
+          "employees": {
+            "income_tax": [],
+            "social_security": []
+          },
+          "contractors": {
+            "income_tax": [],
+            "social_security": []
+          },
+          "retirees": {
+            "income_tax": [],
+            "social_security": []
+          },
+          "special_regimes": [
+            {
+              "name": "Digital Nomad Visa",
+              "benefit": "No income tax on foreign-sourced income.",
+              "eligibility": [
+                "Proof of employment or evidence of school enrollment.",
+                "Valid police clearance from the past 6 months.",
+                "Health insurance covering the duration of stay."
+              ],
+              "contractors_with_foreign_clients_eligible": true,
+              "contractors_with_local_clients_eligible": false,
+              "employees_with_foreign_employer_eligible": true,
+              "social_security": false,
+              "income_tax": false
+            }
+          ]
+        },
+        "required_documents": [
+          "Proof of employment or evidence of school enrollment.",
+          "A color scan of your passport’s photo page.",
+          "A color scan of visa information."
+        ]
+      },
+      {
+        "visa_name": "Long Term Visa",
+        "special_tax_regime": false,
+        "nomad_visa": false,
+        "type": "long term",
+        "key_consideration": "Long term visa options for stays exceeding one year."
+      }
+    ]
+  },
+  {
+    "country_name": "Cayman Islands",
+    "country_code": "KY",
+    "capital": "George Town",
+    "display": false,
+    "currency": "KYD",
+    "anchor_country": true,
+    "has_nomad_visa": true,
+    "schengen_zone": false,
+    "in_european_union": false,
+    "cost_of_living_index": 111.7,
+    "cost_of_living_lvl": "$$$$$",
+    "practical_tips": {
+      "financial_benefits": [
+        {
+          "benefit": "No Income Tax",
+          "description": "The Cayman Islands does not impose local income tax on foreign-sourced income for digital nomads."
+        },
+        {
+          "benefit": "Stable Currency",
+          "description": "The Cayman Islands Dollar (KYD) provides a stable financial environment."
+        }
+      ],
+      "lifestyle_benefits": [
+        {
+          "benefit": "Tropical Marine Climate",
+          "description": "Enjoy a tropical marine climate with warm temperatures year-round."
+        },
+        {
+          "benefit": "High Standard of Living",
+          "description": "The Cayman Islands offers a high standard of living with beautiful beaches and a strong financial sector."
+        }
+      ],
+      "additional_benefits": [
+        {
+          "benefit": "English Speaking",
+          "description": "English is the official language, making communication easy for most expatriates."
+        },
+        {
+          "benefit": "Diverse Outdoor Activities",
+          "description": "The country is known for its excellent diving spots and outdoor recreational activities."
+        }
+      ]
+    },
+    "key_consideration": "The Global Citizen Concierge Program (GCCP) allows remote workers to live and work in the Cayman Islands for up to two years with no local tax on foreign income.",
+    "best_for": [
+      "contractors",
+      "short stay nomads",
+      "long stay nomads",
+      "retirees"
+    ],
+    "action_comment": "Consider the Cayman Islands for its stable financial environment, beautiful landscapes, and diverse cultural attractions.",
+    "tagline": "Work and live in paradise in the Cayman Islands.",
+    "image": "cayman_islands.jpg",
+    "tax_residency_trigger": 183,
+    "tax_residency_trigger_details": "You are considered a tax resident if you stay for longer than 183 days in a calendar year.",
+    "country_standard_taxes": {
+      "tax_currency": "KYD",
+      "employees": {
+        "income_tax": [],
+        "social_security": []
+      },
+      "contractors": {
+        "income_tax": [],
+        "social_security": []
+      },
+      "retirees": {
+        "income_tax": [],
+        "social_security": []
+      }
+    },
+    "visas": [
+      {
+        "visa_name": "Global Citizen Concierge Program (GCCP)",
+        "nomad_visa": true,
+        "official_government_link": "https://www.visitcaymanislands.com/en-us/global-citizen-concierge",
+        "key_consideration": "The visa can be renewed for another two years by reapplying.",
+        "validity_months": 24,
+        "income_requirement": {
+          "currency": "USD",
+          "single_monthly": 8333,
+          "family_monthly": 15000,
+          "misc_details": "Minimum annual salary requirement: $100,000 for individuals, $150,000 for couples, and $180,000 for an adult or couple with children."
+        },
+        "application_timeline_days": 30,
+        "application_in_country": false,
+        "application_fee": {
+          "currency": "USD",
+          "single": 1469,
+          "family": 1469,
+          "details": "The application fee is $1469 per year for individuals and an extra $500 per dependent per year."
+        },
+        "dependent_application": true,
+        "local_tax_on_foreign_income": false,
+        "renewability": true,
+        "renewability_details": "The visa can be renewed for another two years by reapplying.",
+        "days_in_country_to_renew_visa": 0,
+        "special_tax_regime": false,
+        "special_tax_regime_details": "",
+        "leads_to_permanent_residence": false,
+        "permanent_residency_details": "The digital nomad visa does not lead to permanent residency.",
+        "taxes": {
+          "employees": {
+            "income_tax": [],
+            "social_security": []
+          },
+          "contractors": {
+            "income_tax": [],
+            "social_security": []
+          },
+          "retirees": {
+            "income_tax": [],
+            "social_security": []
+          },
+          "special_regimes": [
+            {
+              "name": "Digital Nomad Visa",
+              "benefit": "No income tax on foreign-sourced income.",
+              "eligibility": [
+                "Proof of employment or self-employment outside the Cayman Islands.",
+                "Valid police clearance from the past 6 months.",
+                "Health insurance covering the duration of stay."
+              ],
+              "contractors_with_foreign_clients_eligible": true,
+              "contractors_with_local_clients_eligible": false,
+              "employees_with_foreign_employer_eligible": true,
+              "social_security": false,
+              "income_tax": false
+            }
+          ]
+        },
+        "required_documents": [
+          "Proof of Employment or Income – a letter showing your proof that you are employed by a company outside the Cayman Islands, your position in the company, length of employment, and annual salary.",
+          "Proof of Legal Existence of Employer or Company – a Certificate of Incorporation or Registration Certificates of the company comes along with websites and social media profiles.",
+          "Proof of Applicant’s Identity – a photocopy of your passport.",
+          "Bank Reference – for the last 6 months.",
+          "Police Clearance – it should be issued within the last 6 months from the last place where you lived for over 6 months.",
+          "Proof of Health Insurance – request only for the first 30 days upon your arrival."
+        ]
+      },
+      {
+        "visa_name": "Long Term Visa",
+        "special_tax_regime": false,
+        "nomad_visa": false,
+        "type": "long term",
+        "key_consideration": "Long term visa options for stays exceeding one year."
+      }
+    ]
+  },
+  {
+    "country_name": "Costa Rica",
+    "country_code": "CR",
+    "capital": "San José",
+    "display": true,
+    "currency": "CRC",
+    "anchor_country": true,
+    "has_nomad_visa": true,
+    "schengen_zone": false,
+    "in_european_union": false,
+    "cost_of_living_index": 53.6,
+    "cost_of_living_lvl": "$$",
+    "practical_tips": {
+      "financial_benefits": [
+        {
+          "benefit": "No Income Tax for Costa Rica Digital Nomad Visa Holders",
+          "description": "Costa Rica does not impose local income tax on foreign-sourced income for digital nomads."
+        },
+        {
+          "benefit": "Affordable Living",
+          "description": "Costa Rica offers a relatively low cost of living compared to many Western countries."
+        }
+      ],
+      "lifestyle_benefits": [
+        {
+          "benefit": "Tropical Climate",
+          "description": "Enjoy a tropical climate with warm temperatures year-round."
+        },
+        {
+          "benefit": "High Quality of Life",
+          "description": "Costa Rica offers a high quality of life with beautiful natural landscapes and rich biodiversity."
+        }
+      ],
+      "additional_benefits": [
+        {
+          "benefit": "Friendly Locals",
+          "description": "Costa Ricans, known as 'Ticos,' are known for their friendliness and hospitality."
+        },
+        {
+          "benefit": "Rich Biodiversity",
+          "description": "The country is known for its biodiversity and beautiful landscapes."
+        }
+      ]
+    },
+    "key_consideration": "Costa Rica's Digital Nomad Visa allows remote workers to live and work in the country for up to one year with no local tax on foreign income. Your income must be stable, in other words, you must be able to demonstrate that you consistently earn the minimum amount. Please bear this in mind.",
+    "best_for": [
+      "contractors",
+      "short stay nomads",
+      "long stay nomads",
+      "retirees"
+    ],
+    "action_comment": "Consider Costa Rica for its balance of work and leisure opportunities.",
+    "tagline": "Pura Vida in Costa Rica.",
+    "image": "costa_rica.jpg",
+    "tax_residency_trigger": 183,
+    "tax_residency_trigger_details": "You are considered a tax resident if you stay for longer than 183 days in a calendar year.",
+    "country_standard_taxes": {
+      "tax_currency": "CRC",
+      "employees": {
+        "income_tax": [],
+        "social_security": []
+      },
+      "contractors": {
+        "income_tax": [],
+        "social_security": []
+      },
+      "retirees": {
+        "income_tax": [],
+        "social_security": []
+      }
+    },
+    "visas": [
+      {
+        "visa_name": "Digital Nomad Visa",
+        "nomad_visa": true,
+        "official_government_link": "https://www.visitcostarica.com/en/costa-rica/digital-nomads",
+        "key_consideration": "The visa is renewable for an additional year if you meet the requirements and have spent at least 80 days in Costa Rica during the first year. Your income must be stable, in other words, you must be able to demonstrate that you consistently earn the minimum amount. Please bear this in mind.",
+        "validity_months": 12,
+        "income_requirement": {
+          "currency": "USD",
+          "single_monthly": 3000,
+          "family_monthly": 4000,
+          "misc_details": "Minimum monthly income requirement: $3,000 for individuals and $4,000 for families."
+        },
+        "application_timeline_days": 14,
+        "application_in_country": false,
+        "application_fee": {
+          "currency": "USD",
+          "single": 190,
+          "family": 190,
+          "details": "The application fee includes $100 for the government application and $90 for the issuance of the immigration document."
+        },
+        "dependent_application": true,
+        "local_tax_on_foreign_income": false,
+        "renewability": true,
+        "renewability_details": "The visa is renewable for an additional year if you meet the requirements and have spent at least 80 days in Costa Rica during the first year.",
+        "days_in_country_to_renew_visa": 80,
+        "special_tax_regime": true,
+        "special_tax_regime_details": "Digital nomads are exempt from paying income tax on foreign-sourced income.",
+        "leads_to_permanent_residence": false,
+        "permanent_residency_details": "The digital nomad visa does not lead to permanent residency.",
+        "taxes": {
+          "employees": {
+            "income_tax": [],
+            "social_security": []
+          },
+          "contractors": {
+            "income_tax": [],
+            "social_security": []
+          },
+          "retirees": {
+            "income_tax": [],
+            "social_security": []
+          },
+          "special_regimes": [
+            {
+              "name": "Digital Nomad Visa",
+              "benefit": "Exemption from income tax on foreign-sourced income.",
+              "eligibility": [
+                "Proof of employment or self-employment outside Costa Rica.",
+                "Proof of payments for the past 12 months showing that the digital nomad receives a stable monthly income of at least $3,000 for an individual, or $4,000 per month for a family.",
+                "Health insurance for the duration of the stay.",
+                "Proof of accommodation for the duration of your stay",
+                "An employment contract or freelancer agreements"
+              ],
+              "contractors_with_foreign_clients_eligible": true,
+              "contractors_with_local_clients_eligible": false,
+              "employees_with_foreign_employer_eligible": true,
+              "social_security": false,
+              "income_tax": false
+            }
+          ]
+        },
+        "required_documents": [
+          "Application form signed by the applicant or their representative.",
+          "Receipt confirming payment to the Government in the amount of one hundred US dollars ($100.00) or the equivalent amount in Costa Rican colones at the reference exchange rate of the Central Bank of Costa Rica.",
+          "A copy of the photo page of the foreign national’s valid passport, which contains their photograph and biographical information, as well as the page containing the Costa Rican entry stamp if the applicant is already in Costa Rica.",
+          "Bank statements accompanied by an affidavit declaring that the statements have been requested and obtained from the corresponding financial institution. These statements must provide evidence of income and indicate that the individual has received payments for work during the previous year from outside Costa Rica of at least $3,000.00 per month at the official sale rate determined by the Central Bank of Costa Rica, or four thousand US dollars ($4,000.00) for a family.",
+          "Or the applicant may submit a certification of the bank statements issued by a public accountant or notary public, if the procedure is completed in Costa Rica, or by the counterparts of such professionals abroad in accordance with the legislation of the respective country. This certification is the only component that must be accompanied by the respective consular legalization or apostille."
+        ]
+      },
+      {
+        "visa_name": "Long Term Visa",
+        "special_tax_regime": false,
+        "nomad_visa": false,
+        "type": "long term",
+        "key_consideration": "Long term visa options for stays exceeding one year."
+      }
+    ]
+  },
+  {
+    "country_name": "Croatia",
+    "country_code": "HR",
+    "capital": "Zagreb",
+    "display": true,
+    "currency": "HRK",
+    "anchor_country": true,
+    "has_nomad_visa": true,
+    "schengen_zone": true,
+    "in_european_union": true,
+    "cost_of_living_index": 46.9,
+    "cost_of_living_lvl": "$$",
+    "practical_tips": {
+      "financial_benefits": [
+        {
+          "benefit": "No Income Tax for Croatia Digital Nomad Visa Holders",
+          "description": "Croatia does not impose local income tax on foreign-sourced income for digital nomads."
+        },
+        {
+          "benefit": "Affordable Living",
+          "description": "Croatia offers a relatively low cost of living compared to many Western countries."
+        }
+      ],
+      "lifestyle_benefits": [
+        {
+          "benefit": "Mediterranean Climate",
+          "description": "Enjoy a Mediterranean climate with warm summers and mild winters."
+        },
+        {
+          "benefit": "High Quality of Life",
+          "description": "Croatia offers a high quality of life with beautiful natural landscapes and rich cultural heritage."
+        }
+      ],
+      "additional_benefits": [
+        {
+          "benefit": "Friendly Locals",
+          "description": "Croatians are known for their friendliness and hospitality."
+        },
+        {
+          "benefit": "Rich History",
+          "description": "The country is known for its historic sites and vibrant culture."
+        }
+      ]
+    },
+    "key_consideration": "Croatia's Digital Nomad Residence Permit allows remote workers to live and work in the country for up to one year with no local tax on foreign income. Note that the permit is not renewable, but you can apply for a new one after leaving the country for 90 days.",
+    "best_for": [
+      "contractors",
+      "short stay nomads",
+      "long stay nomads",
+      "retirees"
+    ],
+    "action_comment": "Consider Croatia for its combination of work opportunities and rich cultural experiences.",
+    "tagline": "Live and work in the heart of Europe.",
+    "image": "croatia.jpg",
+    "tax_residency_trigger": 183,
+    "tax_residency_trigger_details": "You are considered a tax resident if you stay for longer than 183 days in a calendar year.",
+    "country_standard_taxes": {
+      "tax_currency": "HRK",
+      "employees": {
+        "income_tax": [],
+        "social_security": []
+      },
+      "contractors": {
+        "income_tax": [],
+        "social_security": []
+      },
+      "retirees": {
+        "income_tax": [],
+        "social_security": []
+      }
+    },
+    "visas": [
+      {
+        "visa_name": "Digital Nomad Residence Permit",
+        "nomad_visa": true,
+        "official_government_link": "https://mup.gov.hr/uzg-covid/english/286212",
+        "key_consideration": "The visa is not renewable, but you can apply for a new one after leaving the country for 90 days.",
+        "validity_months": 12,
+        "income_requirement": {
+          "currency": "HRK",
+          "single_monthly": 16907,
+          "annual": 202890,
+          "misc_details": "Minimum monthly income requirement: 16,907 HRK (approx. $2,658)."
+        },
+        "application_timeline_days": 60,
+        "application_in_country": false,
+        "application_fee": {
+          "currency": "EUR",
+          "single": 150,
+          "family": 150,
+          "details": "The application fee includes the cost of the temporary residence permit, visa, and biometric residence card."
+        },
+        "dependent_application": true,
+        "local_tax_on_foreign_income": false,
+        "renewability": false,
+        "renewability_details": "The visa is not renewable, but you can apply for a new one after leaving the country for 90 days.",
+        "days_in_country_to_renew_visa": 90,
+        "special_tax_regime": true,
+        "special_tax_regime_details": "Digital nomads are exempt from paying income tax on foreign-sourced income.",
+        "leads_to_permanent_residence": false,
+        "permanent_residency_details": "The digital nomad visa does not lead to permanent residency.",
+        "taxes": {
+          "employees": {
+            "income_tax": [],
+            "social_security": []
+          },
+          "contractors": {
+            "income_tax": [],
+            "social_security": []
+          },
+          "retirees": {
+            "income_tax": [],
+            "social_security": []
+          },
+          "special_regimes": [
+            {
+              "name": "Digital Nomad Visa",
+              "benefit": "Exemption from income tax on foreign-sourced income.",
+              "eligibility": [
+                "Non-EU citizens – EU citizens do not need a residency permit as being part of the EU automatically grants them the right to live in the country.",
+                "Valid Passport – You must ensure that your passport is valid at least 3 months after the visa term.",
+                "Proof of consistent, monthly income from employers or clients outside Croatia of at least 16,907 HRK (~$2,700). In lieu of proof of income, proof of funds instead of 202,890 HRK (~$32,000) is acceptable.",
+                "Proof of health insurance in Croatia for the duration of the stay.",
+                "A certified background check from your home country. Or the last country that you lived in for more than a year if it was not your home country. American applicants will need a FBI background check.",
+                "A lease agreement or booking confirmation (hotels or hostels are acceptable) of your address in Croatia. If this is not a long term lease, you can later change your address at a police station."
+              ],
+              "contractors_with_foreign_clients_eligible": true,
+              "contractors_with_local_clients_eligible": false,
+              "employees_with_foreign_employer_eligible": true,
+              "social_security": false,
+              "income_tax": false
+            }
+          ]
+        },
+        "required_documents": [
+          "Copy of passport",
+          "Proof of employment by a foreign employer or foreign clients for contractors",
+          "Proof of sufficient income",
+          "Past 3 months of bank statements",
+          "Proof of long-term lease or temporary residence address in Croatia",
+          "Criminal background check (FBI background check for Americans)",
+          "Submit the application (online or in-person)"
+        ]
+      }
+    ]
+  }
+]

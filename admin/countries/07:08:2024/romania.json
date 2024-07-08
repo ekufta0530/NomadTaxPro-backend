@@ -1,0 +1,166 @@
+{
+  "country_name": "Romania",
+  "country_code": "RO",
+  "capital": "Bucharest",
+  "display": true,
+  "currency": "RON",
+  "anchor_country": false,
+  "has_nomad_visa": true,
+  "schengen_zone": false,
+  "in_european_union": true,
+  "cost_of_living_index": 38.8,
+  "cost_of_living_lvl": "$",
+  "practical_tips": {
+    "financial_benefits": [
+      {
+        "benefit": "Affordable Living",
+        "description": "Romania offers a lower cost of living compared to Western European countries."
+      },
+      {
+        "benefit": "Flat Income Tax Rate",
+        "description": "A flat income tax rate of 10% is applied to all income for residents."
+      }
+    ],
+    "lifestyle_benefits": [
+      {
+        "benefit": "Rich Cultural Experience",
+        "description": "Romania offers a rich cultural experience with numerous historical sites and vibrant social scenes."
+      },
+      {
+        "benefit": "Quality of Life",
+        "description": "Romania provides a high quality of life with excellent healthcare and diverse landscapes."
+      }
+    ],
+    "additional_benefits": [
+      {
+        "benefit": "Fast Internet",
+        "description": "Romania has one of the fastest internet speeds in Europe."
+      },
+      {
+        "benefit": "English Widely Spoken",
+        "description": "English is widely spoken in major cities."
+      }
+    ]
+  },
+  "key_consideration": "Romania's Digital Nomad Visa offers a unique blend of Eastern European affordability with a rich cultural and historical backdrop, ideal for digital nomads seeking fast internet, scenic beauty, and a vibrant culture at a lower cost of living.",
+  "best_for": [
+    "contractors",
+    "short stay nomads",
+    "long stay nomads",
+    "retirees"
+  ],
+  "action_comment": "Consider Romania for its combination of affordable living costs and rich cultural experiences.",
+  "tagline": "Work remotely in the heart of Eastern Europe.",
+  "image": "romania.jpg",
+  "tax_residency_trigger": 183,
+  "tax_residency_trigger_details": "If you spend more than 183 days in Romania during twelve consecutive months, you're considered a tax resident.",
+  "country_standard_taxes": {
+    "tax_currency": "RON",
+    "employees": {
+      "income_tax": [
+        {
+          "income_bracket": "All income",
+          "rate": "10%",
+          "details": "A flat income tax rate of 10% is applied to all income for residents. Non-residents are taxed only on their income earned in Romania."
+        }
+      ],
+      "social_security": {
+        "employee_contribution_percent": { "min": 35.0, "max": 35.0, "misc_details": "Employees contribute 25% towards pension and 10% towards health insurance." }
+      }
+    },
+    "contractors": {
+      "income_tax": [
+        {
+          "income_bracket": "All income",
+          "rate": "10%",
+          "details": "Contractors are subject to the same flat income tax rate of 10% on all income earned in Romania."
+        }
+      ],
+      "social_security": {
+        "self_employed_contribution": { "min": 35.0, "max": 35.0, "misc_details": "Self-employed individuals contribute 25% towards pension and 10% towards health insurance." }
+      }
+    },
+    "retirees": {
+      "income_tax": [
+        {
+          "income_bracket": "All income",
+          "rate": "10%",
+          "details": "Retirees are subject to the same flat income tax rate of 10% on all income earned in Romania."
+        }
+      ],
+      "social_security": 0
+    }
+  },
+  "visas": [
+    {
+      "visa_name": "Romania Digital Nomad Visa",
+      "nomad_visa": true,
+      "official_government_link": "https://evisa.mae.ro/Home?lang=en-US#",
+      "key_consideration": "The visa can be renewed for another 12 months if the internationals continue to meet the necessary requirements.",
+      "validity_months": 12,
+      "income_requirement": {
+        "currency": "EUR",
+        "monthly": 3700,
+        "misc_details": "Applicants must show proof of income meeting the minimum threshold of €3,700 per month."
+      },
+      "application_timeline_days": 14,
+      "application_in_country": true,
+      "application_fee": {
+        "currency": "EUR",
+        "single": "Varies, not confirmed by the Romanian government",
+        "family": "Based on individual applications, additional cost for dependents may apply",
+        "details": "Based on individual applications, no specific discount for couples."
+      },
+      "dependent_application": true,
+      "local_tax_on_foreign_income": true,
+      "renewability": true,
+      "renewability_details": "Can be renewed for another 12 months if the internationals continue to meet the necessary requirements.",
+      "special_tax_regime": false,
+      "special_tax_regime_details": "No special tax regime for digital nomads; taxation based on residency status.",
+      "leads_to_permanent_residence": false,
+      "permanent_residency_details": "Digital Nomad Visa does not directly lead to permanent residence.",
+      "taxes": {
+        "employees": {
+          "income_tax": [],
+          "social_security": [
+            {
+              "min_income_range": 0,
+              "max_income_range": null,
+              "rate_pct": 0,
+              "misc_details": "No exemption from local income tax for the first 183 days unless tax resident status is obtained. After 183 days, regular tax rates apply."
+            }
+          ]
+        },
+        "contractors": {
+          "income_tax": [],
+          "social_security": [
+            {
+              "min_income_range": 0,
+              "max_income_range": null,
+              "rate_pct": 0,
+              "misc_details": "No exemption from local income tax for the first 183 days unless tax resident status is obtained. After 183 days, regular tax rates apply."
+            }
+          ]
+        },
+        "retirees": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "special_regimes": []
+      },
+      "required_documents": [
+        "Valid passport",
+        "Proof of accommodation",
+        "Proof of health insurance of at least €30,000 for the duration of the stay",
+        "Proof of inbound and outbound travel (such as plane tickets)",
+        "Proof of a clean criminal background (FBI background check is preferable for Americans)",
+        "Proof of employment by a non-Romanian company or an incorporated freelancer business without Romanian clients.",
+        "History of employment or freelancer business for the last 3 years.",
+        "Proof of consistent income above €3,300.",
+        "Proof of ability to work remotely, such as an employment contract or freelancer contracts. The original versions plus translations into Romanian are required.",
+        "Letter of intent stating your reasons for traveling to Romania and the work that you will perform there. The letter can be in English, but will also need a Romanian translation.",
+        "Proof via a notarized document that all taxes have been paid and no history of failure to pay taxes. Again any English documents need to have a Romanian translation."
+      ]
+    }
+  ]
+}

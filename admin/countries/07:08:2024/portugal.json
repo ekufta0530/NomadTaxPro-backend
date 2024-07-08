@@ -1,0 +1,177 @@
+{
+    "country_name": "Portugal",
+    "country_code": "PT",
+    "capital": "Lisbon",
+    "display": true,
+    "currency": "EUR",
+    "anchor_country": false,
+    "has_nomad_visa": true,
+    "schengen_zone": true,
+    "in_european_union": true,
+    "cost_of_living_index": 46.6,
+    "cost_of_living_lvl": "$$",
+    "practical_tips": {
+      "financial_benefits": [
+        {
+          "benefit": "Affordable Living",
+          "description": "Portugal offers a lower cost of living compared to many Western European countries."
+        },
+        {
+          "benefit": "Quality of Life",
+          "description": "Portugal provides a high quality of life with excellent healthcare and a mild Mediterranean climate."
+        }
+      ],
+      "lifestyle_benefits": [
+        {
+          "benefit": "Rich Cultural Experience",
+          "description": "Portugal offers a rich cultural experience with numerous historical sites and vibrant social scenes."
+        },
+        {
+          "benefit": "Networking Opportunities",
+          "description": "Join digital nomad communities in major cities like Lisbon and Porto."
+        }
+      ],
+      "additional_benefits": [
+        {
+          "benefit": "Public Health Insurance",
+          "description": "Take advantage of Portugal's excellent healthcare system by obtaining public health insurance."
+        },
+        {
+          "benefit": "Vibrant Social Scene",
+          "description": "Enjoy Portugal’s vibrant social scene and after-work activities."
+        }
+      ]
+    },
+    "key_consideration": "Portugal's Digital Nomad Visa allows remote workers to live and work in the country for up to one year, with the option to renew up to four times, for a maximum of five years. The long-term visa is also able to be extended once, also for a total of five years (renewal at end of year 2, for 3 more years).",
+    "best_for": [
+      "contractors",
+      "short stay nomads",
+      "long stay nomads",
+      "retirees"
+    ],
+    "action_comment": "Consider Portugal for its combination of affordable living costs and rich cultural experiences.",
+    "tagline": "Work remotely in the heart of Western Europe.",
+    "image": "portugal.jpg",
+    "tax_residency_trigger": 183,
+    "tax_residency_trigger_details": "You are considered a tax resident if you stay for longer than 183 days in a calendar year, subject to local income tax rates.",
+    "country_standard_taxes": {
+      "tax_currency": "EUR",
+      "employees": {
+        "income_tax": [
+          { "income_min": 0, "income_max": 7112, "rate": 14.5 },
+          { "income_min": 7113, "income_max": 10732, "rate": 23 },
+          { "income_min": 10733, "income_max": 20322, "rate": 28.5 },
+          { "income_min": 20323, "income_max": 25075, "rate": 35 },
+          { "income_min": 25076, "income_max": 36967, "rate": 37 },
+          { "income_min": 36968, "income_max": 80882, "rate": 45 },
+          { "income_min": 80883, "income_max": null, "rate": 48 }
+        ],
+        "social_security": {
+          "employee_contribution_percent": { "min": 11, "max": 11, "misc_details": null }
+        }
+      },
+      "contractors": {
+        "income_tax": [
+          { "income_min": 0, "income_max": 7112, "rate": 14.5 },
+          { "income_min": 7113, "income_max": 10732, "rate": 23 },
+          { "income_min": 10733, "income_max": 20322, "rate": 28.5 },
+          { "income_min": 20323, "income_max": 25075, "rate": 35 },
+          { "income_min": 25076, "income_max": 36967, "rate": 37 },
+          { "income_min": 36968, "income_max": 80882, "rate": 45 },
+          { "income_min": 80883, "income_max": null, "rate": 48 }
+        ],
+        "social_security": {
+          "self_employed_contribution": { "min": 21.4, "max": 21.4, "misc_details": "Standard rate for self-employed individuals." }
+        }
+      },
+      "retirees": {
+        "income_tax": [
+          { "income_min": 0, "income_max": 7112, "rate": 14.5 },
+          { "income_min": 7113, "income_max": 10732, "rate": 23 },
+          { "income_min": 10733, "income_max": 20322, "rate": 28.5 },
+          { "income_min": 20323, "income_max": 25075, "rate": 35 },
+          { "income_min": 25076, "income_max": 36967, "rate": 37 },
+          { "income_min": 36968, "income_max": 80882, "rate": 45 },
+          { "income_min": 80883, "income_max": null, "rate": 48 }
+        ],
+        "social_security": 0
+      }
+    },
+    "visas": [
+      {
+        "visa_name": "Portugal Digital Nomad Visa (D8, Digital Nomad Visa)",
+        "nomad_visa": true,
+        "official_government_link": "https://vistos.mne.gov.pt/en/national-visas/general-information/type-of-visa",
+        "key_consideration": "The visa can be extended up to four times, for a maximum of five years. The long-term visa is also able to be extended once, also for a total of five years (renewal at end of year 2, for 3 more years).",
+        "validity_months": 12,
+        "income_requirement": {
+          "currency": "EUR",
+          "monthly": 3040,
+          "misc_details": "Applicants must show proof of income meeting the minimum threshold of €3,040 per month. Income requirement increases by 50% for a spouse and by 30% for each child."
+        },
+        "application_timeline_days": 120,
+        "application_in_country": true,
+        "application_fee": {
+          "currency": "EUR",
+          "single": 180,
+          "couple": null,
+          "family": null,
+          "details": "Each person must apply individually."
+        },
+        "dependent_application": true,
+        "local_tax_on_foreign_income": false,
+        "renewability": true,
+        "renewability_details": "Can be extended up to four times, for a maximum of five years.",
+        "special_tax_regime": false,
+        "special_tax_regime_details": "Portugal recently ended the prior 'Non Habitual Tax Resident Program', but is considering a new version. It is especially important to talk to a tax professional about your specific situation.",
+        "leads_to_permanent_residence": true,
+        "permanent_residency_details": "After five years of continuous residence, you may be eligible to apply for permanent residency, but only on the long-term, residency Portuguese digital nomad visa.",
+        "taxes": {
+          "employees": {
+            "income_tax": [],
+            "social_security": [
+              {
+                "min_income_range": 0,
+                "max_income_range": null,
+                "rate_pct": 0,
+                "misc_details": "No exemption from local income tax for the first 183 days unless tax resident status is obtained. After 183 days, regular tax rates apply."
+              }
+            ]
+          },
+          "contractors": {
+            "income_tax": [],
+            "social_security": [
+              {
+                "min_income_range": 0,
+                "max_income_range": null,
+                "rate_pct": 0,
+                "misc_details": "No exemption from local income tax for the first 183 days unless tax resident status is obtained. After 183 days, regular tax rates apply."
+              }
+            ]
+          },
+          "retirees": {
+            "income_tax": [],
+            "social_security": []
+          },
+          "special_regimes": []
+        },
+        "required_documents": [
+          "A completed visa application form.",
+          "A letter explaining the visa request. It should include information about yourself, reasons for the visa request, any relevant personal ties to Portugal, where you will be living and how you will be financially independent while in Portugal.",
+          "Passport valid for at least 6 months after the stay.",
+          "Two passport style photos.",
+          "Proof of regular income meeting the minimum requirements, including 3 months of bank statements with proof of the income.",
+          "Proof of accommodation in Portugal.",
+          "A clean criminal background check (FBI background check required for Americans).",
+          "Proof of health insurance in Portugal.",
+          "Proof of payment of visa fee.",
+          "Proof of accommodation for your stay.",
+          "Obtain a Portuguese NIF number (Fiscal Number).",
+          "Opening a Portuguese bank account may be required by some consulates.",
+          "Most recent tax return.",
+          "Valid employment agreement or contractor agreements with non-Portuguese clients."
+        ]
+      }
+    ]
+  }
+  

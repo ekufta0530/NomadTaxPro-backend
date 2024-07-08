@@ -1,0 +1,146 @@
+{
+  "country_name": "Croatia",
+  "country_code": "HR",
+  "capital": "Zagreb",
+  "display": true,
+  "currency": "HRK",
+  "anchor_country": true,
+  "has_nomad_visa": true,
+  "schengen_zone": true,
+  "in_european_union": true,
+  "cost_of_living_index": 46.9,
+  "cost_of_living_lvl": "$$",
+  "practical_tips": {
+    "financial_benefits": [
+      {
+        "benefit": "No Income Tax for Croatia Digital Nomad Visa Holders",
+        "description": "Croatia does not impose local income tax on foreign-sourced income for digital nomads."
+      },
+      {
+        "benefit": "Affordable Living",
+        "description": "Croatia offers a relatively low cost of living compared to many Western countries."
+      }
+    ],
+    "lifestyle_benefits": [
+      {
+        "benefit": "Mediterranean Climate",
+        "description": "Enjoy a Mediterranean climate with warm summers and mild winters."
+      },
+      {
+        "benefit": "High Quality of Life",
+        "description": "Croatia offers a high quality of life with beautiful natural landscapes and rich cultural heritage."
+      }
+    ],
+    "additional_benefits": [
+      {
+        "benefit": "Friendly Locals",
+        "description": "Croatians are known for their friendliness and hospitality."
+      },
+      {
+        "benefit": "Rich History",
+        "description": "The country is known for its historic sites and vibrant culture."
+      }
+    ]
+  },
+  "key_consideration": "Croatia's Digital Nomad Residence Permit allows remote workers to live and work in the country for up to one year with no local tax on foreign income. Note that the permit is not renewable, but you can apply for a new one after leaving the country for 90 days.",
+  "best_for": [
+    "contractors",
+    "short stay nomads",
+    "long stay nomads",
+    "retirees"
+  ],
+  "action_comment": "Consider Croatia for its combination of work opportunities and rich cultural experiences.",
+  "tagline": "Live and work in the heart of Europe.",
+  "image": "croatia.jpg",
+  "tax_residency_trigger": 183,
+  "tax_residency_trigger_details": "You are considered a tax resident if you stay for longer than 183 days in a calendar year.",
+  "country_standard_taxes": {
+    "tax_currency": "HRK",
+    "employees": {
+      "income_tax": [],
+      "social_security": []
+    },
+    "contractors": {
+      "income_tax": [],
+      "social_security": []
+    },
+    "retirees": {
+      "income_tax": [],
+      "social_security": []
+    }
+  },
+  "visas": [
+    {
+      "visa_name": "Digital Nomad Residence Permit",
+      "nomad_visa": true,
+      "official_government_link": "https://mup.gov.hr/uzg-covid/english/286212",
+      "key_consideration": "The visa is not renewable, but you can apply for a new one after leaving the country for 90 days.",
+      "validity_months": 12,
+      "income_requirement": {
+        "currency": "HRK",
+        "single_monthly": 16907,
+        "annual": 202890,
+        "misc_details": "Minimum monthly income requirement: 16,907 HRK (approx. $2,658)."
+      },
+      "application_timeline_days": 60,
+      "application_in_country": false,
+      "application_fee": {
+        "currency": "EUR",
+        "single": 150,
+        "family": 150,
+        "details": "The application fee includes the cost of the temporary residence permit, visa, and biometric residence card."
+      },
+      "dependent_application": true,
+      "local_tax_on_foreign_income": false,
+      "renewability": false,
+      "renewability_details": "The visa is not renewable, but you can apply for a new one after leaving the country for 90 days.",
+      "days_in_country_to_renew_visa": 90,
+      "special_tax_regime": true,
+      "special_tax_regime_details": "Digital nomads are exempt from paying income tax on foreign-sourced income.",
+      "leads_to_permanent_residence": false,
+      "permanent_residency_details": "The digital nomad visa does not lead to permanent residency.",
+      "taxes": {
+        "employees": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "contractors": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "retirees": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "special_regimes": [
+          {
+            "name": "Digital Nomad Visa",
+            "benefit": "Exemption from income tax on foreign-sourced income.",
+            "eligibility": [
+              "Non-EU citizens – EU citizens do not need a residency permit as being part of the EU automatically grants them the right to live in the country.",
+              "Valid Passport – You must ensure that your passport is valid at least 3 months after the visa term.",
+              "Proof of consistent, monthly income from employers or clients outside Croatia of at least 16,907 HRK (~$2,700). In lieu of proof of income, proof of funds instead of 202,890 HRK (~$32,000) is acceptable.",
+              "Proof of health insurance in Croatia for the duration of the stay.",
+              "A certified background check from your home country. Or the last country that you lived in for more than a year if it was not your home country. American applicants will need a FBI background check.",
+              "A lease agreement or booking confirmation (hotels or hostels are acceptable) of your address in Croatia. If this is not a long term lease, you can later change your address at a police station."
+            ],
+            "contractors_with_foreign_clients_eligible": true,
+            "contractors_with_local_clients_eligible": false,
+            "employees_with_foreign_employer_eligible": true,
+            "social_security": false,
+            "income_tax": false
+          }
+        ]
+      },
+      "required_documents": [
+        "Copy of passport",
+        "Proof of employment by a foreign employer or foreign clients for contractors",
+        "Proof of sufficient income",
+        "Past 3 months of bank statements",
+        "Proof of long-term lease or temporary residence address in Croatia",
+        "Criminal background check (FBI background check for Americans)",
+        "Submit the application (online or in-person)"
+      ]
+    }
+  ]
+}

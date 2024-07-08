@@ -1,0 +1,189 @@
+{
+    "country_name": "Greece",
+    "country_code": "GR",
+    "capital": "Athens",
+    "display": true,
+    "currency": "EUR",
+    "anchor_country": true,
+    "has_nomad_visa": true,
+    "schengen_zone": true,
+    "in_european_union": true,
+    "cost_of_living_index": 54.2,
+    "cost_of_living_lvl": "$$",
+    "practical_tips": {
+      "financial_benefits": [
+        {
+          "benefit": "50% Tax Reduction",
+          "description": "Non-EU/EEA citizens committing to stay at least two years can benefit from a 50% reduction in income tax for up to seven years."
+        },
+        {
+          "benefit": "Affordable Living",
+          "description": "Greece offers a lower cost of living compared to many Western European countries."
+        }
+      ],
+      "lifestyle_benefits": [
+        {
+          "benefit": "Rich Cultural Experience",
+          "description": "Greece offers a rich cultural experience with numerous historical sites and vibrant social scenes."
+        },
+        {
+          "benefit": "Quality of Life",
+          "description": "Greece provides a high quality of life with excellent healthcare and a mild Mediterranean climate."
+        }
+      ],
+      "additional_benefits": [
+        {
+          "benefit": "Networking Opportunities",
+          "description": "Join digital nomad communities in major cities like Athens and Thessaloniki."
+        },
+        {
+          "benefit": "Public Health Insurance",
+          "description": "Take advantage of Greece's excellent healthcare system by obtaining public health insurance."
+        }
+      ]
+    },
+    "key_consideration": "The Greece Digital Nomad Visa allows non-EU citizens to live and work remotely in Greece for up to 2 years, with the possibility of renewal. Applicants must prove a minimum monthly income of €3,500.",
+    "best_for": [
+      "contractors",
+      "short stay nomads",
+      "long stay nomads",
+      "retirees"
+    ],
+    "action_comment": "Consider Greece for its combination of rich cultural experiences and affordable living costs.",
+    "tagline": "Work remotely in the cradle of Western civilization.",
+    "image": "greece.jpg",
+    "tax_residency_trigger": 183,
+    "tax_residency_trigger_details": "You are considered a tax resident if you stay for longer than 183 days in a calendar year, subject to local income tax rates starting from €12,000 a year.",
+    "country_standard_taxes": {
+      "tax_currency": "EUR",
+      "employees": {
+        "income_tax": [
+          { "income_min": 0, "income_max": 10000, "rate": 9 },
+          { "income_min": 10001, "income_max": 20000, "rate": 22 },
+          { "income_min": 20001, "income_max": 30000, "rate": 28 },
+          { "income_min": 30001, "income_max": 40000, "rate": 36 },
+          { "income_min": 40001, "income_max": null, "rate": 44 }
+        ],
+        "social_security": {
+          "employee_contribution_percent": { "min": 15.33, "max": 15.33, "misc_details": "Varies slightly based on employment type" }
+        }
+      },
+      "contractors": {
+        "income_tax": [
+          { "income_min": 0, "income_max": 10000, "rate": 9 },
+          { "income_min": 10001, "income_max": 20000, "rate": 22 },
+          { "income_min": 20001, "income_max": 30000, "rate": 28 },
+          { "income_min": 30001, "income_max": 40000, "rate": 36 },
+          { "income_min": 40001, "income_max": null, "rate": 44 }
+        ],
+        "social_security": {
+          "self_employed_contribution": { "min": 26.95, "max": 26.95, "misc_details": "Standard rate for self-employed individuals" }
+        }
+      },
+      "retirees": {
+        "income_tax": [
+          { "income_min": 0, "income_max": 10000, "rate": 9 },
+          { "income_min": 10001, "income_max": 20000, "rate": 22 },
+          { "income_min": 20001, "income_max": 30000, "rate": 28 },
+          { "income_min": 30001, "income_max": 40000, "rate": 36 },
+          { "income_min": 40001, "income_max": null, "rate": 44 }
+        ],
+        "social_security": 0
+      }
+    },
+    "visas": [
+      {
+        "visa_name": "Greece Digital Nomad Visa",
+        "nomad_visa": true,
+        "official_government_link": "https://www.migration.gov.gr/en/",
+        "key_consideration": "The visa is valid for one year and can be extended for an additional year, totaling a maximum of 2 years.",
+        "validity_months": 12,
+        "income_requirement": {
+          "currency": "EUR",
+          "monthly": 3500,
+          "misc_details": "Applicants must show proof of income meeting the minimum threshold of €3,500 per month. Income requirement increases by 20% for a spouse and by 15% for each child."
+        },
+        "application_timeline_days": 10,
+        "application_in_country": false,
+        "application_fee": {
+          "currency": "EUR",
+          "single": 75,
+          "couple": null,
+          "family": null,
+          "details": "Each person must apply individually."
+        },
+        "dependent_application": true,
+        "local_tax_on_foreign_income": false,
+        "renewability": true,
+        "renewability_details": "Can be extended for an additional year, totaling a maximum of 2 years.",
+        "special_tax_regime": true,
+        "special_tax_regime_details": "50% reduction in income tax for non-EU/EEA citizens committing to stay at least two years, applicable for up to seven years.",
+        "leads_to_permanent_residence": false,
+        "permanent_residency_details": "Foreigners must be resident in Greece for seven years to be eligible for permanent residency. Time on a digital nomad visa can contribute towards this requirement.",
+        "taxes": {
+          "employees": {
+            "income_tax": [],
+            "social_security": [
+              {
+                "min_income_range": 0,
+                "max_income_range": null,
+                "rate_pct": 0,
+                "misc_details": "No Exemption from local income tax for the first 183 days unless tax resident status is obtained. After 183 days, regular tax rates apply."
+              }
+            ]
+          },
+          "contractors": {
+            "income_tax": [],
+            "social_security": [
+              {
+                "min_income_range": 0,
+                "max_income_range": null,
+                "rate_pct": 0,
+                "misc_details": "No Exemption from local income tax for the first 183 days unless tax resident status is obtained. After 183 days, regular tax rates apply."
+              }
+            ]
+          },
+          "retirees": {
+            "income_tax": [],
+            "social_security": []
+          },
+          "special_regimes": [
+            {
+              "name": "Greece Digital Nomad Visa",
+              "benefit": "50% reduction in income tax for the first seven years for new tax residents.",
+              "eligibility": [
+                "A valid passport",
+                "Two passport photos",
+                "Proof of consistent, monthly income of at least €3,500 for an individual, €4,200 for a spouse, or €4,830 with a spouse and a dependent.",
+                "Proof of remote work, no Greek clients permitted.",
+                "A clean criminal background check",
+                "Proof of health insurance for the duration of the stay in Greece.",
+                "Application must be submitted through your local Greece embassy or consulate. It is recommended to contact them to ensure you are complying with that embassy's requirements."
+              ],
+              "contractors_with_foreign_clients_eligible": true,
+              "contractors_with_local_clients_eligible": false,
+              "employees_with_foreign_employer_eligible": true,
+              "social_security": false,
+              "income_tax": [
+                { "income_min": 0, "income_max": 10000, "rate": 4.5 },
+                { "income_min": 10001, "income_max": 20000, "rate": 11 },
+                { "income_min": 20001, "income_max": 30000, "rate": 14 },
+                { "income_min": 30001, "income_max": 40000, "rate": 18 },
+                { "income_min": 40001, "income_max": null, "rate": 22 }
+              ]
+            }
+          ]
+        },
+        "required_documents": [
+          "A valid passport",
+          "Two passport photos",
+          "Proof of consistent, monthly income of at least €3,500 for an individual, €4,200 for a spouse, or €4,830 with a spouse and a dependent.",
+          "Proof of remote work, no Greek clients permitted.",
+          "A clean criminal background check",
+          "Proof of health insurance for the duration of the stay in Greece.",
+          "Application must be submitted through your local Greece embassy or consulate. It is recommended to contact them to ensure you are complying with that embassy's requirements."
+        ]
+      }
+    ]
+  }
+  

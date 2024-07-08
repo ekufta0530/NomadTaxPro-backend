@@ -1,0 +1,2038 @@
+[
+    {
+        "country_name": "Croatia",
+        "country_code": "HR",
+        "capital": "Zagreb",
+        "display": true,
+        "currency": "HRK",
+        "anchor_country": true,
+        "has_nomad_visa": true,
+        "schengen_zone": true,
+        "in_european_union": true,
+        "cost_of_living_index": 46.9,
+        "cost_of_living_lvl": "$$",
+        "practical_tips": {
+            "financial_benefits": [
+                {
+                    "benefit": "No Income Tax for Croatia Digital Nomad Visa Holders",
+                    "description": "Croatia does not impose local income tax on foreign-sourced income for digital nomads."
+                },
+                {
+                    "benefit": "Affordable Living",
+                    "description": "Croatia offers a relatively low cost of living compared to many Western countries."
+                }
+            ],
+            "lifestyle_benefits": [
+                {
+                    "benefit": "Mediterranean Climate",
+                    "description": "Enjoy a Mediterranean climate with warm summers and mild winters."
+                },
+                {
+                    "benefit": "High Quality of Life",
+                    "description": "Croatia offers a high quality of life with beautiful natural landscapes and rich cultural heritage."
+                }
+            ],
+            "additional_benefits": [
+                {
+                    "benefit": "Friendly Locals",
+                    "description": "Croatians are known for their friendliness and hospitality."
+                },
+                {
+                    "benefit": "Rich History",
+                    "description": "The country is known for its historic sites and vibrant culture."
+                }
+            ]
+        },
+        "key_consideration": "Croatia's Digital Nomad Residence Permit allows remote workers to live and work in the country for up to one year with no local tax on foreign income. Note that the permit is not renewable, but you can apply for a new one after leaving the country for 90 days.",
+        "best_for": [
+            "contractors",
+            "short stay nomads",
+            "long stay nomads",
+            "retirees"
+        ],
+        "action_comment": "Consider Croatia for its combination of work opportunities and rich cultural experiences.",
+        "tagline": "Live and work in the heart of Europe.",
+        "image": "croatia.jpg",
+        "tax_residency_trigger": 183,
+        "tax_residency_trigger_details": "You are considered a tax resident if you stay for longer than 183 days in a calendar year.",
+        "country_standard_taxes": {
+            "tax_currency": "HRK",
+            "employees": {
+                "income_tax": [],
+                "social_security": []
+            },
+            "contractors": {
+                "income_tax": [],
+                "social_security": []
+            },
+            "retirees": {
+                "income_tax": [],
+                "social_security": []
+            }
+        },
+        "visas": [
+            {
+                "visa_name": "Digital Nomad Residence Permit",
+                "nomad_visa": true,
+                "official_government_link": "https://mup.gov.hr/uzg-covid/english/286212",
+                "key_consideration": "The visa is not renewable, but you can apply for a new one after leaving the country for 90 days.",
+                "validity_months": 12,
+                "income_requirement": {
+                    "currency": "HRK",
+                    "single_monthly": 16907,
+                    "annual": 202890,
+                    "misc_details": "Minimum monthly income requirement: 16,907 HRK (approx. $2,658)."
+                },
+                "application_timeline_days": 60,
+                "application_in_country": false,
+                "application_fee": {
+                    "currency": "EUR",
+                    "single": 150,
+                    "family": 150,
+                    "details": "The application fee includes the cost of the temporary residence permit, visa, and biometric residence card."
+                },
+                "dependent_application": true,
+                "local_tax_on_foreign_income": false,
+                "renewability": false,
+                "renewability_details": "The visa is not renewable, but you can apply for a new one after leaving the country for 90 days.",
+                "days_in_country_to_renew_visa": 90,
+                "special_tax_regime": true,
+                "special_tax_regime_details": "Digital nomads are exempt from paying income tax on foreign-sourced income.",
+                "leads_to_permanent_residence": false,
+                "permanent_residency_details": "The digital nomad visa does not lead to permanent residency.",
+                "taxes": {
+                    "employees": {
+                        "income_tax": [],
+                        "social_security": []
+                    },
+                    "contractors": {
+                        "income_tax": [],
+                        "social_security": []
+                    },
+                    "retirees": {
+                        "income_tax": [],
+                        "social_security": []
+                    },
+                    "special_regimes": [
+                        {
+                            "name": "Digital Nomad Visa",
+                            "benefit": "Exemption from income tax on foreign-sourced income.",
+                            "eligibility": [
+                                "Non-EU citizens \u2013 EU citizens do not need a residency permit as being part of the EU automatically grants them the right to live in the country.",
+                                "Valid Passport \u2013 You must ensure that your passport is valid at least 3 months after the visa term.",
+                                "Proof of consistent, monthly income from employers or clients outside Croatia of at least 16,907 HRK (~$2,700). In lieu of proof of income, proof of funds instead of 202,890 HRK (~$32,000) is acceptable.",
+                                "Proof of health insurance in Croatia for the duration of the stay.",
+                                "A certified background check from your home country. Or the last country that you lived in for more than a year if it was not your home country. American applicants will need a FBI background check.",
+                                "A lease agreement or booking confirmation (hotels or hostels are acceptable) of your address in Croatia. If this is not a long term lease, you can later change your address at a police station."
+                            ],
+                            "contractors_with_foreign_clients_eligible": true,
+                            "contractors_with_local_clients_eligible": false,
+                            "employees_with_foreign_employer_eligible": true,
+                            "social_security": false,
+                            "income_tax": false
+                        }
+                    ]
+                },
+                "required_documents": [
+                    "Copy of passport",
+                    "Proof of employment by a foreign employer or foreign clients for contractors",
+                    "Proof of sufficient income",
+                    "Past 3 months of bank statements",
+                    "Proof of long-term lease or temporary residence address in Croatia",
+                    "Criminal background check (FBI background check for Americans)",
+                    "Submit the application (online or in-person)"
+                ]
+            }
+        ]
+    },
+    {
+        "country_name": "Estonia",
+        "country_code": "EE",
+        "capital": "Tallinn",
+        "display": true,
+        "currency": "EUR",
+        "anchor_country": false,
+        "has_nomad_visa": true,
+        "schengen_zone": true,
+        "in_european_union": true,
+        "cost_of_living_index": 53.0,
+        "cost_of_living_lvl": "$$",
+        "practical_tips": {
+            "financial_benefits": [
+                {
+                    "benefit": "No Income Tax for Short Stays",
+                    "description": "Digital nomads staying in Estonia for less than 183 days are not subject to local income tax on foreign-sourced income."
+                },
+                {
+                    "benefit": "Affordable Living",
+                    "description": "Estonia offers a relatively low cost of living compared to many Western countries."
+                }
+            ],
+            "lifestyle_benefits": [
+                {
+                    "benefit": "Modern Infrastructure",
+                    "description": "Estonia is known for its advanced digital infrastructure and high quality of life."
+                },
+                {
+                    "benefit": "High Quality of Life",
+                    "description": "Estonia offers a high quality of life with modern amenities and beautiful natural landscapes."
+                }
+            ],
+            "additional_benefits": [
+                {
+                    "benefit": "Friendly Locals",
+                    "description": "Estonians are known for their friendliness and hospitality."
+                },
+                {
+                    "benefit": "Rich History",
+                    "description": "The country is known for its rich history, vibrant culture, and beautiful landscapes."
+                }
+            ]
+        },
+        "key_consideration": "Estonia's Digital Nomad Visa allows remote workers to live and work in the country for up to one year with no local tax on foreign income unless they stay for more than 183 days in a calendar year.",
+        "best_for": [
+            "contractors",
+            "short stay nomads"
+        ],
+        "action_comment": "Consider Estonia for its combination of modern infrastructure and rich cultural experiences.",
+        "tagline": "Work remotely in the digital heart of Europe.",
+        "image": "estonia.jpg",
+        "tax_residency_trigger": 183,
+        "tax_residency_trigger_details": "You are considered a tax resident if you stay for more than 183 consecutive days in a calendar year.",
+        "country_standard_taxes": {
+            "tax_currency": "EUR",
+            "employees": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": null,
+                        "rate_pct": 20
+                    }
+                ],
+                "social_security": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": null,
+                        "rate_pct": 0
+                    }
+                ]
+            },
+            "contractors": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": null,
+                        "rate_pct": 20
+                    }
+                ],
+                "social_security": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": null,
+                        "rate_pct": 33
+                    }
+                ]
+            },
+            "retirees": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": null,
+                        "rate_pct": 20
+                    }
+                ],
+                "social_security": []
+            }
+        },
+        "visas": [
+            {
+                "visa_name": "Digital Nomad Visa",
+                "nomad_visa": true,
+                "official_government_link": "https://www.mfa.ee/eng/consular-information/visa/",
+                "key_consideration": "The visa is valid for one year and cannot be extended. However, you can reapply for a new visa after leaving Estonia.",
+                "validity_months": 12,
+                "income_requirement": {
+                    "currency": "EUR",
+                    "monthly": 3504,
+                    "annual": 42048,
+                    "misc_details": "Applicants must show proof of income meeting the minimum threshold of \u20ac3504 per month for the six months preceding the application."
+                },
+                "application_timeline_days": 30,
+                "application_in_country": true,
+                "application_fee": {
+                    "currency": "EUR",
+                    "single": 100,
+                    "family": 200,
+                    "details": "The price for a long-stay visa (D-Visa) is \u20ac100 and is valid for 1 year, and for a short-stay visa (C-Visa) is \u20ac80 and is valid for 3 months."
+                },
+                "dependent_application": true,
+                "local_tax_on_foreign_income": true,
+                "renewability": false,
+                "renewability_details": "The visa is valid for one year and cannot be extended. However, you can reapply for a new visa after leaving Estonia.",
+                "special_tax_regime": false,
+                "special_tax_regime_details": "No special tax regimes are specified for digital nomads.",
+                "leads_to_permanent_residence": false,
+                "permanent_residency_details": "The digital nomad visa does not provide a path to permanent residency.",
+                "taxes": {
+                    "employees": {
+                        "income_tax": [],
+                        "social_security": [
+                            {
+                                "min_income_range": 0,
+                                "max_income_range": null,
+                                "rate_pct": 0,
+                                "misc_details": "No Exemption from local income tax for the first 183 days unless tax resident status is obtained. After 183 days, regular tax rates apply."
+                            }
+                        ]
+                    },
+                    "contractors": {
+                        "income_tax": [],
+                        "social_security": [
+                            {
+                                "min_income_range": 0,
+                                "max_income_range": null,
+                                "rate_pct": 0,
+                                "misc_details": "No Exemption from local income tax for the first 183 days unless tax resident status is obtained. After 183 days, regular tax rates apply."
+                            }
+                        ]
+                    },
+                    "retirees": {
+                        "income_tax": [],
+                        "social_security": []
+                    },
+                    "special_regimes": [
+                        {
+                            "name": "Digital Nomad Visa",
+                            "benefit": "Exemption from local income tax for the first 183 days unless tax resident status is obtained.",
+                            "eligibility": [
+                                "Proof of being a remote worker, with the ability to do all your work remotely.",
+                                "Proof of an employment contract, or your own registered business, with a company outside of Estonia. Proof of freelance work with non-Estonian clients is also acceptable.",
+                                "Proof evidence of income above the minimum amount of \u20ac3,504 a month during the past six months."
+                            ],
+                            "contractors_with_foreign_clients_eligible": true,
+                            "contractors_with_local_clients_eligible": false,
+                            "employees_with_foreign_employer_eligible": true,
+                            "social_security": false,
+                            "income_tax": false
+                        }
+                    ]
+                },
+                "required_documents": [
+                    "A valid passport",
+                    "Document describing your previous professional and academic experiences",
+                    "Valid passport photo (35\u00d745 mm)",
+                    "Proof of an insurance policy that covers the duration of the stay in Estonia",
+                    "Documents demonstrating your proof of income above the minimum amount (\u20ac3,504)",
+                    "Collection of biometric data"
+                ]
+            }
+        ]
+    },
+    {
+        "country_name": "Georgia",
+        "country_code": "GE",
+        "capital": "Tbilisi",
+        "display": true,
+        "currency": "GEL",
+        "anchor_country": false,
+        "has_nomad_visa": true,
+        "schengen_zone": false,
+        "in_european_union": false,
+        "cost_of_living_index": 37.2,
+        "cost_of_living_lvl": "$",
+        "practical_tips": {
+            "qualify_for_individual_entrepreneur_scheme": [
+                "Register as an individual entrepreneur with the Revenue Service of Georgia.",
+                "Ensure your annual turnover does not exceed GEL 500,000 (~$190,000).",
+                "Maintain proper records of your business transactions and income.",
+                "Apply for the special tax regime to benefit from the 1% tax rate on turnover."
+            ]
+        },
+        "key_consideration": "Georgia's 'Remotely From Georgia' program allows remote workers to live and work in the country for up to one year with the possibility of renewal. The program includes legal residence status without requiring Georgian employment.",
+        "best_for": [
+            "contractors",
+            "short stay nomads",
+            "long stay nomads"
+        ],
+        "action_comment": "Consider Georgia for its affordable living and rich cultural experiences.",
+        "tagline": "Experience the charm of Georgia while working remotely.",
+        "image": "georgia.jpg",
+        "tax_residency_trigger": 183,
+        "tax_residency_trigger_details": "You are considered a tax resident if you stay for more than 183 consecutive days in a calendar year.",
+        "country_standard_taxes": {
+            "tax_currency": "GEL",
+            "employees": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": null,
+                        "rate_pct": 20,
+                        "details": "A flat income tax rate of 20% is applied to income earned in Georgia for residents. Non-residents are taxed only on their income earned in Georgia."
+                    }
+                ],
+                "social_security": []
+            },
+            "contractors": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": null,
+                        "rate_pct": 20
+                    }
+                ],
+                "social_security": []
+            },
+            "retirees": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": null,
+                        "rate_pct": 20
+                    }
+                ],
+                "social_security": []
+            }
+        },
+        "visas": [
+            {
+                "visa_name": "Remotely From Georgia",
+                "nomad_visa": true,
+                "official_government_link": "https://stopcov.ge/en/Protocol",
+                "key_consideration": "The visa is valid for one year and can be renewed. For long-term stays, consider the Individual Entrepreneur scheme.",
+                "validity_months": 12,
+                "income_requirement": {
+                    "currency": "USD",
+                    "monthly": 2000,
+                    "annual": 24000,
+                    "misc_details": "Applicants must show proof of income meeting the minimum threshold of $2,000 per month or $24,000 in savings."
+                },
+                "application_timeline_days": 10,
+                "application_in_country": true,
+                "application_fee": {
+                    "currency": "USD",
+                    "single": 0,
+                    "family": 0,
+                    "details": "There is no application fee for the Remotely From Georgia program."
+                },
+                "dependent_application": true,
+                "local_tax_on_foreign_income": true,
+                "renewability": true,
+                "renewability_details": "The visa is valid for one year and can be renewed. For long-term stays, consider the Individual Entrepreneur scheme.",
+                "special_tax_regime": true,
+                "special_tax_regime_details": "Under the Individual Entrepreneur scheme, qualifying applicants pay only 1% tax on turnover up to GEL 500,000 (~$190,000).",
+                "leads_to_permanent_residence": true,
+                "permanent_residency_details": "Permanent residency can be obtained through the Individual Entrepreneur scheme or other long-term visa options.",
+                "taxes": {
+                    "employees": {
+                        "income_tax": [],
+                        "social_security": [
+                            {
+                                "min_income_range": 0,
+                                "max_income_range": null,
+                                "rate_pct": 0,
+                                "misc_details": "No Exemption from local income tax for the first 183 days unless tax resident status is obtained. After 183 days, regular tax rates apply."
+                            }
+                        ]
+                    },
+                    "contractors": {
+                        "income_tax": [],
+                        "social_security": [
+                            {
+                                "min_income_range": 0,
+                                "max_income_range": null,
+                                "rate_pct": 0,
+                                "misc_details": "No Exemption from local income tax for the first 183 days unless tax resident status is obtained. After 183 days, regular tax rates apply."
+                            }
+                        ]
+                    },
+                    "retirees": {
+                        "income_tax": [],
+                        "social_security": []
+                    },
+                    "special_regimes": [
+                        {
+                            "name": "Remotely From Georgia",
+                            "benefit": "Exemption from local income tax for the first 183 days unless tax resident status is obtained.",
+                            "eligibility": [
+                                "A passport that is valid for at least 3 months after the anticipated end of the stay in Georgia.",
+                                "Proof of remote employment either by a foreign company or a freelancer, with an incorporated freelancing business.",
+                                "Proof of consistent income of at least $2000 per month, or proof of $24000 in your bank account or other financial instruments.",
+                                "Proof of medical insurance for the duration of the stay in Georgia.",
+                                "You must be from one of the 95 accepted countries to apply for this visa."
+                            ],
+                            "contractors_with_foreign_clients_eligible": true,
+                            "contractors_with_local_clients_eligible": false,
+                            "employees_with_foreign_employer_eligible": true,
+                            "social_security": false,
+                            "income_tax": false
+                        }
+                    ]
+                },
+                "required_documents": [
+                    "Copy of the passport's photo page.",
+                    "Proof of employment by a foreign employer or proof of an incorporated freelancing business.",
+                    "Proof of health insurance valid in Georgia.",
+                    "Proof of funds either through consistent income or through bank accounts and other financial instruments."
+                ]
+            }
+        ]
+    },
+    {
+        "country_name": "Greece",
+        "country_code": "GR",
+        "capital": "Athens",
+        "display": true,
+        "currency": "EUR",
+        "anchor_country": true,
+        "has_nomad_visa": true,
+        "schengen_zone": true,
+        "in_european_union": true,
+        "cost_of_living_index": 54.2,
+        "cost_of_living_lvl": "$$",
+        "practical_tips": {
+            "financial_benefits": [
+                {
+                    "benefit": "50% Tax Reduction",
+                    "description": "Non-EU/EEA citizens committing to stay at least two years can benefit from a 50% reduction in income tax for up to seven years."
+                },
+                {
+                    "benefit": "Affordable Living",
+                    "description": "Greece offers a lower cost of living compared to many Western European countries."
+                }
+            ],
+            "lifestyle_benefits": [
+                {
+                    "benefit": "Rich Cultural Experience",
+                    "description": "Greece offers a rich cultural experience with numerous historical sites and vibrant social scenes."
+                },
+                {
+                    "benefit": "Quality of Life",
+                    "description": "Greece provides a high quality of life with excellent healthcare and a mild Mediterranean climate."
+                }
+            ],
+            "additional_benefits": [
+                {
+                    "benefit": "Networking Opportunities",
+                    "description": "Join digital nomad communities in major cities like Athens and Thessaloniki."
+                },
+                {
+                    "benefit": "Public Health Insurance",
+                    "description": "Take advantage of Greece's excellent healthcare system by obtaining public health insurance."
+                }
+            ]
+        },
+        "key_consideration": "The Greece Digital Nomad Visa allows non-EU citizens to live and work remotely in Greece for up to 2 years, with the possibility of renewal. Applicants must prove a minimum monthly income of \u20ac3,500.",
+        "best_for": [
+            "contractors",
+            "short stay nomads",
+            "long stay nomads",
+            "retirees"
+        ],
+        "action_comment": "Consider Greece for its combination of rich cultural experiences and affordable living costs.",
+        "tagline": "Work remotely in the cradle of Western civilization.",
+        "image": "greece.jpg",
+        "tax_residency_trigger": 183,
+        "tax_residency_trigger_details": "You are considered a tax resident if you stay for longer than 183 days in a calendar year, subject to local income tax rates starting from \u20ac12,000 a year.",
+        "country_standard_taxes": {
+            "tax_currency": "EUR",
+            "employees": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": 10000,
+                        "rate_pct": 9
+                    },
+                    {
+                        "min_income_range": 10001,
+                        "max_income_range": 20000,
+                        "rate_pct": 22
+                    },
+                    {
+                        "min_income_range": 20001,
+                        "max_income_range": 30000,
+                        "rate_pct": 28
+                    },
+                    {
+                        "min_income_range": 30001,
+                        "max_income_range": 40000,
+                        "rate_pct": 36
+                    },
+                    {
+                        "min_income_range": 40001,
+                        "max_income_range": null,
+                        "rate_pct": 44
+                    }
+                ],
+                "social_security": []
+            },
+            "contractors": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": 10000,
+                        "rate_pct": 9
+                    },
+                    {
+                        "min_income_range": 10001,
+                        "max_income_range": 20000,
+                        "rate_pct": 22
+                    },
+                    {
+                        "min_income_range": 20001,
+                        "max_income_range": 30000,
+                        "rate_pct": 28
+                    },
+                    {
+                        "min_income_range": 30001,
+                        "max_income_range": 40000,
+                        "rate_pct": 36
+                    },
+                    {
+                        "min_income_range": 40001,
+                        "max_income_range": null,
+                        "rate_pct": 44
+                    }
+                ],
+                "social_security": []
+            },
+            "retirees": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": 10000,
+                        "rate_pct": 9
+                    },
+                    {
+                        "min_income_range": 10001,
+                        "max_income_range": 20000,
+                        "rate_pct": 22
+                    },
+                    {
+                        "min_income_range": 20001,
+                        "max_income_range": 30000,
+                        "rate_pct": 28
+                    },
+                    {
+                        "min_income_range": 30001,
+                        "max_income_range": 40000,
+                        "rate_pct": 36
+                    },
+                    {
+                        "min_income_range": 40001,
+                        "max_income_range": null,
+                        "rate_pct": 44
+                    }
+                ],
+                "social_security": []
+            }
+        },
+        "visas": [
+            {
+                "visa_name": "Greece Digital Nomad Visa",
+                "nomad_visa": true,
+                "official_government_link": "https://www.migration.gov.gr/en/",
+                "key_consideration": "The visa is valid for one year and can be extended for an additional year, totaling a maximum of 2 years.",
+                "validity_months": 12,
+                "income_requirement": {
+                    "currency": "EUR",
+                    "monthly": 3500,
+                    "misc_details": "Applicants must show proof of income meeting the minimum threshold of \u20ac3,500 per month. Income requirement increases by 20% for a spouse and by 15% for each child."
+                },
+                "application_timeline_days": 10,
+                "application_in_country": false,
+                "application_fee": {
+                    "currency": "EUR",
+                    "single": 75,
+                    "couple": null,
+                    "family": null,
+                    "details": "Each person must apply individually."
+                },
+                "dependent_application": true,
+                "local_tax_on_foreign_income": false,
+                "renewability": true,
+                "renewability_details": "Can be extended for an additional year, totaling a maximum of 2 years.",
+                "special_tax_regime": true,
+                "special_tax_regime_details": "50% reduction in income tax for non-EU/EEA citizens committing to stay at least two years, applicable for up to seven years.",
+                "leads_to_permanent_residence": false,
+                "permanent_residency_details": "Foreigners must be resident in Greece for seven years to be eligible for permanent residency. Time on a digital nomad visa can contribute towards this requirement.",
+                "taxes": {
+                    "employees": {
+                        "income_tax": [],
+                        "social_security": [
+                            {
+                                "min_income_range": 0,
+                                "max_income_range": null,
+                                "rate_pct": 0,
+                                "misc_details": "No Exemption from local income tax for the first 183 days unless tax resident status is obtained. After 183 days, regular tax rates apply."
+                            }
+                        ]
+                    },
+                    "contractors": {
+                        "income_tax": [],
+                        "social_security": []
+                    },
+                    "retirees": {
+                        "income_tax": [],
+                        "social_security": []
+                    },
+                    "special_regimes": [
+                        {
+                            "name": "Greece Digital Nomad Visa",
+                            "benefit": "50% reduction in income tax for the first seven years for new tax residents.",
+                            "eligibility": [
+                                "A valid passport",
+                                "Two passport photos",
+                                "Proof of consistent, monthly income of at least \u20ac3,500 for an individual, \u20ac4,200 for a spouse, or \u20ac4,830 with a spouse and a dependent.",
+                                "Proof of remote work, no Greek clients permitted.",
+                                "A clean criminal background check",
+                                "Proof of health insurance for the duration of the stay in Greece.",
+                                "Application must be submitted through your local Greece embassy or consulate. It is recommended to contact them to ensure you are complying with that embassy's requirements."
+                            ],
+                            "contractors_with_foreign_clients_eligible": true,
+                            "contractors_with_local_clients_eligible": false,
+                            "employees_with_foreign_employer_eligible": true,
+                            "social_security": false,
+                            "income_tax": [
+                                {
+                                    "income_min": 0,
+                                    "income_max": 10000,
+                                    "rate": 4.5
+                                },
+                                {
+                                    "income_min": 10001,
+                                    "income_max": 20000,
+                                    "rate": 11
+                                },
+                                {
+                                    "income_min": 20001,
+                                    "income_max": 30000,
+                                    "rate": 14
+                                },
+                                {
+                                    "income_min": 30001,
+                                    "income_max": 40000,
+                                    "rate": 18
+                                },
+                                {
+                                    "income_min": 40001,
+                                    "income_max": null,
+                                    "rate": 22
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "required_documents": [
+                    "A valid passport",
+                    "Two passport photos",
+                    "Proof of consistent, monthly income of at least \u20ac3,500 for an individual, \u20ac4,200 for a spouse, or \u20ac4,830 with a spouse and a dependent.",
+                    "Proof of remote work, no Greek clients permitted.",
+                    "A clean criminal background check",
+                    "Proof of health insurance for the duration of the stay in Greece.",
+                    "Application must be submitted through your local Greece embassy or consulate. It is recommended to contact them to ensure you are complying with that embassy's requirements."
+                ]
+            }
+        ]
+    },
+    {
+        "country_name": "Hungary",
+        "country_code": "HU",
+        "capital": "Budapest",
+        "display": true,
+        "currency": "HUF",
+        "anchor_country": false,
+        "has_nomad_visa": true,
+        "schengen_zone": true,
+        "in_european_union": true,
+        "cost_of_living_index": 43.4,
+        "cost_of_living_lvl": "$",
+        "practical_tips": {
+            "financial_benefits": [
+                {
+                    "benefit": "Flat Income Tax Rate",
+                    "description": "Hungary has a flat income tax rate of 15% on all income for residents."
+                },
+                {
+                    "benefit": "Affordable Living",
+                    "description": "Hungary offers a relatively low cost of living compared to many Western European countries."
+                }
+            ],
+            "lifestyle_benefits": [
+                {
+                    "benefit": "Rich Cultural Heritage",
+                    "description": "Hungary is known for its rich history, vibrant culture, and beautiful landscapes."
+                },
+                {
+                    "benefit": "High Quality of Life",
+                    "description": "Hungary provides a high quality of life with modern amenities."
+                }
+            ],
+            "additional_benefits": [
+                {
+                    "benefit": "Friendly Locals",
+                    "description": "Hungarians are known for their friendliness and hospitality."
+                },
+                {
+                    "benefit": "Modern Infrastructure",
+                    "description": "Hungary has well-developed infrastructure, making it a comfortable place to live."
+                }
+            ]
+        },
+        "key_consideration": "Hungary's White Card allows remote workers to live and work in Hungary for up to one year, with the possibility of renewal for another year.",
+        "best_for": [
+            "contractors",
+            "short stay nomads",
+            "long stay nomads",
+            "retirees"
+        ],
+        "action_comment": "Consider Hungary for its combination of affordable living costs and rich cultural experiences.",
+        "tagline": "Experience the Heart of Europe.",
+        "image": "hungary.jpg",
+        "tax_residency_trigger": 183,
+        "tax_residency_trigger_details": "You are considered a tax resident if you stay for more than 183 days in a calendar year.",
+        "country_standard_taxes": {
+            "tax_currency": "HUF",
+            "employees": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": null,
+                        "rate_pct": 15
+                    }
+                ],
+                "social_security": []
+            },
+            "contractors": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": null,
+                        "rate_pct": 15
+                    }
+                ],
+                "social_security": []
+            },
+            "retirees": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": null,
+                        "rate_pct": 15
+                    }
+                ],
+                "social_security": []
+            }
+        },
+        "visas": [
+            {
+                "visa_name": "White Card",
+                "nomad_visa": true,
+                "official_government_link": "http://www.bmbah.hu/index.php?option=com_k2&view=item&layout=item&id=2241&Itemid=2466&lang=en",
+                "key_consideration": "The visa is valid for one year and can be extended for another year.",
+                "validity_months": 12,
+                "income_requirement": {
+                    "currency": "EUR",
+                    "monthly": 2000,
+                    "annual": 24000,
+                    "misc_details": "Applicants must show proof of income meeting the minimum threshold of \u20ac2000 per month."
+                },
+                "application_timeline_days": 30,
+                "application_in_country": true,
+                "application_fee": {
+                    "currency": "EUR",
+                    "single": 110,
+                    "family": 220,
+                    "details": "The application fee is \u20ac110 for single applicants, with additional fees for family applications."
+                },
+                "dependent_application": true,
+                "local_tax_on_foreign_income": true,
+                "renewability": true,
+                "renewability_details": "The visa is valid for one year and can be extended for another year.",
+                "special_tax_regime": false,
+                "special_tax_regime_details": "No special tax regimes are specified for digital nomads under the general rules.",
+                "leads_to_permanent_residence": false,
+                "permanent_residency_details": "The digital nomad visa does not provide a direct path to permanent residency.",
+                "taxes": {
+                    "employees": {
+                        "income_tax": [],
+                        "social_security": []
+                    },
+                    "contractors": {
+                        "income_tax": [],
+                        "social_security": []
+                    },
+                    "retirees": {
+                        "income_tax": [],
+                        "social_security": []
+                    },
+                    "special_regimes": [
+                        {
+                            "name": "Digital Nomad Visa",
+                            "benefit": "Exemption from local income tax for the first 183 days unless tax resident status is obtained.",
+                            "eligibility": [
+                                "Ability to work remotely, without Hungarian business ties",
+                                "Consistently exceed the minimum income requirements of \u20ac2,000 for the past 6 months."
+                            ],
+                            "contractors_with_foreign_clients_eligible": true,
+                            "contractors_with_local_clients_eligible": false,
+                            "employees_with_foreign_employer_eligible": true,
+                            "social_security": false,
+                            "income_tax": false
+                        }
+                    ]
+                },
+                "required_documents": [
+                    "A valid passport",
+                    "Passport style photographs",
+                    "Proof of consistent income above \u20ac2,000 for the prior 6 months, with no Hungarian clients or business relationships",
+                    "Proof of the ability to work remotely",
+                    "Proof of accommodation in Hungary",
+                    "Proof of health insurance for the duration of stay",
+                    "A return ticket for the end of your stay"
+                ]
+            }
+        ]
+    },
+    {
+        "country_name": "Mauritius",
+        "country_code": "MU",
+        "capital": "Port Louis",
+        "display": true,
+        "currency": "MUR",
+        "anchor_country": true,
+        "has_nomad_visa": true,
+        "schengen_zone": false,
+        "in_european_union": false,
+        "cost_of_living_index": 39.8,
+        "cost_of_living_lvl": "$",
+        "practical_tips": {
+            "financial_benefits": [
+                {
+                    "benefit": "No Income Tax for Short Stays",
+                    "description": "Mauritius does not impose local income tax on foreign-sourced income if staying less than 183 days in a 12-month period. However per the remittance rules, if money is not sent to a Mauritius bank account it is likely to not be taxed."
+                },
+                {
+                    "benefit": "Affordable Living",
+                    "description": "Mauritius offers a relatively low cost of living compared to many Western countries."
+                }
+            ],
+            "lifestyle_benefits": [
+                {
+                    "benefit": "Tropical Climate",
+                    "description": "Enjoy a tropical climate with warm temperatures year-round."
+                },
+                {
+                    "benefit": "Rich Culture",
+                    "description": "The island has a vibrant culture with numerous outdoor activities such as diving, exploring coral reefs, and hiking."
+                }
+            ],
+            "additional_benefits": [
+                {
+                    "benefit": "English Speaking",
+                    "description": "English is the official language, making communication easy for most expatriates."
+                },
+                {
+                    "benefit": "Quality of Life",
+                    "description": "Mauritius offers a high quality of life with beautiful beaches and a relaxed lifestyle."
+                }
+            ]
+        },
+        "key_consideration": "Mauritius' Premium Travel Visa allows digital nomads to reside in Mauritius for one year with the option to renew, making it an ideal destination for remote work and exploration.",
+        "best_for": [
+            "contractors",
+            "short stay nomads",
+            "long stay nomads",
+            "retirees"
+        ],
+        "action_comment": "Consider Mauritius for its blend of tropical paradise and modern amenities.",
+        "tagline": "Work remotely in paradise.",
+        "image": "mauritius.jpg",
+        "tax_residency_trigger": 183,
+        "tax_residency_trigger_details": "You become a tax resident if you stay for more than 183 days in a calendar year.",
+        "country_standard_taxes": {
+            "tax_currency": "MUR",
+            "employees": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": 650000,
+                        "rate_pct": 10,
+                        "misc_details": "Income tax applies to income earned within Mauritius. Foreign income is taxed only if remitted to Mauritius."
+                    },
+                    {
+                        "min_income_range": 650001,
+                        "max_income_range": null,
+                        "rate_pct": 15,
+                        "misc_details": "Income tax applies to income earned within Mauritius. Foreign income is taxed only if remitted to Mauritius."
+                    }
+                ],
+                "social_security": []
+            },
+            "contractors": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": 650000,
+                        "rate_pct": 10,
+                        "misc_details": "Income tax applies to income earned within Mauritius. Foreign income is taxed only if remitted to Mauritius."
+                    },
+                    {
+                        "min_income_range": 650001,
+                        "max_income_range": null,
+                        "rate_pct": 15,
+                        "misc_details": "Income tax applies to income earned within Mauritius. Foreign income is taxed only if remitted to Mauritius."
+                    }
+                ],
+                "social_security": []
+            },
+            "retirees": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": 650000,
+                        "rate_pct": 10,
+                        "misc_details": "Income tax applies to income earned within Mauritius. Foreign income is taxed only if remitted to Mauritius."
+                    },
+                    {
+                        "min_income_range": 650001,
+                        "max_income_range": null,
+                        "rate_pct": 15,
+                        "misc_details": "Income tax applies to income earned within Mauritius. Foreign income is taxed only if remitted to Mauritius."
+                    }
+                ],
+                "social_security": []
+            }
+        },
+        "visas": [
+            {
+                "visa_name": "Premium Travel Visa",
+                "nomad_visa": true,
+                "official_government_link": "https://residency.mu/live/mauritius-premium-visa/",
+                "key_consideration": "The visa is valid for one year and can be renewed after its expiration.",
+                "validity_months": 12,
+                "income_requirement": {
+                    "currency": "USD",
+                    "monthly": 1500,
+                    "annual": 18000,
+                    "misc_details": "Applicants must show proof of income meeting the minimum threshold of $1,500 per month."
+                },
+                "application_timeline_days": 14,
+                "application_in_country": true,
+                "application_fee": {
+                    "currency": "USD",
+                    "single": 0,
+                    "family": 0,
+                    "details": "There is no application fee for the Premium Travel Visa."
+                },
+                "dependent_application": true,
+                "local_tax_on_foreign_income": true,
+                "renewability": true,
+                "renewability_details": "The visa can be renewed after its expiration.",
+                "special_tax_regime": false,
+                "special_tax_regime_details": "",
+                "leads_to_permanent_residence": false,
+                "permanent_residency_details": "",
+                "taxes": {
+                    "employees": {
+                        "income_tax": [],
+                        "social_security": [
+                            {
+                                "min_income_range": 0,
+                                "max_income_range": null,
+                                "rate_pct": 0,
+                                "misc_details": "No exemption from local income tax for the first 183 days unless tax resident status is obtained. After 183 days, regular tax rates apply. Foreign income is taxed only if remitted to Mauritius."
+                            }
+                        ]
+                    },
+                    "contractors": {
+                        "income_tax": [],
+                        "social_security": [
+                            {
+                                "min_income_range": 0,
+                                "max_income_range": null,
+                                "rate_pct": 0
+                            }
+                        ]
+                    },
+                    "retirees": {
+                        "income_tax": [],
+                        "social_security": []
+                    },
+                    "special_regimes": [
+                        {
+                            "name": "Premium Travel Visa",
+                            "benefit": "No income tax on foreign-sourced income if staying less than 183 days in a 12-month period.",
+                            "eligibility": [
+                                "Proof of a valid passport",
+                                "Be a citizen of one of the 114 eligible countries.",
+                                "You cannot have Mauritius based clients or business relationships. All income should be from outside of Mauritius",
+                                "Proof of consistent income above the minimum of $1,500 a month."
+                            ],
+                            "contractors_with_foreign_clients_eligible": true,
+                            "contractors_with_local_clients_eligible": false,
+                            "employees_with_foreign_employer_eligible": true,
+                            "social_security": false,
+                            "income_tax": false
+                        }
+                    ]
+                },
+                "required_documents": [
+                    "Passport valid for at least one more year, with two blank passport pages",
+                    "Proof of health insurance for the duration of the stay",
+                    "Proof of consistent income above the minimum requirements, including 3 months of bank statements with proof of the income",
+                    "A clean criminal record (FBI background check for Americans)",
+                    "Completed visa application (one for each applicant)",
+                    "Passport style photos (2)",
+                    "Proof of ability to work remotely (contractor agreements, letter from employer)",
+                    "Proof that your freelancer business or employer has been in business for at least a year",
+                    "Proof of relationship to other applicants, such as marriage certificate for spouse or birth certificates for children",
+                    "Either during the application or once you are in Spain, you must obtain a national identity number (NIE) and a national fiscal number (NIF)"
+                ]
+            }
+        ]
+    },
+    {
+        "country_name": "Mexico",
+        "country_code": "MX",
+        "capital": "Mexico City",
+        "display": true,
+        "currency": "MXN",
+        "anchor_country": false,
+        "has_nomad_visa": false,
+        "schengen_zone": false,
+        "in_european_union": false,
+        "cost_of_living_index": 43.8,
+        "cost_of_living_lvl": "$$",
+        "practical_tips": {
+            "financial_benefits": [
+                {
+                    "benefit": "Affordable Living",
+                    "description": "Mexico offers a relatively low cost of living compared to many Western countries."
+                }
+            ],
+            "lifestyle_benefits": [
+                {
+                    "benefit": "Rich Culture",
+                    "description": "Mexico is known for its vibrant culture, delicious cuisine, and beautiful landscapes."
+                },
+                {
+                    "benefit": "Warm Climate",
+                    "description": "Enjoy a warm climate with diverse environments from beaches to mountains."
+                }
+            ],
+            "additional_benefits": [
+                {
+                    "benefit": "Friendly Locals",
+                    "description": "Mexicans are known for their friendliness and hospitality."
+                },
+                {
+                    "benefit": "Diverse Experiences",
+                    "description": "From bustling cities to serene rural areas, Mexico offers a variety of experiences."
+                }
+            ]
+        },
+        "key_consideration": "Mexico's Temporary Resident Visa allows non-Mexican citizens to live and work remotely in Mexico for up to four years, with the option to renew annually. Applicants must demonstrate a stable income and meet other criteria.",
+        "best_for": [
+            "contractors",
+            "short stay nomads",
+            "long stay nomads",
+            "retirees"
+        ],
+        "action_comment": "Consider Mexico for its vibrant culture and affordable living costs.",
+        "tagline": "Experience the richness of Mexico while working remotely.",
+        "image": "mexico.jpg",
+        "tax_residency_trigger": 183,
+        "tax_residency_trigger_details": "If you spend more than 183 days in Mexico during twelve consecutive months, you're considered a tax resident.",
+        "country_standard_taxes": {
+            "tax_currency": "MXN",
+            "employees": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": 7735,
+                        "rate_pct": 1.92
+                    },
+                    {
+                        "min_income_range": 7736,
+                        "max_income_range": 65651,
+                        "rate_pct": 6.4
+                    },
+                    {
+                        "min_income_range": 65652,
+                        "max_income_range": 115375,
+                        "rate_pct": 10.88
+                    },
+                    {
+                        "min_income_range": 115376,
+                        "max_income_range": 134119,
+                        "rate_pct": 16.0
+                    },
+                    {
+                        "min_income_range": 134120,
+                        "max_income_range": 160577,
+                        "rate_pct": 17.92
+                    },
+                    {
+                        "min_income_range": 160578,
+                        "max_income_range": 323862,
+                        "rate_pct": 21.36
+                    },
+                    {
+                        "min_income_range": 323863,
+                        "max_income_range": 510451,
+                        "rate_pct": 23.52
+                    },
+                    {
+                        "min_income_range": 510452,
+                        "max_income_range": 974535,
+                        "rate_pct": 30.0
+                    },
+                    {
+                        "min_income_range": 974536,
+                        "max_income_range": 1299380,
+                        "rate_pct": 32.0
+                    },
+                    {
+                        "min_income_range": 1299381,
+                        "max_income_range": null,
+                        "rate_pct": 35.0
+                    }
+                ],
+                "social_security": []
+            },
+            "contractors": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": 7735,
+                        "rate_pct": 1.92
+                    },
+                    {
+                        "min_income_range": 7736,
+                        "max_income_range": 65651,
+                        "rate_pct": 6.4
+                    },
+                    {
+                        "min_income_range": 65652,
+                        "max_income_range": 115375,
+                        "rate_pct": 10.88
+                    },
+                    {
+                        "min_income_range": 115376,
+                        "max_income_range": 134119,
+                        "rate_pct": 16.0
+                    },
+                    {
+                        "min_income_range": 134120,
+                        "max_income_range": 160577,
+                        "rate_pct": 17.92
+                    },
+                    {
+                        "min_income_range": 160578,
+                        "max_income_range": 323862,
+                        "rate_pct": 21.36
+                    },
+                    {
+                        "min_income_range": 323863,
+                        "max_income_range": 510451,
+                        "rate_pct": 23.52
+                    },
+                    {
+                        "min_income_range": 510452,
+                        "max_income_range": 974535,
+                        "rate_pct": 30.0
+                    },
+                    {
+                        "min_income_range": 974536,
+                        "max_income_range": 1299380,
+                        "rate_pct": 32.0
+                    },
+                    {
+                        "min_income_range": 1299381,
+                        "max_income_range": null,
+                        "rate_pct": 35.0
+                    }
+                ],
+                "social_security": []
+            },
+            "retirees": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": 7735,
+                        "rate_pct": 1.92
+                    },
+                    {
+                        "min_income_range": 7736,
+                        "max_income_range": 65651,
+                        "rate_pct": 6.4
+                    },
+                    {
+                        "min_income_range": 65652,
+                        "max_income_range": 115375,
+                        "rate_pct": 10.88
+                    },
+                    {
+                        "min_income_range": 115376,
+                        "max_income_range": 134119,
+                        "rate_pct": 16.0
+                    },
+                    {
+                        "min_income_range": 134120,
+                        "max_income_range": 160577,
+                        "rate_pct": 17.92
+                    },
+                    {
+                        "min_income_range": 160578,
+                        "max_income_range": 323862,
+                        "rate_pct": 21.36
+                    },
+                    {
+                        "min_income_range": 323863,
+                        "max_income_range": 510451,
+                        "rate_pct": 23.52
+                    },
+                    {
+                        "min_income_range": 510452,
+                        "max_income_range": 974535,
+                        "rate_pct": 30.0
+                    },
+                    {
+                        "min_income_range": 974536,
+                        "max_income_range": 1299380,
+                        "rate_pct": 32.0
+                    },
+                    {
+                        "min_income_range": 1299381,
+                        "max_income_range": null,
+                        "rate_pct": 35.0
+                    }
+                ],
+                "social_security": []
+            }
+        },
+        "visas": [
+            {
+                "visa_name": "Mexico Temporary Resident Visa",
+                "nomad_visa": true,
+                "official_government_link": "https://consulmex.sre.gob.mx/leamington/index.php/non-mexicans/visas/115-temporary-resident-visa",
+                "key_consideration": "The visa can be renewed annually for up to four years.",
+                "validity_months": 12,
+                "income_requirement": {
+                    "currency": "USD",
+                    "monthly": 3700,
+                    "annual": 44400,
+                    "misc_details": "Applicants must show proof of income meeting the minimum threshold of $3,700 - $4,400 monthly after tax."
+                },
+                "application_timeline_days": 14,
+                "application_in_country": true,
+                "application_fee": {
+                    "currency": "USD",
+                    "single": 40,
+                    "family": 40,
+                    "details": "Initial application fee is $40 USD. Additional fees apply for temporary resident permit card, ranging between $150 - $350 USD depending on the length of the visa issued."
+                },
+                "dependent_application": true,
+                "local_tax_on_foreign_income": true,
+                "renewability": true,
+                "renewability_details": "Can be renewed annually for up to four years.",
+                "special_tax_regime": false,
+                "special_tax_regime_details": "No special tax regime for digital nomads; taxation based on residency status.",
+                "leads_to_permanent_residence": true,
+                "permanent_residency_details": "After four years of temporary residency, you can apply for permanent residency.",
+                "taxes": {
+                    "employees": {
+                        "income_tax": [],
+                        "social_security": [
+                            {
+                                "min_income_range": 0,
+                                "max_income_range": null,
+                                "rate_pct": 0,
+                                "misc_details": "No exemption from local income tax for the first 183 days unless tax resident status is obtained. After 183 days, regular tax rates apply."
+                            }
+                        ]
+                    },
+                    "contractors": {
+                        "income_tax": [],
+                        "social_security": [
+                            {
+                                "min_income_range": 0,
+                                "max_income_range": null,
+                                "rate_pct": 0
+                            }
+                        ]
+                    },
+                    "retirees": {
+                        "income_tax": [],
+                        "social_security": []
+                    },
+                    "special_regimes": [
+                        {
+                            "name": "Temporary Resident Visa",
+                            "benefit": "No income tax on foreign-sourced income if staying less than 183 days in a 12-month period.",
+                            "eligibility": [
+                                "Proof of consistent income, at least $3,700-$4,400 after tax (variances depend on which embassy or consulate where the application is submitted).",
+                                "Proof of legal residency if not applying from your home country.",
+                                "Passport style photo (3.9 cm x 3.1 cm).",
+                                "A completed and signed visa application form with your signature on it, competed in English or Spanish.",
+                                "A passport valid for at least 6 months past the end of the stay.",
+                                "You will also need the following when going to the INM (National Institute of Migration):",
+                                "Online completed form, which clarifies your purpose of registering and entering INM.",
+                                "Original valid passport as well as color copy.",
+                                "Original visa from the Mexican Consulate as well as a color copy.",
+                                "Original bank receipt with two copies of application payments.",
+                                "3 color photos (3 cm x 2.5 cm), two of the three must be taken looking straight towards the camera, the third is of the right side of the face."
+                            ],
+                            "contractors_with_foreign_clients_eligible": true,
+                            "contractors_with_local_clients_eligible": false,
+                            "employees_with_foreign_employer_eligible": true,
+                            "social_security": false,
+                            "income_tax": []
+                        }
+                    ]
+                },
+                "required_documents": [
+                    "Proof of consistent income, at least $3,700-$4,400 after tax (variances depend on which embassy or consulate where the application is submitted).",
+                    "Proof of legal residency if not applying from your home country.",
+                    "Passport style photo (3.9 cm x 3.1 cm).",
+                    "A completed and signed visa application form with your signature on it, competed in English or Spanish.",
+                    "A passport valid for at least 6 months past the end of the stay.",
+                    "You will also need the following when going to the INM (National Institute of Migration):",
+                    "Online completed form, which clarifies your purpose of registering and entering INM.",
+                    "Original valid passport as well as color copy.",
+                    "Original visa from the Mexican Consulate as well as a color copy.",
+                    "Original bank receipt with two copies of application payments.",
+                    "3 color photos (3 cm x 2.5 cm), two of the three must be taken looking straight towards the camera, the third is of the right side of the face."
+                ]
+            }
+        ]
+    },
+    {
+        "country_name": "Portugal",
+        "country_code": "PT",
+        "capital": "Lisbon",
+        "display": true,
+        "currency": "EUR",
+        "anchor_country": false,
+        "has_nomad_visa": true,
+        "schengen_zone": true,
+        "in_european_union": true,
+        "cost_of_living_index": 46.6,
+        "cost_of_living_lvl": "$$",
+        "practical_tips": {
+            "financial_benefits": [
+                {
+                    "benefit": "Affordable Living",
+                    "description": "Portugal offers a lower cost of living compared to many Western European countries."
+                },
+                {
+                    "benefit": "Quality of Life",
+                    "description": "Portugal provides a high quality of life with excellent healthcare and a mild Mediterranean climate."
+                }
+            ],
+            "lifestyle_benefits": [
+                {
+                    "benefit": "Rich Cultural Experience",
+                    "description": "Portugal offers a rich cultural experience with numerous historical sites and vibrant social scenes."
+                },
+                {
+                    "benefit": "Networking Opportunities",
+                    "description": "Join digital nomad communities in major cities like Lisbon and Porto."
+                }
+            ],
+            "additional_benefits": [
+                {
+                    "benefit": "Public Health Insurance",
+                    "description": "Take advantage of Portugal's excellent healthcare system by obtaining public health insurance."
+                },
+                {
+                    "benefit": "Vibrant Social Scene",
+                    "description": "Enjoy Portugal\u2019s vibrant social scene and after-work activities."
+                }
+            ]
+        },
+        "key_consideration": "Portugal's Digital Nomad Visa allows remote workers to live and work in the country for up to one year, with the option to renew up to four times, for a maximum of five years. The long-term visa is also able to be extended once, also for a total of five years (renewal at end of year 2, for 3 more years).",
+        "best_for": [
+            "contractors",
+            "short stay nomads",
+            "long stay nomads",
+            "retirees"
+        ],
+        "action_comment": "Consider Portugal for its combination of affordable living costs and rich cultural experiences.",
+        "tagline": "Work remotely in the heart of Western Europe.",
+        "image": "portugal.jpg",
+        "tax_residency_trigger": 183,
+        "tax_residency_trigger_details": "You are considered a tax resident if you stay for longer than 183 days in a calendar year, subject to local income tax rates.",
+        "country_standard_taxes": {
+            "tax_currency": "EUR",
+            "employees": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": 7112,
+                        "rate_pct": 14.5
+                    },
+                    {
+                        "min_income_range": 7113,
+                        "max_income_range": 10732,
+                        "rate_pct": 23
+                    },
+                    {
+                        "min_income_range": 10733,
+                        "max_income_range": 20322,
+                        "rate_pct": 28.5
+                    },
+                    {
+                        "min_income_range": 20323,
+                        "max_income_range": 25075,
+                        "rate_pct": 35
+                    },
+                    {
+                        "min_income_range": 25076,
+                        "max_income_range": 36967,
+                        "rate_pct": 37
+                    },
+                    {
+                        "min_income_range": 36968,
+                        "max_income_range": 80882,
+                        "rate_pct": 45
+                    },
+                    {
+                        "min_income_range": 80883,
+                        "max_income_range": null,
+                        "rate_pct": 48
+                    }
+                ],
+                "social_security": []
+            },
+            "contractors": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": 7112,
+                        "rate_pct": 14.5
+                    },
+                    {
+                        "min_income_range": 7113,
+                        "max_income_range": 10732,
+                        "rate_pct": 23
+                    },
+                    {
+                        "min_income_range": 10733,
+                        "max_income_range": 20322,
+                        "rate_pct": 28.5
+                    },
+                    {
+                        "min_income_range": 20323,
+                        "max_income_range": 25075,
+                        "rate_pct": 35
+                    },
+                    {
+                        "min_income_range": 25076,
+                        "max_income_range": 36967,
+                        "rate_pct": 37
+                    },
+                    {
+                        "min_income_range": 36968,
+                        "max_income_range": 80882,
+                        "rate_pct": 45
+                    },
+                    {
+                        "min_income_range": 80883,
+                        "max_income_range": null,
+                        "rate_pct": 48
+                    }
+                ],
+                "social_security": []
+            },
+            "retirees": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": 7112,
+                        "rate_pct": 14.5
+                    },
+                    {
+                        "min_income_range": 7113,
+                        "max_income_range": 10732,
+                        "rate_pct": 23
+                    },
+                    {
+                        "min_income_range": 10733,
+                        "max_income_range": 20322,
+                        "rate_pct": 28.5
+                    },
+                    {
+                        "min_income_range": 20323,
+                        "max_income_range": 25075,
+                        "rate_pct": 35
+                    },
+                    {
+                        "min_income_range": 25076,
+                        "max_income_range": 36967,
+                        "rate_pct": 37
+                    },
+                    {
+                        "min_income_range": 36968,
+                        "max_income_range": 80882,
+                        "rate_pct": 45
+                    },
+                    {
+                        "min_income_range": 80883,
+                        "max_income_range": null,
+                        "rate_pct": 48
+                    }
+                ],
+                "social_security": []
+            }
+        },
+        "visas": [
+            {
+                "visa_name": "Portugal Digital Nomad Visa (D8, Digital Nomad Visa)",
+                "nomad_visa": true,
+                "official_government_link": "https://vistos.mne.gov.pt/en/national-visas/general-information/type-of-visa",
+                "key_consideration": "The visa can be extended up to four times, for a maximum of five years. The long-term visa is also able to be extended once, also for a total of five years (renewal at end of year 2, for 3 more years).",
+                "validity_months": 12,
+                "income_requirement": {
+                    "currency": "EUR",
+                    "monthly": 3040,
+                    "misc_details": "Applicants must show proof of income meeting the minimum threshold of \u20ac3,040 per month. Income requirement increases by 50% for a spouse and by 30% for each child."
+                },
+                "application_timeline_days": 120,
+                "application_in_country": true,
+                "application_fee": {
+                    "currency": "EUR",
+                    "single": 180,
+                    "couple": null,
+                    "family": null,
+                    "details": "Each person must apply individually."
+                },
+                "dependent_application": true,
+                "local_tax_on_foreign_income": false,
+                "renewability": true,
+                "renewability_details": "Can be extended up to four times, for a maximum of five years.",
+                "special_tax_regime": false,
+                "special_tax_regime_details": "Portugal recently ended the prior 'Non Habitual Tax Resident Program', but is considering a new version. It is especially important to talk to a tax professional about your specific situation.",
+                "leads_to_permanent_residence": true,
+                "permanent_residency_details": "After five years of continuous residence, you may be eligible to apply for permanent residency, but only on the long-term, residency Portuguese digital nomad visa.",
+                "taxes": {
+                    "employees": {
+                        "income_tax": [],
+                        "social_security": []
+                    },
+                    "contractors": {
+                        "income_tax": [],
+                        "social_security": []
+                    },
+                    "retirees": {
+                        "income_tax": [],
+                        "social_security": []
+                    },
+                    "special_regimes": []
+                },
+                "required_documents": [
+                    "A completed visa application form.",
+                    "A letter explaining the visa request. It should include information about yourself, reasons for the visa request, any relevant personal ties to Portugal, where you will be living and how you will be financially independent while in Portugal.",
+                    "Passport valid for at least 6 months after the stay.",
+                    "Two passport style photos.",
+                    "Proof of regular income meeting the minimum requirements, including 3 months of bank statements with proof of the income.",
+                    "Proof of accommodation in Portugal.",
+                    "A clean criminal background check (FBI background check required for Americans).",
+                    "Proof of health insurance in Portugal.",
+                    "Proof of payment of visa fee.",
+                    "Proof of accommodation for your stay.",
+                    "Obtain a Portuguese NIF number (Fiscal Number).",
+                    "Opening a Portuguese bank account may be required by some consulates.",
+                    "Most recent tax return.",
+                    "Valid employment agreement or contractor agreements with non-Portuguese clients."
+                ]
+            }
+        ]
+    },
+    {
+        "country_name": "Romania",
+        "country_code": "RO",
+        "capital": "Bucharest",
+        "display": true,
+        "currency": "RON",
+        "anchor_country": false,
+        "has_nomad_visa": true,
+        "schengen_zone": false,
+        "in_european_union": true,
+        "cost_of_living_index": 38.8,
+        "cost_of_living_lvl": "$",
+        "practical_tips": {
+            "financial_benefits": [
+                {
+                    "benefit": "Affordable Living",
+                    "description": "Romania offers a lower cost of living compared to Western European countries."
+                },
+                {
+                    "benefit": "Flat Income Tax Rate",
+                    "description": "A flat income tax rate of 10% is applied to all income for residents."
+                }
+            ],
+            "lifestyle_benefits": [
+                {
+                    "benefit": "Rich Cultural Experience",
+                    "description": "Romania offers a rich cultural experience with numerous historical sites and vibrant social scenes."
+                },
+                {
+                    "benefit": "Quality of Life",
+                    "description": "Romania provides a high quality of life with excellent healthcare and diverse landscapes."
+                }
+            ],
+            "additional_benefits": [
+                {
+                    "benefit": "Fast Internet",
+                    "description": "Romania has one of the fastest internet speeds in Europe."
+                },
+                {
+                    "benefit": "English Widely Spoken",
+                    "description": "English is widely spoken in major cities."
+                }
+            ]
+        },
+        "key_consideration": "Romania's Digital Nomad Visa offers a unique blend of Eastern European affordability with a rich cultural and historical backdrop, ideal for digital nomads seeking fast internet, scenic beauty, and a vibrant culture at a lower cost of living.",
+        "best_for": [
+            "contractors",
+            "short stay nomads",
+            "long stay nomads",
+            "retirees"
+        ],
+        "action_comment": "Consider Romania for its combination of affordable living costs and rich cultural experiences.",
+        "tagline": "Work remotely in the heart of Eastern Europe.",
+        "image": "romania.jpg",
+        "tax_residency_trigger": 183,
+        "tax_residency_trigger_details": "If you spend more than 183 days in Romania during twelve consecutive months, you're considered a tax resident.",
+        "country_standard_taxes": {
+            "tax_currency": "RON",
+            "employees": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": null,
+                        "rate_pct": 10,
+                        "details": "A flat income tax rate of 10% is applied to all income for residents. Non-residents are taxed only on their income earned in Romania."
+                    }
+                ],
+                "social_security": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": null,
+                        "rate_pct": 35
+                    }
+                ]
+            },
+            "contractors": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": null,
+                        "rate_pct": 10
+                    }
+                ],
+                "social_security": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": null,
+                        "rate_pct": 35
+                    }
+                ]
+            },
+            "retirees": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": null,
+                        "rate_pct": 10
+                    }
+                ],
+                "social_security": []
+            }
+        },
+        "visas": [
+            {
+                "visa_name": "Romania Digital Nomad Visa",
+                "nomad_visa": true,
+                "official_government_link": "https://evisa.mae.ro/Home?lang=en-US#",
+                "key_consideration": "The visa can be renewed for another 12 months if the internationals continue to meet the necessary requirements.",
+                "validity_months": 12,
+                "income_requirement": {
+                    "currency": "EUR",
+                    "monthly": 3700,
+                    "misc_details": "Applicants must show proof of income meeting the minimum threshold of \u20ac3,700 per month."
+                },
+                "application_timeline_days": 14,
+                "application_in_country": true,
+                "application_fee": {
+                    "currency": "EUR",
+                    "single": "Varies, not confirmed by the Romanian government",
+                    "family": "Based on individual applications, additional cost for dependents may apply",
+                    "details": "Based on individual applications, no specific discount for couples."
+                },
+                "dependent_application": true,
+                "local_tax_on_foreign_income": true,
+                "renewability": true,
+                "renewability_details": "Can be renewed for another 12 months if the internationals continue to meet the necessary requirements.",
+                "special_tax_regime": false,
+                "special_tax_regime_details": "No special tax regime for digital nomads; taxation based on residency status.",
+                "leads_to_permanent_residence": false,
+                "permanent_residency_details": "Digital Nomad Visa does not directly lead to permanent residence.",
+                "taxes": {
+                    "employees": {
+                        "income_tax": [],
+                        "social_security": []
+                    },
+                    "contractors": {
+                        "income_tax": [],
+                        "social_security": []
+                    },
+                    "retirees": {
+                        "income_tax": [],
+                        "social_security": []
+                    },
+                    "special_regimes": []
+                },
+                "required_documents": [
+                    "Valid passport",
+                    "Proof of accommodation",
+                    "Proof of health insurance of at least \u20ac30,000 for the duration of the stay",
+                    "Proof of inbound and outbound travel (such as plane tickets)",
+                    "Proof of a clean criminal background (FBI background check is preferable for Americans)",
+                    "Proof of employment by a non-Romanian company or an incorporated freelancer business without Romanian clients.",
+                    "History of employment or freelancer business for the last 3 years.",
+                    "Proof of consistent income above \u20ac3,300.",
+                    "Proof of ability to work remotely, such as an employment contract or freelancer contracts. The original versions plus translations into Romanian are required.",
+                    "Letter of intent stating your reasons for traveling to Romania and the work that you will perform there. The letter can be in English, but will also need a Romanian translation.",
+                    "Proof via a notarized document that all taxes have been paid and no history of failure to pay taxes. Again any English documents need to have a Romanian translation."
+                ]
+            }
+        ]
+    },
+    {
+        "country_name": "Spain",
+        "country_code": "ES",
+        "capital": "Madrid",
+        "display": true,
+        "currency": "EUR",
+        "anchor_country": true,
+        "has_nomad_visa": true,
+        "schengen_zone": true,
+        "in_european_union": true,
+        "cost_of_living_index": 48.4,
+        "cost_of_living_lvl": "$$",
+        "practical_tips": {
+            "financial_benefits": [
+                {
+                    "benefit": "Special Tax Rate",
+                    "description": "Eligible digital nomads can benefit from a 19% tax rate on Spanish income up to \u20ac600,000 per year."
+                },
+                {
+                    "benefit": "Affordable Living",
+                    "description": "Spain offers a lower cost of living compared to many Western European countries."
+                }
+            ],
+            "lifestyle_benefits": [
+                {
+                    "benefit": "Rich Cultural Experience",
+                    "description": "Spain offers a rich cultural experience with numerous historical sites and vibrant social scenes."
+                },
+                {
+                    "benefit": "Quality of Life",
+                    "description": "Spain provides a high quality of life with excellent healthcare and a pleasant climate."
+                }
+            ],
+            "additional_benefits": [
+                {
+                    "benefit": "Networking Opportunities",
+                    "description": "Join digital nomad communities in major cities like Madrid and Barcelona."
+                },
+                {
+                    "benefit": "Public Health Insurance",
+                    "description": "Take advantage of Spain's excellent healthcare system by obtaining public health insurance."
+                }
+            ]
+        },
+        "key_consideration": "The visa can be extended up to five years, with an additional long-term visa also able to be extended once, also for a total of five years (renewal at end of year 2, for 3 more years).",
+        "best_for": [
+            "contractors",
+            "short stay nomads",
+            "long stay nomads",
+            "retirees"
+        ],
+        "action_comment": "Consider Spain for its combination of rich cultural experiences and affordable living costs.",
+        "tagline": "Work remotely in the heart of Spanish culture.",
+        "image": "spain.jpg",
+        "tax_residency_trigger": 183,
+        "tax_residency_trigger_details": "If you stay in Spain for more than 183 days in any calendar year, you become a tax resident.",
+        "country_standard_taxes": {
+            "tax_currency": "EUR",
+            "employees": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": 12450,
+                        "rate_pct": 19
+                    },
+                    {
+                        "min_income_range": 12451,
+                        "max_income_range": 20200,
+                        "rate_pct": 24
+                    },
+                    {
+                        "min_income_range": 20201,
+                        "max_income_range": 35200,
+                        "rate_pct": 30
+                    },
+                    {
+                        "min_income_range": 35201,
+                        "max_income_range": 60000,
+                        "rate_pct": 37
+                    },
+                    {
+                        "min_income_range": 60001,
+                        "max_income_range": null,
+                        "rate_pct": 45
+                    }
+                ],
+                "social_security": []
+            },
+            "contractors": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": 12450,
+                        "rate_pct": 19
+                    },
+                    {
+                        "min_income_range": 12451,
+                        "max_income_range": 20200,
+                        "rate_pct": 24
+                    },
+                    {
+                        "min_income_range": 20201,
+                        "max_income_range": 35200,
+                        "rate_pct": 30
+                    },
+                    {
+                        "min_income_range": 35201,
+                        "max_income_range": 60000,
+                        "rate_pct": 37
+                    },
+                    {
+                        "min_income_range": 60001,
+                        "max_income_range": null,
+                        "rate_pct": 45
+                    }
+                ],
+                "social_security": []
+            },
+            "retirees": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": 12450,
+                        "rate_pct": 19
+                    },
+                    {
+                        "min_income_range": 12451,
+                        "max_income_range": 20200,
+                        "rate_pct": 24
+                    },
+                    {
+                        "min_income_range": 20201,
+                        "max_income_range": 35200,
+                        "rate_pct": 30
+                    },
+                    {
+                        "min_income_range": 35201,
+                        "max_income_range": 60000,
+                        "rate_pct": 37
+                    },
+                    {
+                        "min_income_range": 60001,
+                        "max_income_range": null,
+                        "rate_pct": 45
+                    }
+                ],
+                "social_security": []
+            }
+        },
+        "visas": [
+            {
+                "visa_name": "Spain Digital Nomad Visa",
+                "nomad_visa": true,
+                "official_government_link": "https://www.migration.gov.es/en/",
+                "key_consideration": "Can be renewed for up to five years.",
+                "validity_months": 12,
+                "income_requirement": {
+                    "currency": "EUR",
+                    "monthly": 2400,
+                    "misc_details": "Income requirement increases by 75% for the first dependent and 25% for each additional dependent."
+                },
+                "application_timeline_days": 30,
+                "application_in_country": true,
+                "application_fee": {
+                    "currency": "EUR",
+                    "single": 80,
+                    "couple": 160,
+                    "family": 240,
+                    "details": "Each person must apply individually."
+                },
+                "dependent_application": true,
+                "local_tax_on_foreign_income": true,
+                "renewability": true,
+                "renewability_details": "Can be renewed for up to five years, but you must stay in Spain 6 months each year to renew.",
+                "special_tax_regime": true,
+                "special_tax_regime_details": "Most visa holders will become tax residents and are eligible to pay a special reduced tax rate of 19% on income up to \u20ac600,000 per year. Note: Spain recently ended the prior 'Non Habitual Tax Resident Program,' but is considering a new version. It is especially important to talk to a tax professional about your specific situation.",
+                "leads_to_permanent_residence": true,
+                "permanent_residency_details": "After five years of living in Spain continuously, you may be eligible to apply for permanent residence.",
+                "taxes": {
+                    "employees": {
+                        "income_tax": [],
+                        "social_security": []
+                    },
+                    "contractors": {
+                        "income_tax": [],
+                        "social_security": []
+                    },
+                    "retirees": {
+                        "income_tax": [],
+                        "social_security": []
+                    },
+                    "special_regimes": [
+                        {
+                            "name": "Spain Digital Nomad Visa",
+                            "benefit": "19% tax rate on income up to \u20ac600,000 for the first four years.",
+                            "eligibility": [
+                                "Proof of consistent income \u20ac2,400 per month for an individual, \u20ac4,200 for a family of 2, \u20ac4,800 for a family of 3, or \u20ac5,400 for a family of 4. Most of your income should not come from Spanish business relations, however up to 20% of your income can come from Spanish sources. It is recommended to limit this as much as possible.",
+                                "Have not lived in Spain for the past 5 years or lived or currently living in Spain illegally.",
+                                "Clean criminal record",
+                                "Proof of expertise in your field such as a university degree, professional certificate, or 3 years of continued work experience.",
+                                "Proof of well-established work, such as long-term freelancer contracts or one's own business."
+                            ],
+                            "contractors_with_foreign_clients_eligible": true,
+                            "contractors_with_local_clients_eligible": false,
+                            "employees_with_foreign_employer_eligible": true,
+                            "social_security": false,
+                            "income_tax": []
+                        }
+                    ]
+                },
+                "required_documents": [
+                    "Passport valid for at least one more year, with two blank passport pages",
+                    "Proof of health insurance for the duration of the stay",
+                    "Proof of consistent income above the minimum requirements, including 3 months of bank statements with proof of the income",
+                    "A clean criminal record (FBI background check for Americans)",
+                    "Completed visa application (one for each applicant)",
+                    "Passport style photos (2)",
+                    "Proof of ability to work remotely (contractor agreements, letter from employer)",
+                    "Proof that your freelancer business or employer has been in business for at least a year",
+                    "Proof of relationship to other applicants, such as marriage certificate for spouse or birth certificates for children",
+                    "Either during the application or once you are in Spain, you must obtain a national identity number (NIE) and a national fiscal number (NIF)"
+                ]
+            }
+        ]
+    }
+]

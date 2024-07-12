@@ -1,0 +1,174 @@
+{
+  "country_name": "Bermuda",
+  "country_code": "BM",
+  "capital": "Hamilton",
+  "display": true,
+  "currency": "BMD",
+  "anchor_country": true,
+  "has_nomad_visa": true,
+  "schengen_zone": false,
+  "in_european_union": false,
+  "cost_of_living_index": 133.6,
+  "cost_of_living_lvl": "$$$$$",
+  "practical_tips": {
+    "financial_benefits": [
+      {
+        "benefit": "No Income Tax",
+        "description": "Bermuda does not impose local income tax on foreign-sourced income for digital nomads."
+      },
+      {
+        "benefit": "Stable Currency",
+        "description": "The Bermudian Dollar (BMD) is pegged to the US Dollar, providing a stable financial environment."
+      }
+    ],
+    "lifestyle_benefits": [
+      {
+        "benefit": "Subtropical Climate",
+        "description": "Enjoy a subtropical climate with warm temperatures year-round."
+      },
+      {
+        "benefit": "High Quality of Life",
+        "description": "Bermuda offers a high quality of life with beautiful natural landscapes and rich cultural diversity."
+      }
+    ],
+    "additional_benefits": [
+      {
+        "benefit": "English Speaking",
+        "description": "English is the official language, making communication easy for most expatriates."
+      },
+      {
+        "benefit": "Rich Cultural Heritage",
+        "description": "The country boasts rich cultural diversity and numerous outdoor activities such as diving, exploring grottos, and hiking."
+      }
+    ]
+  },
+  "key_consideration": "The One Year Residential Certificate program allows remote workers to live and work in Bermuda for up to a year with no local tax on foreign income.",
+  "best_for": [
+    "contractors",
+    "short stay nomads",
+    "long stay nomads",
+    "retirees"
+  ],
+  "action_comment": "Consider Bermuda for its stable financial environment, beautiful landscapes, and diverse cultural attractions.",
+  "tagline": "Live and work in paradise in Bermuda.",
+  "image": "bermuda.jpg",
+  "tax_residency_trigger": 183,
+  "tax_residency_trigger_details": "You are considered a tax resident if you stay for longer than 183 days in a calendar year.",
+  "country_standard_taxes": {
+    "tax_currency": "BMD",
+    "employees": {
+      "income_tax": [],
+      "social_security": [
+        {
+          "min_income_range": 0,
+          "max_income_range": 0,
+          "rate_pct": 0,
+          "misc_details": "No social security contributions required for digital nomads."
+        }
+      ]
+    },
+    "contractors": {
+      "income_tax": [],
+      "social_security": [
+        {
+          "min_income_range": 0,
+          "max_income_range": 0,
+          "rate_pct": 0,
+          "misc_details": "No social security contributions required for digital nomads."
+        }
+      ]
+    },
+    "retirees": {
+      "income_tax": [],
+      "social_security": []
+    }
+  },
+  "visas": [
+    {
+      "visa_name": "One Year Residential Certificate",
+      "nomad_visa": true,
+      "official_government_link": "https://www.gov.bm/online-services/one-year-residential-certificate",
+      "key_consideration": "The visa can be renewed for an additional year by reapplying.",
+      "validity_months": 12,
+      "income_requirement": {
+        "currency": "USD",
+        "single_monthly": 0,
+        "family_monthly": 0,
+        "misc_details": "No specific minimum income requirement is specified, but applicants must demonstrate they have sufficient financial means to support themselves during their stay."
+      },
+      "application_timeline_days": 10,
+      "application_in_country": false,
+      "application_fee": {
+        "currency": "USD",
+        "single": 263,
+        "family": 263,
+        "details": "The application fee is $263 per person, non-refundable."
+      },
+      "dependent_application": true,
+      "local_tax_on_foreign_income": false,
+      "renewability": true,
+      "renewability_details": "The visa can be renewed for an additional year by reapplying.",
+      "days_in_country_to_renew_visa": 0,
+      "special_tax_regime": false,
+      "special_tax_regime_details": "",
+      "leads_to_permanent_residence": false,
+      "permanent_residency_details": "Digital nomad visa does not lead to permanent residency.",
+      "taxes": {
+        "employees": {
+          "income_tax": [],
+          "social_security": [
+            {
+              "min_income_range": 0,
+              "max_income_range": 0,
+              "rate_pct": 0,
+              "misc_details": "No social security contributions required for digital nomads."
+            }
+          ]
+        },
+        "contractors": {
+          "income_tax": [],
+          "social_security": [
+            {
+              "min_income_range": 0,
+              "max_income_range": 0,
+              "rate_pct": 0,
+              "misc_details": "No social security contributions required for digital nomads."
+            }
+          ]
+        },
+        "retirees": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "special_regimes": [
+          {
+            "name": "Digital Nomad Visa",
+            "benefit": "No income tax on foreign-sourced income.",
+            "eligibility": [
+              "Proof of employment or evidence of school enrollment.",
+              "Valid police clearance from the past 6 months.",
+              "Health insurance covering the duration of stay."
+            ],
+            "contractors_with_foreign_clients_eligible": true,
+            "contractors_with_local_clients_eligible": false,
+            "employees_with_foreign_employer_eligible": true,
+            "social_security": false,
+            "income_tax": false
+          }
+        ]
+      },
+      "required_documents": [
+        "Proof of employment or evidence of school enrollment.",
+        "A color scan of your passport’s photo page.",
+        "A color scan of visa information."
+      ]
+    },
+    {
+      "visa_name": "Long Term Visa",
+      "special_tax_regime": false,
+      "nomad_visa": false,
+      "type": "long term",
+      "key_consideration": "Long term visa options for stays exceeding one year."
+    }
+  ]
+}

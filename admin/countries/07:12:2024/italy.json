@@ -1,0 +1,179 @@
+{
+  "country_name": "Italy",
+  "country_code": "IT",
+  "capital": "Rome",
+  "display": true,
+  "currency": "EUR",
+  "anchor_country": false,
+  "has_nomad_visa": true,
+  "schengen_zone": true,
+  "in_european_union": true,
+  "cost_of_living_index": 54.1,
+  "cost_of_living_lvl": "$$",
+  "practical_tips": {
+    "financial_benefits": [
+      {
+        "benefit": "Affordable Living",
+        "description": "Italy offers a relatively lower cost of living compared to many other Western European countries."
+      },
+      {
+        "benefit": "Quality of Life",
+        "description": "Italy provides a high quality of life with excellent healthcare and a Mediterranean climate."
+      }
+    ],
+    "lifestyle_benefits": [
+      {
+        "benefit": "Rich Cultural Experience",
+        "description": "Italy is known for its rich cultural heritage, historical sites, and vibrant social scene."
+      },
+      {
+        "benefit": "Networking Opportunities",
+        "description": "Join digital nomad communities in major cities like Rome, Milan, and Florence."
+      }
+    ],
+    "additional_benefits": [
+      {
+        "benefit": "Public Health Insurance",
+        "description": "Take advantage of Italy's excellent healthcare system by obtaining public health insurance."
+      },
+      {
+        "benefit": "Vibrant Social Scene",
+        "description": "Enjoy Italy’s vibrant social scene and numerous leisure activities."
+      }
+    ]
+  },
+  "key_consideration": "Italy's Digital Nomad Visa allows remote workers to live and work in the country for up to one year, with the option to renew.",
+  "best_for": [
+    "contractors",
+    "short stay nomads",
+    "long stay nomads",
+    "retirees"
+  ],
+  "action_comment": "Consider Italy for its combination of rich cultural experiences and quality living.",
+  "tagline": "Work remotely in the heart of Mediterranean culture.",
+  "image": "italy.jpg",
+  "tax_residency_trigger": 183,
+  "tax_residency_trigger_details": "You are considered a tax resident if you stay for longer than 183 days in a calendar year, subject to local income tax rates.",
+  "country_standard_taxes": {
+    "tax_currency": "EUR",
+    "employees": {
+      "income_tax": [
+        { "income_min": 0, "income_max": 15000, "rate": 23 },
+        { "income_min": 15001, "income_max": 28000, "rate": 27 },
+        { "income_min": 28001, "income_max": 55000, "rate": 38 },
+        { "income_min": 55001, "income_max": 75000, "rate": 41 },
+        { "income_min": 75001, "income_max": null, "rate": 43 }
+      ],
+      "social_security": [
+        {
+          "min_income_range": 0,
+          "max_income_range": null,
+          "rate_pct": 9.19,
+          "misc_details": "Standard rate for employees."
+        }
+      ]
+    },
+    "contractors": {
+      "income_tax": [
+        { "income_min": 0, "income_max": 15000, "rate": 23 },
+        { "income_min": 15001, "income_max": 28000, "rate": 27 },
+        { "income_min": 28001, "income_max": 55000, "rate": 38 },
+        { "income_min": 55001, "income_max": 75000, "rate": 41 },
+        { "income_min": 75001, "income_max": null, "rate": 43 }
+      ],
+      "social_security": [
+        {
+          "min_income_range": 0,
+          "max_income_range": null,
+          "rate_pct": 25.72,
+          "misc_details": "Standard rate for self-employed individuals."
+        }
+      ]
+    },
+    "retirees": {
+      "income_tax": [
+        { "income_min": 0, "income_max": 15000, "rate": 23 },
+        { "income_min": 15001, "income_max": 28000, "rate": 27 },
+        { "income_min": 28001, "income_max": 55000, "rate": 38 },
+        { "income_min": 55001, "income_max": 75000, "rate": 41 },
+        { "income_min": 75001, "income_max": null, "rate": 43 }
+      ],
+      "social_security": []
+    }
+  },
+  "visas": [
+    {
+      "visa_name": "Italy Digital Nomad Visa",
+      "nomad_visa": true,
+      "official_government_link": "https://www.esteri.it/mae/en/servizi/stranieri/ingressosoggiornoinitalia/visto_d_ingresso/",
+      "key_consideration": "The visa can be extended up to one year, with the option to renew.",
+      "validity_months": 12,
+      "income_requirement": {
+        "currency": "EUR",
+        "monthly": 3000,
+        "misc_details": "Applicants must show proof of income meeting the minimum threshold of €3,000 per month. Income requirement increases by 20% for a spouse and by 10% for each child."
+      },
+      "application_timeline_days": 60,
+      "application_in_country": true,
+      "application_fee": {
+        "currency": "EUR",
+        "single": 116,
+        "couple": null,
+        "family": null,
+        "details": "Each person must apply individually."
+      },
+      "dependent_application": true,
+      "local_tax_on_foreign_income": true,
+      "renewability": true,
+      "renewability_details": "The visa can be extended for up to one year, with the option to renew.",
+      "special_tax_regime": false,
+      "special_tax_regime_details": "No special tax regimes are specified for digital nomads; taxation is based on residency status.",
+      "leads_to_permanent_residence": false,
+      "permanent_residency_details": "The digital nomad visa does not provide a path to permanent residency.",
+      "taxes": {
+        "employees": {
+          "income_tax": [],
+          "social_security": [
+            {
+              "min_income_range": 0,
+              "max_income_range": null,
+              "rate_pct": 0,
+              "misc_details": "No exemption from local income tax for the first 183 days unless tax resident status is obtained. After 183 days, regular tax rates apply."
+            }
+          ]
+        },
+        "contractors": {
+          "income_tax": [],
+          "social_security": [
+            {
+              "min_income_range": 0,
+              "max_income_range": null,
+              "rate_pct": 0,
+              "misc_details": "No exemption from local income tax for the first 183 days unless tax resident status is obtained. After 183 days, regular tax rates apply."
+            }
+          ]
+        },
+        "retirees": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "special_regimes": []
+      },
+      "required_documents": [
+        "A completed visa application form. This may vary based on the consulate. Applications must be submnitted to your local Italian consulate that is assigned to where you live.",
+        "A letter explaining the visa request. It should include information about yourself, reasons for the visa request, any relevant personal ties to Italy, where you will be living and how you will be financially independent while in Italy.",
+        "Passport valid for at least 6 months after the stay.",
+        "Two passport style photos.",
+        "Proof of regular income meeting the minimum requirements, including 3 months of bank statements with proof of the income.",
+        "Proof of accommodation in Italy.",
+        "A clean criminal background check.",
+        "Proof of health insurance in Italy.",
+        "Proof of payment of visa fee.",
+        "Proof of accommodation for your stay.",
+        "Obtain an Italian fiscal code (Codice Fiscale). While the fiscal code is not required, it is in many cases a prerequiste item needed to fulfill other of the required tasks.",
+        "Most recent tax return.",
+        "Valid employment agreement or contractor agreements with non-Italian clients."
+      ]
+    }
+  ]
+}

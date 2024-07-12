@@ -1,0 +1,265 @@
+{
+    "country_name": "Spain",
+    "country_code": "ES",
+    "capital": "Madrid",
+    "display": true,
+    "currency": "EUR",
+    "anchor_country": false,
+    "has_nomad_visa": true,
+    "schengen_zone": true,
+    "in_european_union": true,
+    "cost_of_living_index": 48.4,
+    "cost_of_living_lvl": "$$",
+    "practical_tips": {
+      "financial_benefits": [
+        {
+          "benefit": "Special Tax Rate",
+          "description": "Eligible digital nomads can benefit from a 19% tax rate on Spanish income up to €600,000 per year."
+        },
+        {
+          "benefit": "Affordable Living",
+          "description": "Spain offers a lower cost of living compared to many Western European countries."
+        }
+      ],
+      "lifestyle_benefits": [
+        {
+          "benefit": "Rich Cultural Experience",
+          "description": "Spain offers a rich cultural experience with numerous historical sites and vibrant social scenes."
+        },
+        {
+          "benefit": "Quality of Life",
+          "description": "Spain provides a high quality of life with excellent healthcare and a pleasant climate."
+        }
+      ],
+      "additional_benefits": [
+        {
+          "benefit": "Networking Opportunities",
+          "description": "Join digital nomad communities in major cities like Madrid and Barcelona."
+        },
+        {
+          "benefit": "Public Health Insurance",
+          "description": "Take advantage of Spain's excellent healthcare system by obtaining public health insurance."
+        }
+      ]
+    },
+    "key_consideration": "The visa can be extended up to five years, with an additional long-term visa also able to be extended once, also for a total of five years (renewal at end of year 2, for 3 more years).",
+    "best_for": [
+      "contractors",
+      "short stay nomads",
+      "long stay nomads",
+      "retirees"
+    ],
+    "action_comment": "Consider Spain for its combination of rich cultural experiences and affordable living costs.",
+    "tagline": "Work remotely in the heart of Spanish culture.",
+    "image": "spain.jpg",
+    "tax_residency_trigger": 183,
+    "tax_residency_trigger_details": "If you stay in Spain for more than 183 days in any calendar year, you become a tax resident.",
+    "country_standard_taxes": {
+      "tax_currency": "EUR",
+      "employees": {
+        "income_tax": [
+          {
+            "min_income_range": 0,
+            "max_income_range": 12450,
+            "rate_pct": 19
+          },
+          {
+            "min_income_range": 12451,
+            "max_income_range": 20200,
+            "rate_pct": 24
+          },
+          {
+            "min_income_range": 20201,
+            "max_income_range": 35200,
+            "rate_pct": 30
+          },
+          {
+            "min_income_range": 35201,
+            "max_income_range": 60000,
+            "rate_pct": 37
+          },
+          {
+            "min_income_range": 60001,
+            "max_income_range": null,
+            "rate_pct": 45
+          }
+        ],
+        "social_security": [
+          {
+            "min_income_range": 0,
+            "max_income_range": 56646,
+            "rate_pct": 6.35,
+            "misc_details": "Standard rate for employees."
+          }
+        ]
+      },
+      "contractors": {
+        "income_tax": [
+          {
+            "min_income_range": 0,
+            "max_income_range": 12450,
+            "rate_pct": 19
+          },
+          {
+            "min_income_range": 12451,
+            "max_income_range": 20200,
+            "rate_pct": 24
+          },
+          {
+            "min_income_range": 20201,
+            "max_income_range": 35200,
+            "rate_pct": 30
+          },
+          {
+            "min_income_range": 35201,
+            "max_income_range": 60000,
+            "rate_pct": 37
+          },
+          {
+            "min_income_range": 60001,
+            "max_income_range": null,
+            "rate_pct": 45
+          }
+        ],
+        "social_security": [
+          {
+            "min_income_range": 0,
+            "max_income_range": 56646,
+            "rate_pct": 30.6,
+            "misc_details": "Standard rate for self-employed individuals."
+          }
+        ]
+      },
+      "retirees": {
+        "income_tax": [
+          {
+            "min_income_range": 0,
+            "max_income_range": 12450,
+            "rate_pct": 19
+          },
+          {
+            "min_income_range": 12451,
+            "max_income_range": 20200,
+            "rate_pct": 24
+          },
+          {
+            "min_income_range": 20201,
+            "max_income_range": 35200,
+            "rate_pct": 30
+          },
+          {
+            "min_income_range": 35201,
+            "max_income_range": 60000,
+            "rate_pct": 37
+          },
+          {
+            "min_income_range": 60001,
+            "max_income_range": null,
+            "rate_pct": 45
+          }
+        ],
+        "social_security": []
+      }
+    },
+    "visas": [
+      {
+        "visa_name": "Spain Digital Nomad Visa",
+        "nomad_visa": true,
+        "official_government_link": "https://www.migration.gov.es/en/",
+        "key_consideration": "Can be renewed for up to five years.",
+        "validity_months": 12,
+        "income_requirement": {
+          "currency": "EUR",
+          "monthly": 2400,
+          "misc_details": "Income requirement increases by 75% for the first dependent and 25% for each additional dependent."
+        },
+        "application_timeline_days": 30,
+        "application_in_country": true,
+        "application_fee": {
+          "currency": "EUR",
+          "single": 80,
+          "couple": 160,
+          "family": 240,
+          "details": "Each person must apply individually."
+        },
+        "dependent_application": true,
+        "local_tax_on_foreign_income": true,
+        "renewability": true,
+        "renewability_details": "Can be renewed for up to five years, but you must stay in Spain 6 months each year to renew.",
+        "special_tax_regime": true,
+        "special_tax_regime_details": "Most visa holders will become tax residents and are eligible to pay a special reduced tax rate of 19% on income up to €600,000 per year. Note: Spain recently ended the prior 'Non Habitual Tax Resident Program,' but is considering a new version. It is especially important to talk to a tax professional about your specific situation.",
+        "leads_to_permanent_residence": true,
+        "permanent_residency_details": "After five years of living in Spain continuously, you may be eligible to apply for permanent residence.",
+        "taxes": {
+          "employees": {
+            "income_tax": [],
+            "social_security": [
+              {
+                "min_income_range": 0,
+                "max_income_range": null,
+                "rate_pct": 0,
+                "misc_details": "No exemption from local income tax for the first 183 days unless tax resident status is obtained. After 183 days, regular tax rates apply."
+              }
+            ]
+          },
+          "contractors": {
+            "income_tax": [],
+            "social_security": [
+              {
+                "min_income_range": 0,
+                "max_income_range": null,
+                "rate_pct": 0,
+                "misc_details": "No exemption from local income tax for the first 183 days unless tax resident status is obtained. After 183 days, regular tax rates apply."
+              }
+            ]
+          },
+          "retirees": {
+            "income_tax": [],
+            "social_security": []
+          },
+          "special_regimes": [
+            {
+              "name": "Spain Digital Nomad Visa",
+              "benefit": "19% tax rate on income up to €600,000 for the first four years.",
+              "eligibility": [
+                "Proof of consistent income €2,400 per month for an individual, €4,200 for a family of 2, €4,800 for a family of 3, or €5,400 for a family of 4. Most of your income should not come from Spanish business relations, however up to 20% of your income can come from Spanish sources. It is recommended to limit this as much as possible.",
+                "Have not lived in Spain for the past 5 years or lived or currently living in Spain illegally.",
+                "Clean criminal record.",
+                "Proof of expertise in your field such as a university degree, professional certificate, or 3 years of continued work experience.",
+                "Proof of well-established work, such as long-term freelancer contracts or one's own business."
+              ],
+              "contractors_with_foreign_clients_eligible": true,
+              "contractors_with_local_clients_eligible": false,
+              "employees_with_foreign_employer_eligible": true,
+              "social_security": false,
+              "income_tax": [
+                {
+                  "min_income_range": 0,
+                  "max_income_range": 600000,
+                  "rate_pct": 19
+                },
+                {
+                  "min_income_range": 600001,
+                  "max_income_range": null,
+                  "rate_pct": 47
+                }
+              ]
+            }
+          ]
+        },
+        "required_documents": [
+          "Passport valid for at least one more year, with two blank passport pages.",
+          "Proof of health insurance for the duration of the stay.",
+          "Proof of consistent income above the minimum requirements. This should be well-established work with proof of continued income (such as through long-term contracts and bank statements).",
+          "A clean criminal record (FBI background check for Americans).",
+          "Completed visa application (one for each applicant).",
+          "Passport style photos (2).",
+          "Proof of ability to work remotely (contractor agreements, letter from employer).",
+          "Proof that your freelancer business or employer has been in business for at least a year.",
+          "Proof of relationship to other applicants, such as marriage certificate for spouse or birth certificates for children.",
+          "Either during the application or once you are in Spain, you must obtain a national identity number (NIE) and a national fiscal number (NIF)."
+        ]
+      }
+    ]
+  }
+  
